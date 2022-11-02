@@ -18,7 +18,7 @@
 
 ##一、赛前准备
 下好个人镜像
-![输入图片说明](/imgs/2022-11-02/pRFC72ZuqrE6YXSV.png)
+![输入图片说明](/imgs/2022-11-02/pRFC72ZuqrE6YXSV.png)![输入图片说明](https://github.com/Snowman12137/-wp)
 image_updated
 
 
@@ -30,5 +30,5 @@ image_updated
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgzODk4NjksNzYxNjE0NTgzXX0=
+eyJoaXN0b3J5IjpbMTAyMDE0NDAxOCw3NjE2MTQ1ODNdfQ==
 -->
