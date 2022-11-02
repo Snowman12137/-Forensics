@@ -18,7 +18,7 @@
 
 ##一、赛前准备
 下好个人镜像
-
+![输入图片说明](/imgs/2022-11-02/KaxnGGUJeJpAhors.png)
 image_updated
 
 
@@ -30,5 +30,5 @@ image_updated
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Njk1OTExODddfQ==
+eyJoaXN0b3J5IjpbNzYxNjE0NTgzXX0=
 -->
