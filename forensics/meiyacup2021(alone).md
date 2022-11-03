@@ -110,17 +110,18 @@ C. Free Wifi
 D. Kaiser Home
 >![输入图片说明](/imgs/2022-11-03/yhsJPEvL6nm1bLiY.png)
 
->7. [多选题] 工地主管与Alex Chan的Whatsapp 对话中，曾提及以下哪个TeamViewer的用户号码? (3分)
+>7. [多选题] 工地主管与Alex Chan的Whatsapp 对话中，曾提及以下哪个TeamViewer的用户号码? (3分)**ACE**
 A. 435334881
 B. 453851521
 C. 435475200
 D. 456874155
 E. 435270306
 
+》![输入图片说明](/imgs/2022-11-03/NLnKhBiX3gLy0ruG.png)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM1MTMzNDY3LC0xNjEyODIzNTMzLDE4Nj
-cyMjE3ODcsLTE0ODQ4ODcyNTEsMTg5NTA1MjE5OSwxMDIwMTQ0
-MDE4LDc2MTYxNDU4M119
+eyJoaXN0b3J5IjpbMTI3MTc4OTE3OCw0MzUxMzM0NjcsLTE2MT
+I4MjM1MzMsMTg2NzIyMTc4NywtMTQ4NDg4NzI1MSwxODk1MDUy
+MTk5LDEwMjAxNDQwMTgsNzYxNjE0NTgzXX0=
 -->
