@@ -241,18 +241,23 @@ D. 10:40
 E. 10:42
 >26. [填空题] 路由器的记录中显示有多少电子器材有可能曾被入侵? (请以阿拉伯数字作答) (2分)
 
->20. [多选题] 路由器的记录中显示以下有哪些IP是公司的电子器材? (3分)
+>20. [多选题] 路由器的记录中显示以下有哪些IP是公司的电子器材? (3分)**ABCD**
 A. 192.168.40.128
 B. 192.168.40.129
 C. 192.168.40.130
 D. 192.168.40.131
 E. 192.168.40.132
 ![输入图片说明](/imgs/2022-11-03/paAwJZSi2zSVtyZH.png)
+![输入图片说明](/imgs/2022-11-03/QToqb45YB6cHbYGd.png)
+![输入图片说明](/imgs/2022-11-03/QcHk3Ct1cyAcW1Ul.png)
+![输入图片说明](/imgs/2022-11-03/SmswdoHbJSE6DstO.png)
+![输入图片说明](/imgs/2022-11-03/dIY33m7kFWlZ7ZxW.png)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjYwNDI5MzYsLTEyODMwOTg4ODQsMT
-Q5NzMxMTMzMywtMTYxNTc0MTc5MiwxMzIzNTkyOTQxLDQwNTg4
-ODk5MywxMjQ5MTY0MDU1LDQzNTEzMzQ2NywtMTYxMjgyMzUzMy
-wxODY3MjIxNzg3LC0xNDg0ODg3MjUxLDE4OTUwNTIxOTksMTAy
-MDE0NDAxOCw3NjE2MTQ1ODNdfQ==
+eyJoaXN0b3J5IjpbLTk5OTYyNDE2LC0xMjgzMDk4ODg0LDE0OT
+czMTEzMzMsLTE2MTU3NDE3OTIsMTMyMzU5Mjk0MSw0MDU4ODg5
+OTMsMTI0OTE2NDA1NSw0MzUxMzM0NjcsLTE2MTI4MjM1MzMsMT
+g2NzIyMTc4NywtMTQ4NDg4NzI1MSwxODk1MDUyMTk5LDEwMjAx
+NDQwMTgsNzYxNjE0NTgzXX0=
 -->
