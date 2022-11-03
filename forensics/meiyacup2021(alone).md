@@ -195,10 +195,12 @@ E. hkgolden
 >![输入图片说明](/imgs/2022-11-03/wXDBa9SEpNAuJUnK.png)
 
 >16. [填空题] 工地主管曾用计算机使用WhatsApp，他曾和以下哪个电话号码沟通? (请以阿拉伯数字回答) (2分)
+>？？？取证大师里也没WhatsApp，估计是要开镜像
 >
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NzMxMTMzMywtMTYxNTc0MTc5MiwxMz
-IzNTkyOTQxLDQwNTg4ODk5MywxMjQ5MTY0MDU1LDQzNTEzMzQ2
-NywtMTYxMjgyMzUzMywxODY3MjIxNzg3LC0xNDg0ODg3MjUxLD
-E4OTUwNTIxOTksMTAyMDE0NDAxOCw3NjE2MTQ1ODNdfQ==
+eyJoaXN0b3J5IjpbLTEyODMwOTg4ODQsMTQ5NzMxMTMzMywtMT
+YxNTc0MTc5MiwxMzIzNTkyOTQxLDQwNTg4ODk5MywxMjQ5MTY0
+MDU1LDQzNTEzMzQ2NywtMTYxMjgyMzUzMywxODY3MjIxNzg3LC
+0xNDg0ODg3MjUxLDE4OTUwNTIxOTksMTAyMDE0NDAxOCw3NjE2
+MTQ1ODNdfQ==
 -->
