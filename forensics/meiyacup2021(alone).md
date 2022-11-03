@@ -222,7 +222,7 @@ D. 以上皆否
 
 
 ## 20-26题(15分)
-路由器->
+路由器->Router Log
 >20. [多选题] 路由器的记录中显示以下有哪些IP是公司的电子器材? (3分)
 A. 192.168.40.128
 B. 192.168.40.129
@@ -241,9 +241,16 @@ D. 10:40
 E. 10:42
 >26. [填空题] 路由器的记录中显示有多少电子器材有可能曾被入侵? (请以阿拉伯数字作答) (2分)
 
+>20. [多选题] 路由器的记录中显示以下有哪些IP是公司的电子器材? (3分)
+A. 192.168.40.128
+B. 192.168.40.129
+C. 192.168.40.130
+D. 192.168.40.131
+E. 192.168.40.132
+![输入图片说明](/imgs/2022-11-03/paAwJZSi2zSVtyZH.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTQ1Njc1MzksLTEyODMwOTg4ODQsMT
+eyJoaXN0b3J5IjpbLTE3MjYwNDI5MzYsLTEyODMwOTg4ODQsMT
 Q5NzMxMTMzMywtMTYxNTc0MTc5MiwxMzIzNTkyOTQxLDQwNTg4
 ODk5MywxMjQ5MTY0MDU1LDQzNTEzMzQ2NywtMTYxMjgyMzUzMy
 wxODY3MjIxNzg3LC0xNDg0ODg3MjUxLDE4OTUwNTIxOTksMTAy
