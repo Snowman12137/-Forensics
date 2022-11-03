@@ -47,10 +47,26 @@ B. IMEI 为 454120637213361
 C. Apple ID 为 kaiserlee3660@gmail.com
 D. 手机曾经安装dropbox 应用程序
 >5. [填空题] 工地主管的电话最常使用的浏览器是什么? (请以英文全大写回答) (1分)
->
+>6. [单选题] 工地主管的电话连接过哪一个WiFi? (1分)
+A. Kaiser Lee
+B. Kaiser
+C. Free Wifi
+D. Kaiser Home
+>7. [多选题] 工地主管与Alex Chan的Whatsapp 对话中，曾提及以下哪个TeamViewer的用户号码? (3分)
+A. 435334881
+B. 453851521
+C. 435475200
+D. 456874155
+E. 435270306
+>8. [填空题] 工地主管的WhatsApp中有多少个黑名单的记录? (请以阿拉伯数字回答) (2分)
+>9. [多选题] 以下哪个蓝牙装置的Uuid 曾连接过工地主管的手机? (2分)
+A. 7F1FE70D-2B15-C245-853D-4196F13CC446
+B. 1B057C1D-83D3-99A6-D2B1-EC54846C7CEE
+C. 134ACD1-83D3-99A6-D2B1-EC54846C7CEE
+D. 7D1BE70D-2C16-D246-851D-491613DD776
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDI1MDM4NTUsLTE0ODQ4ODcyNTEsMT
-g5NTA1MjE5OSwxMDIwMTQ0MDE4LDc2MTYxNDU4M119
+eyJoaXN0b3J5IjpbMjAxMTM4MDUzNSwtMTQ4NDg4NzI1MSwxOD
+k1MDUyMTk5LDEwMjAxNDQwMTgsNzYxNjE0NTgzXX0=
 -->
