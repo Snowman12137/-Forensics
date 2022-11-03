@@ -30,7 +30,7 @@ image_updated在后面会用到
 开始做题
 
 ## 1-9题
-1-9题关键字，工地主管，电话，手机等关键字可以分析出我们要用的是image-VTM-
+1-9题关键字，工地主管，电话，手机等关键字可以分析出我们要用的是image-VTM-VTM_iphone6
 >1. [单选题] 工地主管电话的微信账号是什么? (1分)
 A. Kasier751111
 B. Kasierlee751111
@@ -66,8 +66,10 @@ B. 1B057C1D-83D3-99A6-D2B1-EC54846C7CEE
 C. 134ACD1-83D3-99A6-D2B1-EC54846C7CEE
 D. 7D1BE70D-2C16-D246-851D-491613DD776
 
-
+解压以后得到三个文件
+![输入图片说明](/imgs/2022-11-03/p0RlE1hya2BwADgc.png)
+z
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzE1NTE5ODQsLTE0ODQ4ODcyNTEsMT
-g5NTA1MjE5OSwxMDIwMTQ0MDE4LDc2MTYxNDU4M119
+eyJoaXN0b3J5IjpbMTA0NDYwNTYzMywtMTQ4NDg4NzI1MSwxOD
+k1MDUyMTk5LDEwMjAxNDQwMTgsNzYxNjE0NTgzXX0=
 -->
