@@ -70,8 +70,14 @@ D. 7D1BE70D-2C16-D246-851D-491613DD776
 ![输入图片说明](/imgs/2022-11-03/p0RlE1hya2BwADgc.png)
 这个.exe文件貌似是一个阅读器，并且.ufdr后缀的文件就是这个阅读器打开文件的格式，打开，在tool-setting里面可以设置语言
 ![输入图片说明](/imgs/2022-11-03/qJRFYVPaJJnOT4VZ.png)
-daka
+打开以后发发现这个页面
+>1. [单选题] 工地主管电话的微信账号是什么? (1分)
+A. Kasier751111
+B. Kasierlee751111
+C. Kasierlee
+D. 以上皆非
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwODMwMzM5NCwtMTQ4NDg4NzI1MSwxOD
+eyJoaXN0b3J5IjpbLTk2MDYwOTM4OSwtMTQ4NDg4NzI1MSwxOD
 k1MDUyMTk5LDEwMjAxNDQwMTgsNzYxNjE0NTgzXX0=
 -->
