@@ -333,6 +333,9 @@ B. 2021 年 10 月 21 日 08:58:01（多选题？？有毒？）
 C. 2021 年 10 月 21 日 00:58:29
 D. 2021 年 10 月 21 日 08:58:29
 
+
+
+
 >27. [多选题] 阿力士iPhone 12 pro电话 于2021年10月21日，以下哪一张相片可能曾被分享 (UTC+8)? (3分)**B**
 A. IMG_0011.HEIC
 B. IMG_0010.HEIC
@@ -349,8 +352,9 @@ D. IMG_0008.HEIC
 图库里面都有两张照片，对比照片的时间，发现只有0011的时间不一样，大佬的解释是：**原理是**正是因为这张照片可能被分享，分享的时候未通过原图发送，所以没有了元数据，然后手机机主又重新保存了自己发出去的照片，时间这些就发生了变化。
 ![输入图片说明](/imgs/2022-11-03/mklZTCNFFM4eczCT.png)
 
+>29. [填空题] 阿力士iPhone 12 pro 的GSM媒体访问控制地址是什么? (请以英文全大写及阿拉伯数字回答，不用输入":") (2分)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTE3NzUwNiwxNTQ4ODYwMTUyLDM1ND
+eyJoaXN0b3J5IjpbMTMzNzkyNzQxNywxNTQ4ODYwMTUyLDM1ND
 Y2MzgzNCwxMzE1MzIxMDExLDExMTM2Mzg3NjIsLTE2NzM0NDky
 OTMsLTEyODMwOTg4ODQsMTQ5NzMxMTMzMywtMTYxNTc0MTc5Mi
 wxMzIzNTkyOTQxLDQwNTg4ODk5MywxMjQ5MTY0MDU1LDQzNTEz
