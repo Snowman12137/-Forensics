@@ -254,11 +254,17 @@ E. 192.168.40.132
 ![输入图片说明](/imgs/2022-11-03/dIY33m7kFWlZ7ZxW.png)
 
 >21. [填空题] 路由器的记录中显示公司的计算机下载了FTP软件，该下载网站的IP是什麼?(请以亚拉伯数字作答，省去“.”符号) (3分)
+>49.12.121.47
 >直接搜搜不到，想起上一大题有个FileZilla的下载软件，一搜果然出来了
+>![输入图片说明](/imgs/2022-11-03/7xsFFpe98ya1vv9e.png)
+
+>22. [多选题] 路由器的记录中显示公司计算机的资料用FTP软件传到了甚么IP地址及利用端口? (2分)
+>（PS选项呢？？？）
+>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2Mjc1MDU5NSwtMTI4MzA5ODg4NCwxND
-k3MzExMzMzLC0xNjE1NzQxNzkyLDEzMjM1OTI5NDEsNDA1ODg4
-OTkzLDEyNDkxNjQwNTUsNDM1MTMzNDY3LC0xNjEyODIzNTMzLD
-E4NjcyMjE3ODcsLTE0ODQ4ODcyNTEsMTg5NTA1MjE5OSwxMDIw
-MTQ0MDE4LDc2MTYxNDU4M119
+eyJoaXN0b3J5IjpbMTM2NzY1MDQzLC0xMjgzMDk4ODg0LDE0OT
+czMTEzMzMsLTE2MTU3NDE3OTIsMTMyMzU5Mjk0MSw0MDU4ODg5
+OTMsMTI0OTE2NDA1NSw0MzUxMzM0NjcsLTE2MTI4MjM1MzMsMT
+g2NzIyMTc4NywtMTQ4NDg4NzI1MSwxODk1MDUyMTk5LDEwMjAx
+NDQwMTgsNzYxNjE0NTgzXX0=
 -->
