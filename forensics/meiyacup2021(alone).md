@@ -353,8 +353,12 @@ D. IMG_0008.HEIC
 ![输入图片说明](/imgs/2022-11-03/mklZTCNFFM4eczCT.png)
 
 >29. [填空题] 阿力士iPhone 12 pro 的GSM媒体访问控制地址是什么? (请以英文全大写及阿拉伯数字回答，不用输入":") (2分)
+>什么叫GSM媒体访问控制地址？
+>![输入图片说明](/imgs/2022-11-03/7iDkzNAwVfoSZLDX.png)
+>GOOD
+>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNzkyNzQxNywxNTQ4ODYwMTUyLDM1ND
+eyJoaXN0b3J5IjpbMTg0OTUxNTM5NywxNTQ4ODYwMTUyLDM1ND
 Y2MzgzNCwxMzE1MzIxMDExLDExMTM2Mzg3NjIsLTE2NzM0NDky
 OTMsLTEyODMwOTg4ODQsMTQ5NzMxMTMzMywtMTYxNTc0MTc5Mi
 wxMzIzNTkyOTQxLDQwNTg4ODk5MywxMjQ5MTY0MDU1LDQzNTEz
