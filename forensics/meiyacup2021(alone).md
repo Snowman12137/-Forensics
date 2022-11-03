@@ -84,21 +84,23 @@ D. 以上皆非
 >最后在这里找到了一个叫AirDrop ID 的设备![输入图片说明](/imgs/2022-11-03/2rKck55V2XmD2Qaj.png)
 >PS(这叫隔空投送装置？？？emmmm也合理)![输入图片说明](/imgs/2022-11-03/0ja2XfEhIzEMCqpS.png)
 
->3. [单选题] 工地主管电话的哪一个应用程序有关于于经纬度24.490474, 118.110220的纪录? (2分)
+>3. [单选题] 工地主管电话的哪一个应用程序有关于于经纬度24.490474, 118.110220的纪录? (2分)**C**
 A. 照片
 B. WhatsApp
 C. Apple Maps
 D. 以上皆非
 找了下WhatsApp没有位置记录，直接搜索了下map找到了记录
 ![输入图片说明](/imgs/2022-11-03/HxMeSoVNWnG1GWNs.png)
->4. [多选题] 工地主管的手提电话中下列哪些数据正确? (1分)A
+>4. [多选题] 工地主管的手提电话中下列哪些数据正确? (1分)**A**
 A. iOS 版本为 12.5.4
 B. IMEI 为 454120637213361
 C. Apple ID 为 kaiserlee3660@gmail.com
 D. 手机曾经安装dropbox 应用程序
+A:![输入图片说明](/imgs/2022-11-03/8HgeIj1ovcDOfdTO.png)
+B:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NTk5NDgzOCwtMTYxMjgyMzUzMywxOD
+eyJoaXN0b3J5IjpbMTU0NTE5NjkxNCwtMTYxMjgyMzUzMywxOD
 Y3MjIxNzg3LC0xNDg0ODg3MjUxLDE4OTUwNTIxOTksMTAyMDE0
 NDAxOCw3NjE2MTQ1ODNdfQ==
 -->
