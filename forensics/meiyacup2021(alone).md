@@ -29,7 +29,7 @@ image_updated在后面会用到
 
 开始做题
 
-## 1-9题
+## 1-9题（14分）
 1-9题关键字，工地主管，电话，手机等关键字可以分析出我们要用的是image-VTM-VTM_iphone6
 >1. [单选题] 工地主管电话的微信账号是什么? (1分)
 A. Kasier751111
@@ -133,7 +133,7 @@ D. 7D1BE70D-2C16-D246-851D-491613DD776
 发现答案
 ![输入图片说明](/imgs/2022-11-03/ETWLfqhYfHT6JAwE.png)
 
-## 10-19题
+## 10-19题（20分）
 关键字：工地主管，计算机，ftp,座椅我们用到的检材是VTM-computer，FTP.E01，取证大师打开两个镜像
 >10[填空题] 工地主管计算机的E盘的Bitlocker修复密钥标识符是甚么? (请以英文全大写及阿拉伯数字回答，不用输入"-") (1分)
 >11. [填空题] 工地主管计算机內的FTP程序FileZilla的用户名称是甚么? (请以英文全大写及阿拉伯数字回答) (3分)
@@ -195,9 +195,10 @@ E. hkgolden
 >![输入图片说明](/imgs/2022-11-03/wXDBa9SEpNAuJUnK.png)
 
 >16. [填空题] 工地主管曾用计算机使用WhatsApp，他曾和以下哪个电话号码沟通? (请以阿拉伯数字回答) (2分)
+>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTU3NDE3OTIsMTMyMzU5Mjk0MSw0MD
-U4ODg5OTMsMTI0OTE2NDA1NSw0MzUxMzM0NjcsLTE2MTI4MjM1
-MzMsMTg2NzIyMTc4NywtMTQ4NDg4NzI1MSwxODk1MDUyMTk5LD
-EwMjAxNDQwMTgsNzYxNjE0NTgzXX0=
+eyJoaXN0b3J5IjpbMTQ5NzMxMTMzMywtMTYxNTc0MTc5MiwxMz
+IzNTkyOTQxLDQwNTg4ODk5MywxMjQ5MTY0MDU1LDQzNTEzMzQ2
+NywtMTYxMjgyMzUzMywxODY3MjIxNzg3LC0xNDg0ODg3MjUxLD
+E4OTUwNTIxOTksMTAyMDE0NDAxOCw3NjE2MTQ1ODNdfQ==
 -->
