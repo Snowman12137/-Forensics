@@ -120,9 +120,10 @@ E. 435270306
 ![输入图片说明](/imgs/2022-11-03/NLnKhBiX3gLy0ruG.png)
 
 >8. [填空题] 工地主管的WhatsApp中有多少个黑名单的记录? (请以阿拉伯数字回答) (2分)
->
+>![输入图片说明](/imgs/2022-11-03/9X15iLdLI2HZW5xy.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0OTE2NDA1NSw0MzUxMzM0NjcsLTE2MT
-I4MjM1MzMsMTg2NzIyMTc4NywtMTQ4NDg4NzI1MSwxODk1MDUy
-MTk5LDEwMjAxNDQwMTgsNzYxNjE0NTgzXX0=
+eyJoaXN0b3J5IjpbLTE1OTUyNDQzMzEsMTI0OTE2NDA1NSw0Mz
+UxMzM0NjcsLTE2MTI4MjM1MzMsMTg2NzIyMTc4NywtMTQ4NDg4
+NzI1MSwxODk1MDUyMTk5LDEwMjAxNDQwMTgsNzYxNjE0NTgzXX
+0=
 -->
