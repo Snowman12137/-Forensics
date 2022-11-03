@@ -79,8 +79,8 @@ D. 以上皆非
 我们在这里面找到了一个较为WhatsApp的用户，在网上搜索以后发现是香港用的微信，所以选**C**
 ![输入图片说明](/imgs/2022-11-03/U9E7DnXnCLICcklq.png)
 
->
+>2. [填空题] 工地主管的隔空投送装置编号是什么? (请以英文全大写及阿拉伯数字回答) (1分)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIzMzY3Mzc4LC0xNDg0ODg3MjUxLDE4OT
-UwNTIxOTksMTAyMDE0NDAxOCw3NjE2MTQ1ODNdfQ==
+eyJoaXN0b3J5IjpbMTg2NzIyMTc4NywtMTQ4NDg4NzI1MSwxOD
+k1MDUyMTk5LDEwMjAxNDQwMTgsNzYxNjE0NTgzXX0=
 -->
