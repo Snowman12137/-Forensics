@@ -22,7 +22,7 @@
 image_updated在后面会用到
 
 
-得到关系图镜像文件关系如下图所示（不得不说美亚杯的材料真实性实在是太棒了）
+阅读文档得到关系图，镜像文件关系如下图所示（不得不说美亚杯的材料真实性实在是太棒了）
 ![输入图片说明](/imgs/2022-11-03/Qu9yP4xGBMMeip9g.jpeg)
 
 
@@ -32,6 +32,6 @@ image_updated在后面会用到
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczODEyNjE3MiwxODk1MDUyMTk5LDEwMj
+eyJoaXN0b3J5IjpbMTM4NzQ2Mzc5OCwxODk1MDUyMTk5LDEwMj
 AxNDQwMTgsNzYxNjE0NTgzXX0=
 -->
