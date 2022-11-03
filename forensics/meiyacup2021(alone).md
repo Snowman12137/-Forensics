@@ -171,9 +171,13 @@ D. 以上皆否
 >![输入图片说明](/imgs/2022-11-03/IsbkQjtvCP38ck28.png)
 
 >12. [填空题] 工地主管的Team Viewer ID 是甚么? (请以英文全大写及阿拉伯数字回答) (2分)
+>420190768
+>![输入图片说明](/imgs/2022-11-03/8vj0pJTPTQHS8aqr.png)
+
+>13. [填空题] 工地主管的Team Viewer与哪一个ID连接? (请以英文全大写及阿拉伯数字回答) (3分)  
 >
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MzMxMTcwNywxMzIzNTkyOTQxLDQwNT
+eyJoaXN0b3J5IjpbMTE3MzMyMzgzNywxMzIzNTkyOTQxLDQwNT
 g4ODk5MywxMjQ5MTY0MDU1LDQzNTEzMzQ2NywtMTYxMjgyMzUz
 MywxODY3MjIxNzg3LC0xNDg0ODg3MjUxLDE4OTUwNTIxOTksMT
 AyMDE0NDAxOCw3NjE2MTQ1ODNdfQ==
