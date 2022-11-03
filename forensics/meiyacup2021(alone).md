@@ -177,8 +177,17 @@ D. 以上皆否
 
 >13. [填空题] 工地主管的Team Viewer与哪一个ID连接? (请以英文全大写及阿拉伯数字回答) (3分)  
 >**420190768**![输入图片说明](/imgs/2022-11-03/8vj0pJTPTQHS8aqr.png)
+
+>14. [多选题] 工地主管曾用计算机浏览器作搜寻，以下哪一个关键词他曾经搜寻? (3分)
+A. tiktok
+B. web whatsapp
+C. facebook
+D. lihkg
+E. hkgolden
+![输入图片说明](/imgs/2022-11-03/LS1sy6ndC1vH1xV2.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY2NDc5MTc3LDEzMjM1OTI5NDEsNDA1OD
+eyJoaXN0b3J5IjpbNTc0NDg1NDMwLDEzMjM1OTI5NDEsNDA1OD
 g4OTkzLDEyNDkxNjQwNTUsNDM1MTMzNDY3LC0xNjEyODIzNTMz
 LDE4NjcyMjE3ODcsLTE0ODQ4ODcyNTEsMTg5NTA1MjE5OSwxMD
 IwMTQ0MDE4LDc2MTYxNDU4M119
