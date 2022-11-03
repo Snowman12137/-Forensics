@@ -68,8 +68,10 @@ D. 7D1BE70D-2C16-D246-851D-491613DD776
 
 解压以后得到三个文件
 ![输入图片说明](/imgs/2022-11-03/p0RlE1hya2BwADgc.png)
-z
+这个.exe文件貌似是一个阅读器，并且.ufdr后缀的文件就是这个阅读器打开文件的格式，打开，在tool-setting里面可以设置语言
+![输入图片说明](/imgs/2022-11-03/qJRFYVPaJJnOT4VZ.png)
+daka
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NDYwNTYzMywtMTQ4NDg4NzI1MSwxOD
+eyJoaXN0b3J5IjpbMTkwODMwMzM5NCwtMTQ4NDg4NzI1MSwxOD
 k1MDUyMTk5LDEwMjAxNDQwMTgsNzYxNjE0NTgzXX0=
 -->
