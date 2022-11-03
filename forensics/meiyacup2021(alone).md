@@ -258,13 +258,17 @@ E. 192.168.40.132
 >直接搜搜不到，想起上一大题有个FileZilla的下载软件，一搜果然出来了
 >![输入图片说明](/imgs/2022-11-03/7xsFFpe98ya1vv9e.png)
 
->22. [多选题] 路由器的记录中显示公司计算机的资料用FTP软件传到了甚么IP地址及利用端口? (2分)
+>22. [多选题] 路由器的记录中显示公司计算机的资料用FTP软件传到了甚么IP地址及利用端口? (2分)**218.255.242.114**
 >（PS选项呢？？？）
+>ftp用21端口，直接/21搜索即可
+>![输入图片说明](/imgs/2022-11-03/9GmO4BHAkUXQ8lE6.png)
+
+>23. [多选题] 路由器的记录中显示以下哪些关键词是表示公司计算机与外界网络联机? (2分)
 >
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NzY1MDQzLC0xMjgzMDk4ODg0LDE0OT
-czMTEzMzMsLTE2MTU3NDE3OTIsMTMyMzU5Mjk0MSw0MDU4ODg5
-OTMsMTI0OTE2NDA1NSw0MzUxMzM0NjcsLTE2MTI4MjM1MzMsMT
-g2NzIyMTc4NywtMTQ4NDg4NzI1MSwxODk1MDUyMTk5LDEwMjAx
-NDQwMTgsNzYxNjE0NTgzXX0=
+eyJoaXN0b3J5IjpbMTg1OTE2MTAxNCwtMTI4MzA5ODg4NCwxND
+k3MzExMzMzLC0xNjE1NzQxNzkyLDEzMjM1OTI5NDEsNDA1ODg4
+OTkzLDEyNDkxNjQwNTUsNDM1MTMzNDY3LC0xNjEyODIzNTMzLD
+E4NjcyMjE3ODcsLTE0ODQ4ODcyNTEsMTg5NTA1MjE5OSwxMDIw
+MTQ0MDE4LDc2MTYxNDU4M119
 -->
