@@ -167,9 +167,14 @@ D. 以上皆否
 >![输入图片说明](/imgs/2022-11-03/MGCBA9nSpqLxyQ3N.png)
 
 >11. [填空题] 工地主管计算机內的FTP程序FileZilla的用户名称是甚么? (请以英文全大写及阿拉伯数字回答) (3分)
+>alex
+>![输入图片说明](/imgs/2022-11-03/IsbkQjtvCP38ck28.png)
+
+>12. [填空题] 工地主管的Team Viewer ID 是甚么? (请以英文全大写及阿拉伯数字回答) (2分)
+>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjI0NjY3MDYsMTMyMzU5Mjk0MSw0MD
-U4ODg5OTMsMTI0OTE2NDA1NSw0MzUxMzM0NjcsLTE2MTI4MjM1
-MzMsMTg2NzIyMTc4NywtMTQ4NDg4NzI1MSwxODk1MDUyMTk5LD
-EwMjAxNDQwMTgsNzYxNjE0NTgzXX0=
+eyJoaXN0b3J5IjpbMjA4MzMxMTcwNywxMzIzNTkyOTQxLDQwNT
+g4ODk5MywxMjQ5MTY0MDU1LDQzNTEzMzQ2NywtMTYxMjgyMzUz
+MywxODY3MjIxNzg3LC0xNDg0ODg3MjUxLDE4OTUwNTIxOTksMT
+AyMDE0NDAxOCw3NjE2MTQ1ODNdfQ==
 -->
