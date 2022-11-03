@@ -277,15 +277,23 @@ E. 以上皆是
 >如果直接去搜的话，四个词都出现过，但是根据上一题，可以确定的是218.255.242.114这个地址的IP是肯定用FTP进行和外网的链接的
 >![输入图片说明](/imgs/2022-11-03/fh6OuHzt1cqg5yIX.png)
 
->24. [单选题] 路由器的记录中显示哪一个IP曾以teamviewer 连接公司计算机? (1分)
+>24. [单选题] 路由器的记录中显示哪一个IP曾以teamviewer 连接公司计算机? (1分)**B**
 >默认端口号5938搜一下
 >![输入图片说明](/imgs/2022-11-03/080AdYsBO5vtCchu.png)
 >![输入图片说明](/imgs/2022-11-03/2Mj81ckDCPfLvr7V.png)
+
+>25. [多选题] 路由器的记录中显示以下哪一个有可能是以teamviewer 遥控公司计算机的时间? (3分)
+A. 09:31, 09:37
+B. 0933, 09:39
+C. 10:29, 10:36
+D. 10:40
+E. 10:42
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjQ1Nzk3MjEsMTExMzYzODc2MiwtMT
-Y3MzQ0OTI5MywtMTI4MzA5ODg4NCwxNDk3MzExMzMzLC0xNjE1
-NzQxNzkyLDEzMjM1OTI5NDEsNDA1ODg4OTkzLDEyNDkxNjQwNT
-UsNDM1MTMzNDY3LC0xNjEyODIzNTMzLDE4NjcyMjE3ODcsLTE0
-ODQ4ODcyNTEsMTg5NTA1MjE5OSwxMDIwMTQ0MDE4LDc2MTYxND
-U4M119
+eyJoaXN0b3J5IjpbMTMxNTMyMTAxMSwxMTEzNjM4NzYyLC0xNj
+czNDQ5MjkzLC0xMjgzMDk4ODg0LDE0OTczMTEzMzMsLTE2MTU3
+NDE3OTIsMTMyMzU5Mjk0MSw0MDU4ODg5OTMsMTI0OTE2NDA1NS
+w0MzUxMzM0NjcsLTE2MTI4MjM1MzMsMTg2NzIyMTc4NywtMTQ4
+NDg4NzI1MSwxODk1MDUyMTk5LDEwMjAxNDQwMTgsNzYxNjE0NT
+gzXX0=
 -->
