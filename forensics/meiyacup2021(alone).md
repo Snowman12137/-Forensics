@@ -25,13 +25,15 @@ image_updated在后面会用到
 阅读文档得到关系图，镜像文件关系如下图所示（不得不说美亚杯的材料真实性实在是太棒了）
 ![输入图片说明](/imgs/2022-11-03/Qu9yP4xGBMMeip9g.jpeg)
 
+看了下调差报告（PDF）只是一些基本信息，并且还是全英的，而且还有繁体字，推断这是一件香港的案子。
 
+开始做题
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NzQ2Mzc5OCwxODk1MDUyMTk5LDEwMj
-AxNDQwMTgsNzYxNjE0NTgzXX0=
+eyJoaXN0b3J5IjpbLTE0ODQ4ODcyNTEsMTg5NTA1MjE5OSwxMD
+IwMTQ0MDE4LDc2MTYxNDU4M119
 -->
