@@ -190,11 +190,13 @@ E. hkgolden
 ![输入图片说明](/imgs/2022-11-03/3tzW0IUEdJ1LMZQH.png)
 
 >15. [填空题] 工地主管计算机的Windows系统的产品标识符是甚么? (请以英文全大写及阿拉伯数字回答，不用输入”-“) (1分）
->14	产品ID	00331-10000-00001-AA962	Windows 10 Pro	正常
+>	**00331-10000-00001-AA962**	
 
 >![输入图片说明](/imgs/2022-11-03/wXDBa9SEpNAuJUnK.png)
+
+>16. [填空题] 工地主管曾用计算机使用WhatsApp，他曾和以下哪个电话号码沟通? (请以阿拉伯数字回答) (2分)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTA5MDMyOTIsMTMyMzU5Mjk0MSw0MD
+eyJoaXN0b3J5IjpbLTE2MTU3NDE3OTIsMTMyMzU5Mjk0MSw0MD
 U4ODg5OTMsMTI0OTE2NDA1NSw0MzUxMzM0NjcsLTE2MTI4MjM1
 MzMsMTg2NzIyMTc4NywtMTQ4NDg4NzI1MSwxODk1MDUyMTk5LD
 EwMjAxNDQwMTgsNzYxNjE0NTgzXX0=
