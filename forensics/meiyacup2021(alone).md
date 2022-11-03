@@ -354,12 +354,20 @@ D. IMG_0008.HEIC
 
 >29. [填空题] 阿力士iPhone 12 pro 的GSM媒体访问控制地址是什么? (请以英文全大写及阿拉伯数字回答，不用输入":") (2分)
 >什么叫GSM媒体访问控制地址？
+>**e0:6d:17:31:92:06**
 >![输入图片说明](/imgs/2022-11-03/7iDkzNAwVfoSZLDX.png)
 >GOOD
 >
 >![输入图片说明](/imgs/2022-11-03/vTZHnX46fqkla82j.png)
+
+>30. [单选题] 阿力士的iphone 12 pro以什么屏幕密码保护? (1分)
+A. 6 位阿拉伯数字密码
+B. 4 位阿拉伯数字密码
+C. 图形密码
+D. 以上皆非
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTQ4NDk0MjgsMTg0OTUxNTM5NywxNT
+eyJoaXN0b3J5IjpbLTE0NDM5MTIxMjEsMTg0OTUxNTM5NywxNT
 Q4ODYwMTUyLDM1NDY2MzgzNCwxMzE1MzIxMDExLDExMTM2Mzg3
 NjIsLTE2NzM0NDkyOTMsLTEyODMwOTg4ODQsMTQ5NzMxMTMzMy
 wtMTYxNTc0MTc5MiwxMzIzNTkyOTQxLDQwNTg4ODk5MywxMjQ5
