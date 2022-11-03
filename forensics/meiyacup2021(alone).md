@@ -333,20 +333,25 @@ B. 2021 年 10 月 21 日 08:58:01（多选题？？有毒？）
 C. 2021 年 10 月 21 日 00:58:29
 D. 2021 年 10 月 21 日 08:58:29
 
->27. [多选题] 阿力士iPhone 12 pro电话 于2021年10月21日，以下哪一张相片可能曾被分享 (UTC+8)? (3分)
+>27. [多选题] 阿力士iPhone 12 pro电话 于2021年10月21日，以下哪一张相片可能曾被分享 (UTC+8)? (3分)**B**
 A. IMG_0011.HEIC
-B. IMG_0010.HEIC（A/B无法确定啊，美亚有官方答案吗？）
+B. IMG_0010.HEIC
 C. IMG_0009.HEIC
 D. IMG_0008.HEIC
 E. IMG_0007.HEIC
-把选项搜索以后发现创建时间均在19号，没有区别，而且也没有聊天软件什么的，跟进源文件发现存储来一个列表下面，也没有看出什么特别的，网上看了下wp，才发现只有0011搜索以后是五个文件，并且路径里海鸥
+把选项搜索以后发现创建时间均在19号，没有区别，而且也没有聊天软件什么的，跟进源文件发现存储来一个列表下面，也没有看出什么特别的，网上看了下wp，才发现只有0011搜索以后是五个文件，并且路径里还有Outgoing，暂且断定文件0011被分享过
 ![输入图片说明](/imgs/2022-11-03/dT0qJzoJQ8snjyVQ.png)
+>28. [单选题] 阿力士iPhone 12 pro电话中哪一张相片可能曾被修改拍摄时间? (2分)
+A. IMG_0011.HEIC
+B. IMG_0010.HEIC
+C. IMG_0009.HEIC
+D. IMG_0008.HEIC
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MzI2Mjg1LDM1NDY2MzgzNCwxMzE1Mz
-IxMDExLDExMTM2Mzg3NjIsLTE2NzM0NDkyOTMsLTEyODMwOTg4
-ODQsMTQ5NzMxMTMzMywtMTYxNTc0MTc5MiwxMzIzNTkyOTQxLD
-QwNTg4ODk5MywxMjQ5MTY0MDU1LDQzNTEzMzQ2NywtMTYxMjgy
-MzUzMywxODY3MjIxNzg3LC0xNDg0ODg3MjUxLDE4OTUwNTIxOT
-ksMTAyMDE0NDAxOCw3NjE2MTQ1ODNdfQ==
+eyJoaXN0b3J5IjpbMTU0ODg2MDE1MiwzNTQ2NjM4MzQsMTMxNT
+MyMTAxMSwxMTEzNjM4NzYyLC0xNjczNDQ5MjkzLC0xMjgzMDk4
+ODg0LDE0OTczMTEzMzMsLTE2MTU3NDE3OTIsMTMyMzU5Mjk0MS
+w0MDU4ODg5OTMsMTI0OTE2NDA1NSw0MzUxMzM0NjcsLTE2MTI4
+MjM1MzMsMTg2NzIyMTc4NywtMTQ4NDg4NzI1MSwxODk1MDUyMT
+k5LDEwMjAxNDQwMTgsNzYxNjE0NTgzXX0=
 -->
