@@ -119,11 +119,12 @@ E. 435270306
 >对话里面搜索teamviewer然后细细找一下
 ![输入图片说明](/imgs/2022-11-03/NLnKhBiX3gLy0ruG.png)
 
->8. [填空题] 工地主管的WhatsApp中有多少个黑名单的记录? (请以阿拉伯数字回答) (2分)
->![输入图片说明](/imgs/2022-11-03/9X15iLdLI2HZW5xy.png)
+>8. [填空题] 工地主管的WhatsApp中有多少个黑名单的记录? (请以阿拉伯数字回答) (2分)**0**
+>盲猜应该什么数据库中，找一下数据库，搜一下WhatsApp，正好找到了blacklist，发现是空的，所以是0
+>wang![输入图片说明](/imgs/2022-11-03/9X15iLdLI2HZW5xy.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTUyNDQzMzEsMTI0OTE2NDA1NSw0Mz
-UxMzM0NjcsLTE2MTI4MjM1MzMsMTg2NzIyMTc4NywtMTQ4NDg4
-NzI1MSwxODk1MDUyMTk5LDEwMjAxNDQwMTgsNzYxNjE0NTgzXX
-0=
+eyJoaXN0b3J5IjpbMTUxMjIzMzk4NywxMjQ5MTY0MDU1LDQzNT
+EzMzQ2NywtMTYxMjgyMzUzMywxODY3MjIxNzg3LC0xNDg0ODg3
+MjUxLDE4OTUwNTIxOTksMTAyMDE0NDAxOCw3NjE2MTQ1ODNdfQ
+==
 -->
