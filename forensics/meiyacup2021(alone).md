@@ -134,7 +134,7 @@ D. 7D1BE70D-2C16-D246-851D-491613DD776
 ![输入图片说明](/imgs/2022-11-03/ETWLfqhYfHT6JAwE.png)
 
 ## 10-19题
-关键字：工地主管，计算机，ftp,座椅我们用到的检材是
+关键字：工地主管，计算机，ftp,座椅我们用到的检材是VTM-computer，FTP.E01，取证大师打开两个镜像
 >11. [填空题] 工地主管计算机內的FTP程序FileZilla的用户名称是甚么? (请以英文全大写及阿拉伯数字回答) (3分)
 >12. [填空题] 工地主管的Team Viewer ID 是甚么? (请以英文全大写及阿拉伯数字回答) (2分)
 >13. [填空题] 工地主管的Team Viewer与哪一个ID连接? (请以英文全大写及阿拉伯数字回答) (3分)  
@@ -160,8 +160,9 @@ C. Safari
 D. 以上皆否
 >19. [填空题] 工地主管计算机的其中一个分区被人加密，分区内的电子表格Material3.xlsx的哈希值(SHA1)是甚么? (请以英文全大写及阿拉伯数字回答) (1分)
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAwNjAzMTUwLDEyNDkxNjQwNTUsNDM1MT
+eyJoaXN0b3J5IjpbNDA1ODg4OTkzLDEyNDkxNjQwNTUsNDM1MT
 MzNDY3LC0xNjEyODIzNTMzLDE4NjcyMjE3ODcsLTE0ODQ4ODcy
 NTEsMTg5NTA1MjE5OSwxMDIwMTQ0MDE4LDc2MTYxNDU4M119
 -->
