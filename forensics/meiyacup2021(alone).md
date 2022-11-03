@@ -163,11 +163,13 @@ D. 以上皆否
 
 >10[填空题] 工地主管计算机的E盘的Bitlocker修复密钥标识符是甚么? (请以英文全大写及阿拉伯数字回答，不用输入"-") (1分)
 >36EBC180-95F7-41FF-BE5B-4E56E7AF48B1![输入图片说明](/imgs/2022-11-03/GJiSZGv7TCKUSaPL.png)
+>PS恢复秘钥在FTP.E01里
+>![输入图片说明](/imgs/2022-11-03/MGCBA9nSpqLxyQ3N.png)
 
 >11. [填空题] 工地主管计算机內的FTP程序FileZilla的用户名称是甚么? (请以英文全大写及阿拉伯数字回答) (3分)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMzU5Mjk0MSw0MDU4ODg5OTMsMTI0OT
-E2NDA1NSw0MzUxMzM0NjcsLTE2MTI4MjM1MzMsMTg2NzIyMTc4
-NywtMTQ4NDg4NzI1MSwxODk1MDUyMTk5LDEwMjAxNDQwMTgsNz
-YxNjE0NTgzXX0=
+eyJoaXN0b3J5IjpbLTEyNjI0NjY3MDYsMTMyMzU5Mjk0MSw0MD
+U4ODg5OTMsMTI0OTE2NDA1NSw0MzUxMzM0NjcsLTE2MTI4MjM1
+MzMsMTg2NzIyMTc4NywtMTQ4NDg4NzI1MSwxODk1MDUyMTk5LD
+EwMjAxNDQwMTgsNzYxNjE0NTgzXX0=
 -->
