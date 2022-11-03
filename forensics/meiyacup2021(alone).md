@@ -298,7 +298,7 @@ E. 10:42
 >3
 >他和他的两个同事
 
-## 27-
+## 27-33(16分)
 >27. [多选题] 阿力士iPhone 12 pro电话 于2021年10月21日，以下哪一张相片可能曾被分享 (UTC+8)? (3分)
 A. IMG_0011.HEIC
 B. IMG_0010.HEIC（A/B无法确定啊，美亚有官方答案吗？）
@@ -310,10 +310,32 @@ A. IMG_0011.HEIC
 B. IMG_0010.HEIC
 C. IMG_0009.HEIC
 D. IMG_0008.HEIC
->
+>29. [填空题] 阿力士iPhone 12 pro 的GSM媒体访问控制地址是什么? (请以英文全大写及阿拉伯数字回答，不用输入":") (2分)
+>30. [单选题] 阿力士的iphone 12 pro以什么屏幕密码保护? (1分)
+A. 6 位阿拉伯数字密码
+B. 4 位阿拉伯数字密码
+C. 图形密码
+D. 以上皆非
+>31. [多选题] 阿力士iphone 12 pro内以下哪一张相片是实况相片(live Photos)? (2分)
+A. IMG_0011.HEIC
+B. IMG_0010.HEIC
+C. IMG_0012.HEIC
+D. IMG_0009.HEIC
+>32. [单选题] 以下哪一个是阿力士iphone 12 pro可能曾经连接的装置名称? (2分)
+A. Chris’s MacBook Pro
+B. Chirs’s iPhone
+C. Chirs’s Computer
+D. Chirs’s Linux
+>33. [多选题] 接上题，记录连接时间是什么时候(UTC+8)? (2分)
+A. 2021 年 10 月 21 日 00:58:01
+B. 2021 年 10 月 21 日 08:58:01（多选题？？有毒？）
+C. 2021 年 10 月 21 日 00:58:29
+D. 2021 年 10 月 21 日 08:58:29
 
+>27. [多选题] 阿力士iPhone 12 pro电话 于2021年10月21日，以下哪一张相片可能曾被分享 (UTC+8)? (3分)
+A. IMG_0011.HEIC
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMTg2NTg5NCwxMzE1MzIxMDExLDExMT
+eyJoaXN0b3J5IjpbMTE3NDE0NjUxOCwxMzE1MzIxMDExLDExMT
 M2Mzg3NjIsLTE2NzM0NDkyOTMsLTEyODMwOTg4ODQsMTQ5NzMx
 MTMzMywtMTYxNTc0MTc5MiwxMzIzNTkyOTQxLDQwNTg4ODk5My
 wxMjQ5MTY0MDU1LDQzNTEzMzQ2NywtMTYxMjgyMzUzMywxODY3
