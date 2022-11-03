@@ -30,12 +30,27 @@ image_updated在后面会用到
 开始做题
 
 ## 1-9题
+>1. [单选题] 工地主管电话的微信账号是什么? (1分)
+A. Kasier751111
+B. Kasierlee751111
+C. Kasierlee
+D. 以上皆非
+>2. [填空题] 工地主管的隔空投送装置编号是什么? (请以英文全大写及阿拉伯数字回答) (1分)
+> 3. [单选题] 工地主管电话的哪一个应用程序有关于于经纬度24.490474, 118.110220的纪录? (2分)
+A. 照片
+B. WhatsApp
+C. Apple Maps
+D. 以上皆非
+>4. [多选题] 工地主管的手提电话中下列哪些数据正确? (1分)
+A. iOS 版本为 12.5.4
+B. IMEI 为 454120637213361
+C. Apple ID 为 kaiserlee3660@gmail.com
+D. 手机曾经安装dropbox 应用程序
+>5. [填空题] 工地主管的电话最常使用的浏览器是什么? (请以英文全大写回答) (1分)
 >
-> 
-
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1OTA2NDY4MCwtMTQ4NDg4NzI1MSwxOD
-k1MDUyMTk5LDEwMjAxNDQwMTgsNzYxNjE0NTgzXX0=
+eyJoaXN0b3J5IjpbLTE0MDI1MDM4NTUsLTE0ODQ4ODcyNTEsMT
+g5NTA1MjE5OSwxMDIwMTQ0MDE4LDc2MTYxNDU4M119
 -->
