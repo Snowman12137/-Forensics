@@ -216,11 +216,12 @@ D. 以上皆否
 >看浏览量就知道是Chrome
 
 >19. [填空题] 工地主管计算机的其中一个分区被人加密，分区内的电子表格Material3.xlsx的哈希值(SHA1)是甚么? (请以英文全大写及阿拉伯数字回答) (1分)
-
+>前面解密完了，直接搜索，然后跳转到源文件-右键-哈希
+![输入图片说明](/imgs/2022-11-03/5bO1y7yq1i86Zmlk.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NzYyNzQ4MiwtMTI4MzA5ODg4NCwxND
-k3MzExMzMzLC0xNjE1NzQxNzkyLDEzMjM1OTI5NDEsNDA1ODg4
-OTkzLDEyNDkxNjQwNTUsNDM1MTMzNDY3LC0xNjEyODIzNTMzLD
-E4NjcyMjE3ODcsLTE0ODQ4ODcyNTEsMTg5NTA1MjE5OSwxMDIw
-MTQ0MDE4LDc2MTYxNDU4M119
+eyJoaXN0b3J5IjpbLTE0NDYwNzA3MjMsLTEyODMwOTg4ODQsMT
+Q5NzMxMTMzMywtMTYxNTc0MTc5MiwxMzIzNTkyOTQxLDQwNTg4
+ODk5MywxMjQ5MTY0MDU1LDQzNTEzMzQ2NywtMTYxMjgyMzUzMy
+wxODY3MjIxNzg3LC0xNDg0ODg3MjUxLDE4OTUwNTIxOTksMTAy
+MDE0NDAxOCw3NjE2MTQ1ODNdfQ==
 -->
