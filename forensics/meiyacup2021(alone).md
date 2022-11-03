@@ -100,9 +100,12 @@ D. 手机曾经安装dropbox 应用程序
 D搜了一下没有
 
 >5. [填空题] 工地主管的电话最常使用的浏览器是什么? (请以英文全大写回答) (1分)
+>**SAFARI**
+>发现记录全是这个软件![输入图片说明](/imgs/2022-11-03/pL0f2GEGPZEYaahl.png)
+
 >
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxODI1NDY4NSwtMTYxMjgyMzUzMywxOD
-Y3MjIxNzg3LC0xNDg0ODg3MjUxLDE4OTUwNTIxOTksMTAyMDE0
-NDAxOCw3NjE2MTQ1ODNdfQ==
+eyJoaXN0b3J5IjpbMjI4MjIzMjU1LC0xNjEyODIzNTMzLDE4Nj
+cyMjE3ODcsLTE0ODQ4ODcyNTEsMTg5NTA1MjE5OSwxMDIwMTQ0
+MDE4LDc2MTYxNDU4M119
 -->
