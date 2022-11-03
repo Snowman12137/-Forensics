@@ -103,9 +103,24 @@ D搜了一下没有
 >**SAFARI**
 >发现记录全是这个软件![输入图片说明](/imgs/2022-11-03/pL0f2GEGPZEYaahl.png)
 
->
+>6. [单选题] 工地主管的电话连接过哪一个WiFi? (1分)**A**
+A. Kaiser Lee
+B. Kaiser
+C. Free Wifi
+D. Kaiser Home
+>![输入图片说明](/imgs/2022-11-03/yhsJPEvL6nm1bLiY.png)
+
+>7. [多选题] 工地主管与Alex Chan的Whatsapp 对话中，曾提及以下哪个TeamViewer的用户号码? (3分)
+A. 435334881
+B. 453851521
+C. 435475200
+D. 456874155
+E. 435270306
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI4MjIzMjU1LC0xNjEyODIzNTMzLDE4Nj
+eyJoaXN0b3J5IjpbNDM1MTMzNDY3LC0xNjEyODIzNTMzLDE4Nj
 cyMjE3ODcsLTE0ODQ4ODcyNTEsMTg5NTA1MjE5OSwxMDIwMTQ0
 MDE4LDc2MTYxNDU4M119
 -->
