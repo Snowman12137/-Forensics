@@ -221,7 +221,8 @@ D. 以上皆否
 ![输入图片说明](/imgs/2022-11-03/5bO1y7yq1i86Zmlk.png)
 
 
-## 20-26题
+## 20-26题(15分)
+路由器->
 >20. [多选题] 路由器的记录中显示以下有哪些IP是公司的电子器材? (3分)
 A. 192.168.40.128
 B. 192.168.40.129
@@ -231,12 +232,20 @@ E. 192.168.40.132
 >21. [填空题] 路由器的记录中显示公司的计算机下载了FTP软件，该下载网站的IP是什麼?(请以亚拉伯数字作答，省去“.”符号) (3分)
 >22. [多选题] 路由器的记录中显示公司计算机的资料用FTP软件传到了甚么IP地址及利用端口? (2分)
 >23. [多选题] 路由器的记录中显示以下哪些关键词是表示公司计算机与外界网络联机? (2分)
+>24. [单选题] 路由器的记录中显示哪一个IP曾以teamviewer 连接公司计算机? (1分)
+>25. [多选题] 路由器的记录中显示以下哪一个有可能是以teamviewer 遥控公司计算机的时间? (3分)
+A. 09:31, 09:37
+B. 0933, 09:39
+C. 10:29, 10:36
+D. 10:40
+E. 10:42
+>26. [填空题] 路由器的记录中显示有多少电子器材有可能曾被入侵? (请以阿拉伯数字作答) (2分)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MjEwNTY1NywtMTI4MzA5ODg4NCwxND
-k3MzExMzMzLC0xNjE1NzQxNzkyLDEzMjM1OTI5NDEsNDA1ODg4
-OTkzLDEyNDkxNjQwNTUsNDM1MTMzNDY3LC0xNjEyODIzNTMzLD
-E4NjcyMjE3ODcsLTE0ODQ4ODcyNTEsMTg5NTA1MjE5OSwxMDIw
-MTQ0MDE4LDc2MTYxNDU4M119
+eyJoaXN0b3J5IjpbLTEyNTQ1Njc1MzksLTEyODMwOTg4ODQsMT
+Q5NzMxMTMzMywtMTYxNTc0MTc5MiwxMzIzNTkyOTQxLDQwNTg4
+ODk5MywxMjQ5MTY0MDU1LDQzNTEzMzQ2NywtMTYxMjgyMzUzMy
+wxODY3MjIxNzg3LC0xNDg0ODg3MjUxLDE4OTUwNTIxOTksMTAy
+MDE0NDAxOCw3NjE2MTQ1ODNdfQ==
 -->
