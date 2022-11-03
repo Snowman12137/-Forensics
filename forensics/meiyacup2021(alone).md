@@ -135,6 +135,7 @@ D. 7D1BE70D-2C16-D246-851D-491613DD776
 
 ## 10-19题
 关键字：工地主管，计算机，ftp,座椅我们用到的检材是VTM-computer，FTP.E01，取证大师打开两个镜像
+>10[填空题] 工地主管计算机的E盘的Bitlocker修复密钥标识符是甚么? (请以英文全大写及阿拉伯数字回答，不用输入"-") (1分)
 >11. [填空题] 工地主管计算机內的FTP程序FileZilla的用户名称是甚么? (请以英文全大写及阿拉伯数字回答) (3分)
 >12. [填空题] 工地主管的Team Viewer ID 是甚么? (请以英文全大写及阿拉伯数字回答) (2分)
 >13. [填空题] 工地主管的Team Viewer与哪一个ID连接? (请以英文全大写及阿拉伯数字回答) (3分)  
@@ -160,10 +161,11 @@ C. Safari
 D. 以上皆否
 >19. [填空题] 工地主管计算机的其中一个分区被人加密，分区内的电子表格Material3.xlsx的哈希值(SHA1)是甚么? (请以英文全大写及阿拉伯数字回答) (1分)
 
-10
+>10[填空题] 工地主管计算机的E盘的Bitlocker修复密钥标识符是甚么? (请以英文全大写及阿拉伯数字回答，不用输入"-") (1分)
+>36EBC180-95F7-41FF-BE5B-4E56E7AF48B1![输入图片说明](/imgs/2022-11-03/GJiSZGv7TCKUSaPL.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MTA1NzI1MCw0MDU4ODg5OTMsMTI0OT
-E2NDA1NSw0MzUxMzM0NjcsLTE2MTI4MjM1MzMsMTg2NzIyMTc4
-NywtMTQ4NDg4NzI1MSwxODk1MDUyMTk5LDEwMjAxNDQwMTgsNz
-YxNjE0NTgzXX0=
+eyJoaXN0b3J5IjpbOTQ2MTQxMDI3LDQwNTg4ODk5MywxMjQ5MT
+Y0MDU1LDQzNTEzMzQ2NywtMTYxMjgyMzUzMywxODY3MjIxNzg3
+LC0xNDg0ODg3MjUxLDE4OTUwNTIxOTksMTAyMDE0NDAxOCw3Nj
+E2MTQ1ODNdfQ==
 -->
