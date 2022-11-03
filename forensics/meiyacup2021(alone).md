@@ -18,9 +18,11 @@
 
 ##一、赛前准备
 下好个人镜像
-![输入图片说明](/imgs/2022-11-02/pRFC72ZuqrE6YXSV.png)![输入图片说明](https://github.com/Snowman12137/-wp)
-image_updated
+![输入图片说明](/imgs/2022-11-02/pRFC72ZuqrE6YXSV.png)
+image_updated在后面会用到
 
+
+得到关系图镜像文件关系如下图所示（不得不说美亚杯的材料真实性实在是太棒了）
 ![输入图片说明](/imgs/2022-11-03/Qu9yP4xGBMMeip9g.jpeg)
 
 
@@ -30,6 +32,6 @@ image_updated
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDY3OTI3NjgsMTg5NTA1MjE5OSwxMD
-IwMTQ0MDE4LDc2MTYxNDU4M119
+eyJoaXN0b3J5IjpbLTczODEyNjE3MiwxODk1MDUyMTk5LDEwMj
+AxNDQwMTgsNzYxNjE0NTgzXX0=
 -->
