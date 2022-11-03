@@ -196,11 +196,21 @@ E. hkgolden
 
 >16. [填空题] 工地主管曾用计算机使用WhatsApp，他曾和以下哪个电话号码沟通? (请以阿拉伯数字回答) (2分)
 >？？？取证大师里也没WhatsApp，估计是要开镜像
->![输入图片说明](/imgs/2022-11-03/3WHbU4ZLDN7H6zUz.png)
+>
+
+>17. [多选题] 工地主管计算机的用户名称是甚么? 其用户标识符是甚么? (2分)**AF**
+A. 用户名称: PC1
+B. 用户名称 : PC2
+C. 用户名称 : PC3
+D. 用户标识符: 0x000003E7
+E. 用户标识符 : 0x000003E8
+F. 用户标识符: 0x000003E9
+>
+![输入图片说明](/imgs/2022-11-03/3WHbU4ZLDN7H6zUz.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDEwNjM4MzUsLTEyODMwOTg4ODQsMT
-Q5NzMxMTMzMywtMTYxNTc0MTc5MiwxMzIzNTkyOTQxLDQwNTg4
-ODk5MywxMjQ5MTY0MDU1LDQzNTEzMzQ2NywtMTYxMjgyMzUzMy
-wxODY3MjIxNzg3LC0xNDg0ODg3MjUxLDE4OTUwNTIxOTksMTAy
-MDE0NDAxOCw3NjE2MTQ1ODNdfQ==
+eyJoaXN0b3J5IjpbMTk0MTA0Mzc1LC0xMjgzMDk4ODg0LDE0OT
+czMTEzMzMsLTE2MTU3NDE3OTIsMTMyMzU5Mjk0MSw0MDU4ODg5
+OTMsMTI0OTE2NDA1NSw0MzUxMzM0NjcsLTE2MTI4MjM1MzMsMT
+g2NzIyMTc4NywtMTQ4NDg4NzI1MSwxODk1MDUyMTk5LDEwMjAx
+NDQwMTgsNzYxNjE0NTgzXX0=
 -->
