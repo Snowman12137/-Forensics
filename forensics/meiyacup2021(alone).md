@@ -171,14 +171,15 @@ D. 以上皆否
 >![输入图片说明](/imgs/2022-11-03/IsbkQjtvCP38ck28.png)
 
 >12. [填空题] 工地主管的Team Viewer ID 是甚么? (请以英文全大写及阿拉伯数字回答) (2分)
+>**435270306**
 >在上一块中（1-9题里面），在聊天记录中有主观TeamViewer的信息
->
+>![输入图片说明](/imgs/2022-11-03/wSYmM8thN27RLK6C.png)
 
 >13. [填空题] 工地主管的Team Viewer与哪一个ID连接? (请以英文全大写及阿拉伯数字回答) (3分)  
 >**420190768**![输入图片说明](/imgs/2022-11-03/8vj0pJTPTQHS8aqr.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NDM1MDI3MSwxMzIzNTkyOTQxLDQwNT
-g4ODk5MywxMjQ5MTY0MDU1LDQzNTEzMzQ2NywtMTYxMjgyMzUz
-MywxODY3MjIxNzg3LC0xNDg0ODg3MjUxLDE4OTUwNTIxOTksMT
-AyMDE0NDAxOCw3NjE2MTQ1ODNdfQ==
+eyJoaXN0b3J5IjpbOTY2NDc5MTc3LDEzMjM1OTI5NDEsNDA1OD
+g4OTkzLDEyNDkxNjQwNTUsNDM1MTMzNDY3LC0xNjEyODIzNTMz
+LDE4NjcyMjE3ODcsLTE0ODQ4ODcyNTEsMTg5NTA1MjE5OSwxMD
+IwMTQ0MDE4LDc2MTYxNDU4M119
 -->
