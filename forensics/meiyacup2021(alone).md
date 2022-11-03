@@ -116,12 +116,13 @@ B. 453851521
 C. 435475200
 D. 456874155
 E. 435270306
+>对话里面搜索teamviewer然后细细找一下
+![输入图片说明](/imgs/2022-11-03/NLnKhBiX3gLy0ruG.png)
 
-》![输入图片说明](/imgs/2022-11-03/NLnKhBiX3gLy0ruG.png)
-
-
+>8. [填空题] 工地主管的WhatsApp中有多少个黑名单的记录? (请以阿拉伯数字回答) (2分)
+>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MTc4OTE3OCw0MzUxMzM0NjcsLTE2MT
+eyJoaXN0b3J5IjpbMTI0OTE2NDA1NSw0MzUxMzM0NjcsLTE2MT
 I4MjM1MzMsMTg2NzIyMTc4NywtMTQ4NDg4NzI1MSwxODk1MDUy
 MTk5LDEwMjAxNDQwMTgsNzYxNjE0NTgzXX0=
 -->
