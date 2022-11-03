@@ -136,10 +136,30 @@ D. 7D1BE70D-2C16-D246-851D-491613DD776
 ## 10-19题
 >11. [填空题] 工地主管计算机內的FTP程序FileZilla的用户名称是甚么? (请以英文全大写及阿拉伯数字回答) (3分)
 >12. [填空题] 工地主管的Team Viewer ID 是甚么? (请以英文全大写及阿拉伯数字回答) (2分)
->
-
+>13. [填空题] 工地主管的Team Viewer与哪一个ID连接? (请以英文全大写及阿拉伯数字回答) (3分)  
+>14. [多选题] 工地主管曾用计算机浏览器作搜寻，以下哪一个关键词他曾经搜寻? (3分)
+A. tiktok
+B. web whatsapp
+C. facebook
+D. lihkg
+E. hkgolden
+>15. [填空题] 工地主管计算机的Windows系统的产品标识符是甚么? (请以英文全大写及阿拉伯数字回答，不用输入”-“) (1分）
+>16. [填空题] 工地主管曾用计算机使用WhatsApp，他曾和以下哪个电话号码沟通? (请以阿拉伯数字回答) (2分)
+>17. [多选题] 工地主管计算机的用户名称是甚么? 其用户标识符是甚么? (2分)
+A. 用户名称: PC1
+B. 用户名称 : PC2
+C. 用户名称 : PC3
+D. 用户标识符: 0x000003E7
+E. 用户标识符 : 0x000003E8
+F. 用户标识符: 0x000003E9
+>18. [单选题] 工地主管计算机的预设浏览器是甚么? (2分)
+A. Chrome
+B. Firefox
+C. Safari
+D. 以上皆否
+>19. [填空题] 工地主管计算机的其中一个分区被人加密，分区内的电子表格Material3.xlsx的哈希值(SHA1)是甚么? (请以英文全大写及阿拉伯数字回答) (1分)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzc3ODQ2MzksMTI0OTE2NDA1NSw0Mz
+eyJoaXN0b3J5IjpbLTEwODI5MzUwMDEsMTI0OTE2NDA1NSw0Mz
 UxMzM0NjcsLTE2MTI4MjM1MzMsMTg2NzIyMTc4NywtMTQ4NDg4
 NzI1MSwxODk1MDUyMTk5LDEwMjAxNDQwMTgsNzYxNjE0NTgzXX
 0=
