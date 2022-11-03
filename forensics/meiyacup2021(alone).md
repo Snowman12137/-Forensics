@@ -89,8 +89,9 @@ A. 照片
 B. WhatsApp
 C. Apple Maps
 D. 以上皆非
+找了下WhatsApp没有位置记录，zhijiesousuolecxiia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTI4MjM1MzMsMTg2NzIyMTc4NywtMT
-Q4NDg4NzI1MSwxODk1MDUyMTk5LDEwMjAxNDQwMTgsNzYxNjE0
-NTgzXX0=
+eyJoaXN0b3J5IjpbNTc5NzI5MzIwLC0xNjEyODIzNTMzLDE4Nj
+cyMjE3ODcsLTE0ODQ4ODcyNTEsMTg5NTA1MjE5OSwxMDIwMTQ0
+MDE4LDc2MTYxNDU4M119
 -->
