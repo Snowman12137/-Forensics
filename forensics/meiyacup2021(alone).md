@@ -286,18 +286,20 @@ D. 83.26.80.131
 >![输入图片说明](/imgs/2022-11-03/080AdYsBO5vtCchu.png)
 >![输入图片说明](/imgs/2022-11-03/2Mj81ckDCPfLvr7V.png)
 
->25. [多选题] 路由器的记录中显示以下哪一个有可能是以teamviewer 遥控公司计算机的时间? (3分)
+>25. [多选题] 路由器的记录中显示以下哪一个有可能是以teamviewer 遥控公司计算机的时间? (3分)ACE
 A. 09:31, 09:37
 B. 0933, 09:39
 C. 10:29, 10:36
 D. 10:40
 E. 10:42
+根据上一题IP搜索得
+![输入图片说明](/imgs/2022-11-03/keNkgJPDOzGi2QCa.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNjU2MTEzMSwxMzE1MzIxMDExLDExMT
-M2Mzg3NjIsLTE2NzM0NDkyOTMsLTEyODMwOTg4ODQsMTQ5NzMx
-MTMzMywtMTYxNTc0MTc5MiwxMzIzNTkyOTQxLDQwNTg4ODk5My
-wxMjQ5MTY0MDU1LDQzNTEzMzQ2NywtMTYxMjgyMzUzMywxODY3
-MjIxNzg3LC0xNDg0ODg3MjUxLDE4OTUwNTIxOTksMTAyMDE0ND
-AxOCw3NjE2MTQ1ODNdfQ==
+eyJoaXN0b3J5IjpbOTEzNjQwMDEsMTMxNTMyMTAxMSwxMTEzNj
+M4NzYyLC0xNjczNDQ5MjkzLC0xMjgzMDk4ODg0LDE0OTczMTEz
+MzMsLTE2MTU3NDE3OTIsMTMyMzU5Mjk0MSw0MDU4ODg5OTMsMT
+I0OTE2NDA1NSw0MzUxMzM0NjcsLTE2MTI4MjM1MzMsMTg2NzIy
+MTc4NywtMTQ4NDg4NzI1MSwxODk1MDUyMTk5LDEwMjAxNDQwMT
+gsNzYxNjE0NTgzXX0=
 -->
