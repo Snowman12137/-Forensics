@@ -82,9 +82,15 @@ D. 以上皆非
 >2. [填空题] 工地主管的隔空投送装置编号是什么? (请以英文全大写及阿拉伯数字回答) (1分)
 >**780F624DF099**
 >最后在这里找到了一个叫AirDrop ID 的设备![输入图片说明](/imgs/2022-11-03/2rKck55V2XmD2Qaj.png)
->
+>PS(这叫隔空投送装置？？？emmmm也合理)![输入图片说明](/imgs/2022-11-03/0ja2XfEhIzEMCqpS.png)
+
+>3. [单选题] 工地主管电话的哪一个应用程序有关于于经纬度24.490474, 118.110220的纪录? (2分)
+A. 照片
+B. WhatsApp
+C. Apple Maps
+D. 以上皆非
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjIxODExMTMsMTg2NzIyMTc4NywtMT
+eyJoaXN0b3J5IjpbLTE2MTI4MjM1MzMsMTg2NzIyMTc4NywtMT
 Q4NDg4NzI1MSwxODk1MDUyMTk5LDEwMjAxNDQwMTgsNzYxNjE0
 NTgzXX0=
 -->
