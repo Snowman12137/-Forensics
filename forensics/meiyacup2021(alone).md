@@ -232,6 +232,11 @@ E. 192.168.40.132
 >21. [填空题] 路由器的记录中显示公司的计算机下载了FTP软件，该下载网站的IP是什麼?(请以亚拉伯数字作答，省去“.”符号) (3分)
 >22. [多选题] 路由器的记录中显示公司计算机的资料用FTP软件传到了甚么IP地址及利用端口? (2分)
 >23. [多选题] 路由器的记录中显示以下哪些关键词是表示公司计算机与外界网络联机? (2分)
+>A. destination
+B. ICMP echo request
+C. inside
+D. outside
+E. 以上皆是
 >24. [单选题] 路由器的记录中显示哪一个IP曾以teamviewer 连接公司计算机? (1分)
 >25. [多选题] 路由器的记录中显示以下哪一个有可能是以teamviewer 遥控公司计算机的时间? (3分)
 A. 09:31, 09:37
@@ -264,9 +269,14 @@ E. 192.168.40.132
 >![输入图片说明](/imgs/2022-11-03/9GmO4BHAkUXQ8lE6.png)
 
 >23. [多选题] 路由器的记录中显示以下哪些关键词是表示公司计算机与外界网络联机? (2分)
+>A. destination
+B. ICMP echo request
+C. inside
+D. outside
+E. 以上皆是
 >
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1OTE2MTAxNCwtMTI4MzA5ODg4NCwxND
+eyJoaXN0b3J5IjpbMTA4ODU3NTYzMiwtMTI4MzA5ODg4NCwxND
 k3MzExMzMzLC0xNjE1NzQxNzkyLDEzMjM1OTI5NDEsNDA1ODg4
 OTkzLDEyNDkxNjQwNTUsNDM1MTMzNDY3LC0xNjEyODIzNTMzLD
 E4NjcyMjE3ODcsLTE0ODQ4ODcyNTEsMTg5NTA1MjE5OSwxMDIw
