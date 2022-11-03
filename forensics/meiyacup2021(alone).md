@@ -178,19 +178,22 @@ D. 以上皆否
 >13. [填空题] 工地主管的Team Viewer与哪一个ID连接? (请以英文全大写及阿拉伯数字回答) (3分)  
 >**420190768**![输入图片说明](/imgs/2022-11-03/8vj0pJTPTQHS8aqr.png)
 
->14. [多选题] 工地主管曾用计算机浏览器作搜寻，以下哪一个关键词他曾经搜寻? (3分)
+>14. [多选题] 工地主管曾用计算机浏览器作搜寻，以下哪一个关键词他曾经搜寻? (3分)**BCD**
 A. tiktok
 B. web whatsapp
 C. facebook
 D. lihkg
 E. hkgolden
-![输入图片说明](/imgs/2022-11-03/LS1sy6ndC1vH1xV2.png)
+
 ![输入图片说明](/imgs/2022-11-03/79wHr1CcflqqTNq4.png)
 ![输入图片说明](/imgs/2022-11-03/0BNorC5GJ477Ca7t.png)
+![输入图片说明](/imgs/2022-11-03/3tzW0IUEdJ1LMZQH.png)
 
+>15. [填空题] 工地主管计算机的Windows系统的产品标识符是甚么? (请以英文全大写及阿拉伯数字回答，不用输入”-“) (1分）
+>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MzcwNDIsMTMyMzU5Mjk0MSw0MDU4OD
-g5OTMsMTI0OTE2NDA1NSw0MzUxMzM0NjcsLTE2MTI4MjM1MzMs
-MTg2NzIyMTc4NywtMTQ4NDg4NzI1MSwxODk1MDUyMTk5LDEwMj
-AxNDQwMTgsNzYxNjE0NTgzXX0=
+eyJoaXN0b3J5IjpbLTg5MTY3NDc4NiwxMzIzNTkyOTQxLDQwNT
+g4ODk5MywxMjQ5MTY0MDU1LDQzNTEzMzQ2NywtMTYxMjgyMzUz
+MywxODY3MjIxNzg3LC0xNDg0ODg3MjUxLDE4OTUwNTIxOTksMT
+AyMDE0NDAxOCw3NjE2MTQ1ODNdfQ==
 -->
