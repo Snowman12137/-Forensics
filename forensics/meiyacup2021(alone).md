@@ -80,7 +80,11 @@ D. 以上皆非
 ![输入图片说明](/imgs/2022-11-03/U9E7DnXnCLICcklq.png)
 
 >2. [填空题] 工地主管的隔空投送装置编号是什么? (请以英文全大写及阿拉伯数字回答) (1分)
+>**780F624DF099**
+>最后在这里找到了一个叫AirDrop ID 的设备![输入图片说明](/imgs/2022-11-03/2rKck55V2XmD2Qaj.png)
+>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NzIyMTc4NywtMTQ4NDg4NzI1MSwxOD
-k1MDUyMTk5LDEwMjAxNDQwMTgsNzYxNjE0NTgzXX0=
+eyJoaXN0b3J5IjpbLTIwMjIxODExMTMsMTg2NzIyMTc4NywtMT
+Q4NDg4NzI1MSwxODk1MDUyMTk5LDEwMjAxNDQwMTgsNzYxNjE0
+NTgzXX0=
 -->
