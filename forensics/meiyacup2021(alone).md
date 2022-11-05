@@ -369,13 +369,21 @@ D. 以上皆非
 >![输入图片说明](/imgs/2022-11-05/8nTFya51yf9Z7pwT.png)
 ![输入图片说明](/imgs/2022-11-05/bzx4EzzDJFIyhoN6.png)
 
->31. [多选题] 阿力士iphone 12 pro内以下哪一张相片是实况相片(live Photos)? (2分)
+>31. [多选题] 阿力士iphone 12 pro内以下哪一张相片是实况相片(live Photos)? (2分)**ABD**
 A. IMG_0011.HEIC
 B. IMG_0010.HEIC
 C. IMG_0012.HEIC
 D. IMG_0009.HEIC
+>直接搜索live，出现了ABD
+![输入图片说明](/imgs/2022-11-05/DeDM2sLx6f1o5Ofg.png)
+
+>32. [单选题] 以下哪一个是阿力士iphone 12 pro可能曾经连接的装置名称? (2分)
+A. Chris’s MacBook Pro
+B. Chirs’s iPhone
+C. Chirs’s Computer
+D. Chirs’s Linux
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDE5NjM4ODAsNjUxMDQ5MzkzLDU4MT
+eyJoaXN0b3J5IjpbLTE4MDI4MzUwMDAsNjUxMDQ5MzkzLDU4MT
 c0MTAyMSwxNzA4NDc0MDM3LDE4NDk1MTUzOTcsMTU0ODg2MDE1
 MiwzNTQ2NjM4MzQsMTMxNTMyMTAxMSwxMTEzNjM4NzYyLC0xNj
 czNDQ5MjkzLC0xMjgzMDk4ODg0LDE0OTczMTEzMzMsLTE2MTU3
