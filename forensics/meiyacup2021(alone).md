@@ -514,14 +514,21 @@ B. 该图片经过加密
 C. 该图片于 2021-09-30 下载
 D. 该图片是由 GIF 档转换成 PNG 檔
 >52. [填空题] 阿力士计算机所安装的Microsoft Office 2007 的密钥是甚么? (请以英文全大写及阿拉伯数字回答，不用输入”-“) (1分)
-
->43. [单选题] 阿力士的计算机显示曾于hongkongcard.com 的论坛登记成为会员，以下哪个是他的帐户密码? (3分)
-A. Aa475869!
-B. Bb475869!
-C. Cd475869!
-D.以上接非
+>53. [单选题] 阿力士FTP 服务器用户使用命令行安装了甚么程序? (1分)
+A. Docker
+B. Chrome
+C. FileZilla
+D. TeamViewer
+>54. [多选题] 以下哪些档案于阿力士FTP 服务器曾重复出现? (3分)
+A. Material1
+B. Material2
+C. Material3
+D. Staff1
+E. Staff2
+F. Staff3
+>55. [填空题] 在阿力士FTP服务器中，文件夹Dangerous_Project曾被用户变更了访问权限(请以英文全大写及阿拉伯数字回答) (2分)
+>56.[填空题] 在阿力士FTP 服务器建设后，有 1 个额外用户被加入 (请以阿拉伯数字回答) (2分)
 >
-
 
 >43. [单选题] 阿力士的计算机显示曾于hongkongcard.com 的论坛登记成为会员，以下哪个是他的帐户密码? (3分)**A**
 A. Aa475869!
@@ -584,11 +591,11 @@ D. 该图片是由 GIF 档转换成 PNG 檔
 >**V77WQ-RPVP6-7MTPG-WH3G9-D44MJ**![输入图片说明](/imgs/2022-11-05/C89wf7fdmkMDKjjs.png)
 >
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5Mzk3NjU1MiwzNjc0MTY5NTUsMTI4Nz
-kzMDU1MiwxMjI2NTQ3MTU5LC0yMTE3MDY2MDg3LDExNDgyNTcw
-NjEsMTA0Mzk5MTQwNiwtMTA0MDgyNTg0NywtMjEyNDczNjM5Ni
-w5NDc4NjcwODQsLTU3Mzg3MDg1MiwtOTQ4MjIyMjQzLDE2ODYw
-NjI3NjksMTE1NTUxOTUzNyw2NTEwNDkzOTMsNTgxNzQxMDIxLD
-E3MDg0NzQwMzcsMTg0OTUxNTM5NywxNTQ4ODYwMTUyLDM1NDY2
-MzgzNF19
+eyJoaXN0b3J5IjpbLTIwNzY2NzA1MzksMzY3NDE2OTU1LDEyOD
+c5MzA1NTIsMTIyNjU0NzE1OSwtMjExNzA2NjA4NywxMTQ4MjU3
+MDYxLDEwNDM5OTE0MDYsLTEwNDA4MjU4NDcsLTIxMjQ3MzYzOT
+YsOTQ3ODY3MDg0LC01NzM4NzA4NTIsLTk0ODIyMjI0MywxNjg2
+MDYyNzY5LDExNTU1MTk1MzcsNjUxMDQ5MzkzLDU4MTc0MTAyMS
+wxNzA4NDc0MDM3LDE4NDk1MTUzOTcsMTU0ODg2MDE1MiwzNTQ2
+NjM4MzRdfQ==
 -->
