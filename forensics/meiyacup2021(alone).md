@@ -555,9 +555,13 @@ D. 于 2021 年 10 月 18 日 18 时 42 分
 >![输入图片说明](/imgs/2022-11-05/MeQ9SifSt0idWY4J.png)
 
 >48. [填空题] 阿力士计算机所安装的Microsoft Office 2007 是以下哪一个版本? (请以亚拉伯数字作答，省去“.”符号) (2分)
+>送分 **12045181014**
+>![输入图片说明](/imgs/2022-11-05/P2kaxLSkipG3bV9h.png)
+
+>49. [填空题] 以下是阿力士计算机中的Basic data partition (EFI 3) 的Volume ID? (请以英文全大写及阿拉伯数字回答) (2分)
 >
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODQxNjEyNzIsMTE0ODI1NzA2MSwxMD
+eyJoaXN0b3J5IjpbLTIxMTcwNjYwODcsMTE0ODI1NzA2MSwxMD
 QzOTkxNDA2LC0xMDQwODI1ODQ3LC0yMTI0NzM2Mzk2LDk0Nzg2
 NzA4NCwtNTczODcwODUyLC05NDgyMjIyNDMsMTY4NjA2Mjc2OS
 wxMTU1NTE5NTM3LDY1MTA0OTM5Myw1ODE3NDEwMjEsMTcwODQ3
