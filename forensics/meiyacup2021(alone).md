@@ -592,16 +592,29 @@ D. Staff1
 E. Staff2
 F. Staff3
 >55. [填空题] 在阿力士FTP服务器中，文件夹Dangerous_Project曾被用户变更了访问权限(请以英文全大写及阿拉伯数字回答) (2分)
->56.[填空题] 在阿力士FTP 服务器建设后，有 1 个额外用户被加入 (请以阿拉伯数字回答) (2分)57. [单选题] 根据阿力士FTP服务器设定显示，此服务器是以_____方式连接网络，且是一个_______网络状态 (1分)
+>56. [填空题] 在阿力士FTP 服务器建设后，有______个额外用户被加入 (请以阿拉伯数字回答) (2分)
+>57. [单选题] 根据阿力士FTP服务器设定显示，此服务器是以_____方式连接网络，且是一个_______网络状态 (1分)
 A. 无线 , 公开
 B. 无线 , 私人
 C. 有线 , 公开
 D. 有线 , 私人
->57[填空题] 阿力士FTP 服务器设定最多使用者数目是 50 (请以阿拉伯数字回答) (2分)
->58[填空题] 阿力士FTP服务器使用Docker安装了一个FTP程序为stilliard/pure-ftpd。(例如 space docker /1.1，请输入 spacedocker/1.1，不要输入空格) (2分)
->
+>58. [填空题] 阿力士FTP 服务器设定最多使用者数目是_____ (请以阿拉伯数字回答) (2分)
+>59. [填空题] 阿力士FTP服务器使用Docker安装了一个FTP程序为___________。(例如 space docker /1.1，请输入 spacedocker/1.1，不要输入空格) (2分)
+> 60. [多选题] 阿力士FTP 服务器曾使用过甚么版本的Linux内核? (2分)
+A. linux-headers-5.11.0-16
+B. linux-headers-5.11.0-17
+C. linux-headers-5.11.0-36
+D. inux-headers-5.11.0-37
+E. linux-headers-5.11.0-40
+>61. [多选题] 阿力士FTP 服务器的磁盘分区，有以下哪一种文件系统? (2分)
+A. FAT16
+B. FAT32
+C. ExFAT
+D. HFS+
+E. Ext4
+>62. [填空题] 阿力士FTP服务器用户输入了指令_____________去检查现存的Docker容器 (例如 netstat lntp，请输入 netstatlntp，不要输入空格) (3分)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MDUxNDY5MSwzNjc0MTY5NTUsMTI4Nz
+eyJoaXN0b3J5IjpbMTM1MjEzMjk2MSwzNjc0MTY5NTUsMTI4Nz
 kzMDU1MiwxMjI2NTQ3MTU5LC0yMTE3MDY2MDg3LDExNDgyNTcw
 NjEsMTA0Mzk5MTQwNiwtMTA0MDgyNTg0NywtMjEyNDczNjM5Ni
 w5NDc4NjcwODQsLTU3Mzg3MDg1MiwtOTQ4MjIyMjQzLDE2ODYw
