@@ -377,19 +377,26 @@ D. IMG_0009.HEIC
 >直接搜索live，出现了ABD
 ![输入图片说明](/imgs/2022-11-05/DeDM2sLx6f1o5Ofg.png)
 
->32. [单选题] 以下哪一个是阿力士iphone 12 pro可能曾经连接的装置名称? (2分)
+>32. [单选题] 以下哪一个是阿力士iphone 12 pro可能曾经连接的装置名称? (2分)**A**
 A. Chris’s MacBook Pro
 B. Chirs’s iPhone
 C. Chirs’s Computer
 D. Chirs’s Linux
-zhii
+直接搜这几个选项，或者直接看联系人都行
 ![输入图片说明](/imgs/2022-11-05/Due5wQWeUCHOZIzm.png)
+
+>33. [多选题] 接上题，记录连接时间是什么时候(UTC+8)? (2分)
+A. 2021 年 10 月 21 日 00:58:01
+B. 2021 年 10 月 21 日 08:58:01
+C. 2021 年 10 月 21 日 00:58:29
+D. 2021 年 10 月 21 日 08:58:29
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUxOTM1NDY2LDY1MTA0OTM5Myw1ODE3ND
-EwMjEsMTcwODQ3NDAzNywxODQ5NTE1Mzk3LDE1NDg4NjAxNTIs
-MzU0NjYzODM0LDEzMTUzMjEwMTEsMTExMzYzODc2MiwtMTY3Mz
-Q0OTI5MywtMTI4MzA5ODg4NCwxNDk3MzExMzMzLC0xNjE1NzQx
-NzkyLDEzMjM1OTI5NDEsNDA1ODg4OTkzLDEyNDkxNjQwNTUsND
-M1MTMzNDY3LC0xNjEyODIzNTMzLDE4NjcyMjE3ODcsLTE0ODQ4
-ODcyNTFdfQ==
+eyJoaXN0b3J5IjpbLTIxNDQ2ODIzMzIsNjUxMDQ5MzkzLDU4MT
+c0MTAyMSwxNzA4NDc0MDM3LDE4NDk1MTUzOTcsMTU0ODg2MDE1
+MiwzNTQ2NjM4MzQsMTMxNTMyMTAxMSwxMTEzNjM4NzYyLC0xNj
+czNDQ5MjkzLC0xMjgzMDk4ODg0LDE0OTczMTEzMzMsLTE2MTU3
+NDE3OTIsMTMyMzU5Mjk0MSw0MDU4ODg5OTMsMTI0OTE2NDA1NS
+w0MzUxMzM0NjcsLTE2MTI4MjM1MzMsMTg2NzIyMTc4NywtMTQ4
+NDg4NzI1MV19
 -->
