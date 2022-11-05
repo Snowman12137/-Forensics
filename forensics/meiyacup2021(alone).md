@@ -672,7 +672,7 @@ E. linux-headers-5.11.0-40
 >![输入图片说明](/imgs/2022-11-05/aS3svPR8tfdEJsTW.png)
 
 
->61. [多选题] 阿力士FTP 服务器的磁盘分区，有以下哪一种文件系统? (2分)BE
+>61. [多选题] 阿力士FTP 服务器的磁盘分区，有以下哪一种文件系统? (2分)**BE**
 A. FAT16
 B. FAT32
 C. ExFAT
@@ -680,8 +680,13 @@ D. HFS+
 E. Ext4
 >直接查看
 >![输入图片说明](/imgs/2022-11-05/7drwziJTM1i8xvQ1.png)
+
+>62. [填空题] 阿力士FTP服务器用户输入了指令_____________去检查现存的Docker容器 (例如 netstat lntp，请输入 netstatlntp，不要输入空格) (3分)
+>**docker container ps -a**
+>docker里面的命令
+>![输入图片说明](/imgs/2022-11-05/6yIYwr27XCN38T3B.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTMzMDkxNywxNDQ1NzY1OTcsLTkyNT
+eyJoaXN0b3J5IjpbMTExNzgyNjYzMywxNDQ1NzY1OTcsLTkyNT
 g2MzYwNSwyNzUzMjIwMTAsMzY3NDE2OTU1LDEyODc5MzA1NTIs
 MTIyNjU0NzE1OSwtMjExNzA2NjA4NywxMTQ4MjU3MDYxLDEwND
 M5OTE0MDYsLTEwNDA4MjU4NDcsLTIxMjQ3MzYzOTYsOTQ3ODY3
