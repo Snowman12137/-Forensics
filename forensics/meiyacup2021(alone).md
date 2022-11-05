@@ -615,17 +615,27 @@ E. Ext4
 >62. [填空题] 阿力士FTP服务器用户输入了指令_____________去检查现存的Docker容器 (例如 netstat lntp，请输入 netstatlntp，不要输入空格) (3分)
 
 
->53. [单选题] 阿力士FTP 服务器用户使用命令行安装了甚么程序? (1分)
+>53. [单选题] 阿力士FTP 服务器用户使用命令行安装了甚么程序? (1分)**A**
 A. Docker
 B. Chrome
 C. FileZilla
 D. TeamViewer
+>送分题，取证大师的web服务器处
+
+>54. [多选题] 以下哪些档案于阿力士FTP 服务器曾重复出现? (3分)
+A. Material1
+B. Material2
+C. Material3
+D. Staff1
+E. Staff2
+F. Staff3
+>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MTA2NTMxNiwzNjc0MTY5NTUsMTI4Nz
-kzMDU1MiwxMjI2NTQ3MTU5LC0yMTE3MDY2MDg3LDExNDgyNTcw
-NjEsMTA0Mzk5MTQwNiwtMTA0MDgyNTg0NywtMjEyNDczNjM5Ni
-w5NDc4NjcwODQsLTU3Mzg3MDg1MiwtOTQ4MjIyMjQzLDE2ODYw
-NjI3NjksMTE1NTUxOTUzNyw2NTEwNDkzOTMsNTgxNzQxMDIxLD
-E3MDg0NzQwMzcsMTg0OTUxNTM5NywxNTQ4ODYwMTUyLDM1NDY2
-MzgzNF19
+eyJoaXN0b3J5IjpbLTEzMDM1MDc3OTgsMzY3NDE2OTU1LDEyOD
+c5MzA1NTIsMTIyNjU0NzE1OSwtMjExNzA2NjA4NywxMTQ4MjU3
+MDYxLDEwNDM5OTE0MDYsLTEwNDA4MjU4NDcsLTIxMjQ3MzYzOT
+YsOTQ3ODY3MDg0LC01NzM4NzA4NTIsLTk0ODIyMjI0MywxNjg2
+MDYyNzY5LDExNTU1MTk1MzcsNjUxMDQ5MzkzLDU4MTc0MTAyMS
+wxNzA4NDc0MDM3LDE4NDk1MTUzOTcsMTU0ODg2MDE1MiwzNTQ2
+NjM4MzRdfQ==
 -->
