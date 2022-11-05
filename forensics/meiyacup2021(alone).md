@@ -454,9 +454,13 @@ D. 此相片的拍摄时间为 2021-09-08 17:35:00(UTC+8)
 分析一下照片信息，很明显，下面的Metadata中的捕捉时间和上面的创建时间不一样，并且相机型号是IPhone12和本机不同，所以猜测是隔空投送来的，所以选AD
 >![输入图片说明](/imgs/2022-11-05/BB2IEFgpWo6jGvAq.png)
 >38. [单选题] 阿力士iPhone XR中阿力士的电邮账户Alexc19851016@gmail.com的密码有可能是什么? (1分)
->我一般密码都存在beiwn
+>我一般密码都存在备忘录里，正好相机里只有一个备忘录，里面记录了密码**Aa475869!**
+>![输入图片说明](/imgs/2022-11-05/twwWMU2o6RwAnr9V.png)
+
+>39. [填空题] 阿力士iPhone XR曾经连接Wifi “Alex Home”的密码是什么? (请以英文全大写及阿拉伯数字回答) (1分)
+>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjMzOTAwNTIsLTk0ODIyMjI0MywxNj
+eyJoaXN0b3J5IjpbLTE2MTc1MDU3MjUsLTk0ODIyMjI0MywxNj
 g2MDYyNzY5LDExNTU1MTk1MzcsNjUxMDQ5MzkzLDU4MTc0MTAy
 MSwxNzA4NDc0MDM3LDE4NDk1MTUzOTcsMTU0ODg2MDE1MiwzNT
 Q2NjM4MzQsMTMxNTMyMTAxMSwxMTEzNjM4NzYyLC0xNjczNDQ5
