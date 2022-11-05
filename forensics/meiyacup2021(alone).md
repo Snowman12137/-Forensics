@@ -476,7 +476,7 @@ D. 2021-10-21 10:02:13 + (UTC+8)
 >![输入图片说明](/imgs/2022-11-05/BMqGBM5tUyVZu18w.png)
 >网上的配置文件路径没有搜到，刚准备一个一个翻，没想到第一个文件就找到了（乐）
 
->42. [多选题] 阿力士iPhone XR中的WhatsApp群组『团购-新鲜猪肉牛肉-东涌群组-9/30』有以下哪一个成员? (2分)A
+>42. [多选题] 阿力士iPhone XR中的WhatsApp群组『团购-新鲜猪肉牛肉-东涌群组-9/30』有以下哪一个成员? (2分)**AD**
 A. 85260617332@s.whatsapp.net
 B. 85260452579@s.whatsapp.net
 C. 85248791565@s.whatsapp.net
@@ -484,12 +484,14 @@ D. 85264630956@s.whatsapp.net
 盲猜这个，送分
 >![输入图片说明](/imgs/2022-11-05/kQmfvkZpIlAullm9.png)
 
+## 45-52题（）
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI5MDQ3NzMxLC0yMTI0NzM2Mzk2LDk0Nz
-g2NzA4NCwtNTczODcwODUyLC05NDgyMjIyNDMsMTY4NjA2Mjc2
-OSwxMTU1NTE5NTM3LDY1MTA0OTM5Myw1ODE3NDEwMjEsMTcwOD
-Q3NDAzNywxODQ5NTE1Mzk3LDE1NDg4NjAxNTIsMzU0NjYzODM0
-LDEzMTUzMjEwMTEsMTExMzYzODc2MiwtMTY3MzQ0OTI5MywtMT
-I4MzA5ODg4NCwxNDk3MzExMzMzLC0xNjE1NzQxNzkyLDEzMjM1
-OTI5NDFdfQ==
+eyJoaXN0b3J5IjpbLTUxMTM0MDE4NywtMjEyNDczNjM5Niw5ND
+c4NjcwODQsLTU3Mzg3MDg1MiwtOTQ4MjIyMjQzLDE2ODYwNjI3
+NjksMTE1NTUxOTUzNyw2NTEwNDkzOTMsNTgxNzQxMDIxLDE3MD
+g0NzQwMzcsMTg0OTUxNTM5NywxNTQ4ODYwMTUyLDM1NDY2Mzgz
+NCwxMzE1MzIxMDExLDExMTM2Mzg3NjIsLTE2NzM0NDkyOTMsLT
+EyODMwOTg4ODQsMTQ5NzMxMTMzMywtMTYxNTc0MTc5MiwxMzIz
+NTkyOTQxXX0=
 -->
