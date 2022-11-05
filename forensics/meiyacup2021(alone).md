@@ -573,9 +573,9 @@ H4PtQsAuVyTQ&usqp=CAU”下载的
 B. 该图片经过加密
 C. 该图片于 2021-09-30 下载
 D. 该图片是由 GIF 档转换成 PNG 檔
->看了一下图片分类，盲猜一下是一个jpg格式的，翻了一圈没找到，还有可能是PNG图片，但是2w张，算了算了从下载的关键字找一下，可能下载到本地，也可能是
+>看了一下图片分类，盲猜一下是一个jpg格式的，翻了一圈没找到，还有可能是PNG图片，但是2w张，算了算了从下载的关键字找一下，可能下载到本地，也可能是浏览器下载，找一下
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzUxMDM0MjYsMTIyNjU0NzE1OSwtMj
+eyJoaXN0b3J5IjpbLTE4NjExNDU3NjgsMTIyNjU0NzE1OSwtMj
 ExNzA2NjA4NywxMTQ4MjU3MDYxLDEwNDM5OTE0MDYsLTEwNDA4
 MjU4NDcsLTIxMjQ3MzYzOTYsOTQ3ODY3MDg0LC01NzM4NzA4NT
 IsLTk0ODIyMjI0MywxNjg2MDYyNzY5LDExNTU1MTk1MzcsNjUx
