@@ -532,17 +532,25 @@ D.以上接非
 ![输入图片说明](/imgs/2022-11-05/Bo6lkRcMpihMjIOK.png)
 >![输入图片说明](/imgs/2022-11-05/g0vct86OfywUjxZF.png)
 
->44. [单选题] 阿力士的计算机显示阿力士曾用什么方法进入受害者(主管)的计算机? (1分)
+>44. [单选题] 阿力士的计算机显示阿力士曾用什么方法进入受害者(主管)的计算机? (1分)**A**
 A. 远程操控
 B. 特洛伊木马程序
 C. 勒索软件
 D. 恶意软件
+前面都说过是用TeamViewer进行操作的
+
+>45. [单选题] 续上题，阿力士最后一次进入受害者(主管)计算机的时间是什么? (2分)
+A. 于 2021 年 10 月 18 日 10 时 36 分
+B. 于 2021 年 10 月 18 日 18 时 36 分
+C. 于 2021 年 10 月 18 日 6 时 53 分
+D. 于 2021 年 10 月 18 日 18 时 42 分
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjEyNTg4NzMsMTA0Mzk5MTQwNiwtMT
-A0MDgyNTg0NywtMjEyNDczNjM5Niw5NDc4NjcwODQsLTU3Mzg3
-MDg1MiwtOTQ4MjIyMjQzLDE2ODYwNjI3NjksMTE1NTUxOTUzNy
-w2NTEwNDkzOTMsNTgxNzQxMDIxLDE3MDg0NzQwMzcsMTg0OTUx
-NTM5NywxNTQ4ODYwMTUyLDM1NDY2MzgzNCwxMzE1MzIxMDExLD
-ExMTM2Mzg3NjIsLTE2NzM0NDkyOTMsLTEyODMwOTg4ODQsMTQ5
-NzMxMTMzM119
+eyJoaXN0b3J5IjpbMTEzMDQyMTUzNSwxMDQzOTkxNDA2LC0xMD
+QwODI1ODQ3LC0yMTI0NzM2Mzk2LDk0Nzg2NzA4NCwtNTczODcw
+ODUyLC05NDgyMjIyNDMsMTY4NjA2Mjc2OSwxMTU1NTE5NTM3LD
+Y1MTA0OTM5Myw1ODE3NDEwMjEsMTcwODQ3NDAzNywxODQ5NTE1
+Mzk3LDE1NDg4NjAxNTIsMzU0NjYzODM0LDEzMTUzMjEwMTEsMT
+ExMzYzODc2MiwtMTY3MzQ0OTI5MywtMTI4MzA5ODg4NCwxNDk3
+MzExMzMzXX0=
 -->
