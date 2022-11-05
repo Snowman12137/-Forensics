@@ -472,9 +472,9 @@ D. 2021-10-21 10:02:13 + (UTC+8)
 >![输入图片说明](/imgs/2022-11-05/AilIVZ74Ek4AAg7x.png)
 
 >41. [填空题] 阿力士iPhone XR中的iBoot版本是iBoot-__________? (请以阿拉伯数字回答，不用轮入“.”) (1分)  
->
+>简单搜了一下都没有，应用商店搜了一下也没有，我感觉是系统内置的什么东西，又去基本信息找了一下也没有，去网上搜一下，
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAzMjY0OTA0LC01NzM4NzA4NTIsLTk0OD
+eyJoaXN0b3J5IjpbOTQ3ODY3MDg0LC01NzM4NzA4NTIsLTk0OD
 IyMjI0MywxNjg2MDYyNzY5LDExNTU1MTk1MzcsNjUxMDQ5Mzkz
 LDU4MTc0MTAyMSwxNzA4NDc0MDM3LDE4NDk1MTUzOTcsMTU0OD
 g2MDE1MiwzNTQ2NjM4MzQsMTMxNTMyMTAxMSwxMTEzNjM4NzYy
