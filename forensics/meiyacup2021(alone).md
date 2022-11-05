@@ -437,18 +437,20 @@ D. 此对话是引用 Alex Chan 回复
 
 >35. [填空题] 阿力士iPhone XR的WhatsApp对话中，阿力士曾要求工地主管支付多少个BTC? (请以阿拉伯数字回答) (1分)
 >上图  **10**
->>36. [多选题] 阿力士iPhone XR中 “IMG_0056.HEIC”的图像与"5005.JPG"(MD5: 96c48152249536d14eaa80086c92fcb9)” 看似为同一张相片，在电子数据取证分析下，以下哪样描述是正确? (2分)
+>>36. [多选题] 阿力士iPhone XR中 “IMG_0056.HEIC”的图像与"5005.JPG"(MD5: 96c48152249536d14eaa80086c92fcb9)” 看似为同一张相片，在电子数据取证分析下，以下哪样描述是正确? (2分)**BC**
 >A. 储存在不同的.db 里
 B. 有不同哈希值
 C. IMG_0056.HEIC 为原图, 5005.JPG(MD5: 96c48152249536d14eaa80086c92fcb9)为缩略图
 D. IMG_0056.HEIC 曾被开启过，所以在IOS系统中创建了缩略图5005.JPG(MD5: 96c48152249536d14eaa80086c92fcb9)
->
+>存储在lu
+>![输入图片说明](/imgs/2022-11-05/Os0Rc2zpe6AO2yAo.png)
+>![输入图片说明](/imgs/2022-11-05/FrcwRzPjvFWfVHER.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NjA2Mjc2OSwxMTU1NTE5NTM3LDY1MT
-A0OTM5Myw1ODE3NDEwMjEsMTcwODQ3NDAzNywxODQ5NTE1Mzk3
-LDE1NDg4NjAxNTIsMzU0NjYzODM0LDEzMTUzMjEwMTEsMTExMz
-YzODc2MiwtMTY3MzQ0OTI5MywtMTI4MzA5ODg4NCwxNDk3MzEx
-MzMzLC0xNjE1NzQxNzkyLDEzMjM1OTI5NDEsNDA1ODg4OTkzLD
-EyNDkxNjQwNTUsNDM1MTMzNDY3LC0xNjEyODIzNTMzLDE4Njcy
-MjE3ODddfQ==
+eyJoaXN0b3J5IjpbMzgzNTM2MDAyLDE2ODYwNjI3NjksMTE1NT
+UxOTUzNyw2NTEwNDkzOTMsNTgxNzQxMDIxLDE3MDg0NzQwMzcs
+MTg0OTUxNTM5NywxNTQ4ODYwMTUyLDM1NDY2MzgzNCwxMzE1Mz
+IxMDExLDExMTM2Mzg3NjIsLTE2NzM0NDkyOTMsLTEyODMwOTg4
+ODQsMTQ5NzMxMTMzMywtMTYxNTc0MTc5MiwxMzIzNTkyOTQxLD
+QwNTg4ODk5MywxMjQ5MTY0MDU1LDQzNTEzMzQ2NywtMTYxMjgy
+MzUzM119
 -->
