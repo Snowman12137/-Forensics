@@ -639,9 +639,18 @@ F. Staff3
 >找终端权限，chmod是对文件权限进行更改
 >![输入图片说明](/imgs/2022-11-05/zlbgWYmODPTAGfE6.png)
 
->56. [填空题] 在阿力士FTP 服务器建设后，有______个额外用户被加入 (请以阿拉伯数字回答) (2分)f
+>56. [填空题] 在阿力士FTP 服务器建设后，有______个额外用户被加入 (请以阿拉伯数字回答) (2分)**1**
+>这个不太会，搜一下，发现pure命令是加入用户，那就直接看下终端
+>![输入图片说明](/imgs/2022-11-05/QvlDjFkuDamwU9Re.png)
+
+>57. [单选题] 根据阿力士FTP服务器设定显示，此服务器是以_____方式连接网络，且是一个_______网络状态 (1分)
+A. 无线 , 公开
+B. 无线 , 私人
+C. 有线 , 公开
+D. 有线 , 私人
+>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDQzODc4OCwyNzUzMjIwMTAsMzY3ND
+eyJoaXN0b3J5IjpbLTkyNTg2MzYwNSwyNzUzMjIwMTAsMzY3ND
 E2OTU1LDEyODc5MzA1NTIsMTIyNjU0NzE1OSwtMjExNzA2NjA4
 NywxMTQ4MjU3MDYxLDEwNDM5OTE0MDYsLTEwNDA4MjU4NDcsLT
 IxMjQ3MzYzOTYsOTQ3ODY3MDg0LC01NzM4NzA4NTIsLTk0ODIy
