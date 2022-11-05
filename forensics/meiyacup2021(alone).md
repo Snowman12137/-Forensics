@@ -523,20 +523,26 @@ D.以上接非
 >
 
 
->43. [单选题] 阿力士的计算机显示曾于hongkongcard.com 的论坛登记成为会员，以下哪个是他的帐户密码? (3分)
+>43. [单选题] 阿力士的计算机显示曾于hongkongcard.com 的论坛登记成为会员，以下哪个是他的帐户密码? (3分)**A**
 A. Aa475869!
 B. Bb475869!
 C. Cd475869!
 D.以上接非
->简单搜索一下，出现了一个熟悉的账号，
+>简单搜索一下，出现了一个熟悉的账号，回到第38题答案
 ![输入图片说明](/imgs/2022-11-05/Bo6lkRcMpihMjIOK.png)
 >![输入图片说明](/imgs/2022-11-05/g0vct86OfywUjxZF.png)
+
+>44. [单选题] 阿力士的计算机显示阿力士曾用什么方法进入受害者(主管)的计算机? (1分)
+A. 远程操控
+B. 特洛伊木马程序
+C. 勒索软件
+D. 恶意软件
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNjQ1MDEwLDEwNDM5OTE0MDYsLTEwND
-A4MjU4NDcsLTIxMjQ3MzYzOTYsOTQ3ODY3MDg0LC01NzM4NzA4
-NTIsLTk0ODIyMjI0MywxNjg2MDYyNzY5LDExNTU1MTk1MzcsNj
-UxMDQ5MzkzLDU4MTc0MTAyMSwxNzA4NDc0MDM3LDE4NDk1MTUz
-OTcsMTU0ODg2MDE1MiwzNTQ2NjM4MzQsMTMxNTMyMTAxMSwxMT
-EzNjM4NzYyLC0xNjczNDQ5MjkzLC0xMjgzMDk4ODg0LDE0OTcz
-MTEzMzNdfQ==
+eyJoaXN0b3J5IjpbLTE0NjEyNTg4NzMsMTA0Mzk5MTQwNiwtMT
+A0MDgyNTg0NywtMjEyNDczNjM5Niw5NDc4NjcwODQsLTU3Mzg3
+MDg1MiwtOTQ4MjIyMjQzLDE2ODYwNjI3NjksMTE1NTUxOTUzNy
+w2NTEwNDkzOTMsNTgxNzQxMDIxLDE3MDg0NzQwMzcsMTg0OTUx
+NTM5NywxNTQ4ODYwMTUyLDM1NDY2MzgzNCwxMzE1MzIxMDExLD
+ExMTM2Mzg3NjIsLTE2NzM0NDkyOTMsLTEyODMwOTg4ODQsMTQ5
+NzMxMTMzM119
 -->
