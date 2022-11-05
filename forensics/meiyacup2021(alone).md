@@ -475,12 +475,21 @@ D. 2021-10-21 10:02:13 + (UTC+8)
 >简单搜了一下都没有，应用商店搜了一下也没有，我感觉是系统内置的什么东西，又去基本信息找了一下也没有，去网上搜一下，发现IBoot是一个类似苹果内核core的东西，emmmmmm，可能会在iPhone的配置文件里
 >![输入图片说明](/imgs/2022-11-05/BMqGBM5tUyVZu18w.png)
 >网上的配置文件路径没有搜到，刚准备一个一个翻，没想到第一个文件就找到了（乐）
+
+>42. [多选题] 阿力士iPhone XR中的WhatsApp群组『团购-新鲜猪肉牛肉-东涌群组-9/30』有以下哪一个成员? (2分)A
+A. 85260617332@s.whatsapp.net
+B. 85260452579@s.whatsapp.net
+C. 85248791565@s.whatsapp.net
+D. 85264630956@s.whatsapp.net
+盲猜这个，送分
+>![输入图片说明](/imgs/2022-11-05/kQmfvkZpIlAullm9.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDI5OTQ0MzEsLTIxMjQ3MzYzOTYsOT
-Q3ODY3MDg0LC01NzM4NzA4NTIsLTk0ODIyMjI0MywxNjg2MDYy
-NzY5LDExNTU1MTk1MzcsNjUxMDQ5MzkzLDU4MTc0MTAyMSwxNz
-A4NDc0MDM3LDE4NDk1MTUzOTcsMTU0ODg2MDE1MiwzNTQ2NjM4
-MzQsMTMxNTMyMTAxMSwxMTEzNjM4NzYyLC0xNjczNDQ5MjkzLC
-0xMjgzMDk4ODg0LDE0OTczMTEzMzMsLTE2MTU3NDE3OTIsMTMy
-MzU5Mjk0MV19
+eyJoaXN0b3J5IjpbMjI5MDQ3NzMxLC0yMTI0NzM2Mzk2LDk0Nz
+g2NzA4NCwtNTczODcwODUyLC05NDgyMjIyNDMsMTY4NjA2Mjc2
+OSwxMTU1NTE5NTM3LDY1MTA0OTM5Myw1ODE3NDEwMjEsMTcwOD
+Q3NDAzNywxODQ5NTE1Mzk3LDE1NDg4NjAxNTIsMzU0NjYzODM0
+LDEzMTUzMjEwMTEsMTExMzYzODc2MiwtMTY3MzQ0OTI5MywtMT
+I4MzA5ODg4NCwxNDk3MzExMzMzLC0xNjE1NzQxNzkyLDEzMjM1
+OTI5NDFdfQ==
 -->
