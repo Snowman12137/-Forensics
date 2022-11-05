@@ -421,17 +421,22 @@ B. 85260452579@s.whatsapp.net
 C. 85248791565@s.whatsapp.net
 D. 85264630956@s.whatsapp.net
 
->34. [多选题] 阿力士iPhone XR中在软件WhatsApp中工地主管与阿力士的对话中曾提到：[佢叫我俾钱喎，BTC係唔係呢个啊？]。在进行电子数据取证分析后，以下哪一个是有可能关于此对话的正确描述？ (2分)
+>34. [多选题] 阿力士iPhone XR中在软件WhatsApp中工地主管与阿力士的对话中曾提到：[佢叫我俾钱喎，BTC係唔係呢个啊？]。在进行电子数据取证分析后，以下哪一个是有可能关于此对话的正确描述？ (2分)**AB**
 A. 此对话被 Kariser Lee 删除
 B. 此对话的附件为一张图片文件
 C. 此对话被 Alex Chan 删除
 D. 此对话是引用 Alex Chan 回复
->打开他们两个对话，发现都提示被删除，如果是Alex chan删除的，那么Lee手机上应该会显示正常才对，所以只能是l
+>打开他们两个对话，发现都提示被删除，如果是Alex chan删除的，那么Lee手机上应该会显示正常才对，Lee是消息的发送者，只有他删除了消息，双方才会都显示删除。并且还附赠一张照片
 >
 >这个是阿力士的手机![输入图片说明](/imgs/2022-11-05/LQUnyWpAFZIC6AV7.png)
 >这个是Lee的手机![输入图片说明](/imgs/2022-11-05/edLT4aJ4ksapeZWd.png)
+
+>35. [填空题] 阿力士iPhone XR的WhatsApp对话中，阿力士曾要求工地主管支付多少个BTC? (请以阿拉伯数字回答) (1分)
+>上图  **10**
+>>36. [多选题] 阿力士iPhone XR中 “IMG_0056.HEIC”的图像与"5005.JPG"(MD5: 96c48152249536d14eaa80086c92fcb9)” 看似为同一张相片，在电子数据取证分析下，以下哪样描述是正确? (2分)
+>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM2MzcwNzM0LDExNTU1MTk1MzcsNjUxMD
+eyJoaXN0b3J5IjpbMTQ2OTExOTUzLDExNTU1MTk1MzcsNjUxMD
 Q5MzkzLDU4MTc0MTAyMSwxNzA4NDc0MDM3LDE4NDk1MTUzOTcs
 MTU0ODg2MDE1MiwzNTQ2NjM4MzQsMTMxNTMyMTAxMSwxMTEzNj
 M4NzYyLC0xNjczNDQ5MjkzLC0xMjgzMDk4ODg0LDE0OTczMTEz
