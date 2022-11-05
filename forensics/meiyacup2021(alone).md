@@ -484,10 +484,15 @@ D. 85264630956@s.whatsapp.net
 盲猜这个，送分
 >![输入图片说明](/imgs/2022-11-05/kQmfvkZpIlAullm9.png)
 
-## 45-52题（）
+## 43-52题（）
+>43. [单选题] 阿力士的计算机显示曾于hongkongcard.com 的论坛登记成为会员，以下哪个是他的帐户密码? (3分)
+A. Aa475869!
+B. Bb475869!
+C. Cd475869!
+D.以上jiefei
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMTM0MDE4NywtMjEyNDczNjM5Niw5ND
+eyJoaXN0b3J5IjpbLTYzOTY1ODc2NywtMjEyNDczNjM5Niw5ND
 c4NjcwODQsLTU3Mzg3MDg1MiwtOTQ4MjIyMjQzLDE2ODYwNjI3
 NjksMTE1NTUxOTUzNyw2NTEwNDkzOTMsNTgxNzQxMDIxLDE3MD
 g0NzQwMzcsMTg0OTUxNTM5NywxNTQ4ODYwMTUyLDM1NDY2Mzgz
