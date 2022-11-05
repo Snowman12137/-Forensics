@@ -653,10 +653,13 @@ D. 有线 , 私人
 >![输入图片说明](/imgs/2022-11-05/N1VILfHC3JbHy4Jg.png)
 
 
->58. [填空题] 阿力士FTP 服务器设定最多使用者数目是_____ (请以阿拉伯数字回答) (2分)
->这个不太会，网上看了下，需要看ftp的配置文件，搜索一下
+>58. [填空题] 阿力士FTP 服务器设定最多使用者数目是_____ (请以阿拉伯数字回答) (2分)**50**
+>这个不太会，网上看了下，需要看ftp的配置文件，搜索一下找到答案50
+>![输入图片说明](/imgs/2022-11-05/OZPXOTP3LSmJ4ONk.png)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjUxMTE0NzEsMTQ0NTc2NTk3LC05Mj
+eyJoaXN0b3J5IjpbLTE2NDY2OTI4OTIsMTQ0NTc2NTk3LC05Mj
 U4NjM2MDUsMjc1MzIyMDEwLDM2NzQxNjk1NSwxMjg3OTMwNTUy
 LDEyMjY1NDcxNTksLTIxMTcwNjYwODcsMTE0ODI1NzA2MSwxMD
 QzOTkxNDA2LC0xMDQwODI1ODQ3LC0yMTI0NzM2Mzk2LDk0Nzg2
