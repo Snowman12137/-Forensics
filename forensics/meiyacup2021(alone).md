@@ -547,14 +547,17 @@ D. 于 2021 年 10 月 18 日 18 时 42 分
 >别忘了内个主管的ID对应的时间
 ![输入图片说明](/imgs/2022-11-05/B0h8NJr8W6SOIha0.png)
 
->46. [填空题] 阿力士的计算机显示他曾经使用FTP程序，FTP的主机IP地址是什麼?(请以亚拉伯数字作答，省去“.”符号) (2分）19
->内个下载工具![输入图片说明](/imgs/2022-11-05/WzeCldw09QNtExf5.png)
+>46. [填空题] 阿力士的计算机显示他曾经使用FTP程序，FTP的主机IP地址是什麼?(请以亚拉伯数字作答，省去“.”符号) (2分）**218.255.242.114**
+>内个下载工具，好像前面路由日志捏内快也出现过![输入图片说明](/imgs/2022-11-05/WzeCldw09QNtExf5.png)
+
+>47. [填空题] 阿力士的计算机显示于2021年9月至2021年11月期间，计算机曾被登入过多少次? (请以阿拉伯数字回答) (1分)
+>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTUyMzI4ODYsMTA0Mzk5MTQwNiwtMT
-A0MDgyNTg0NywtMjEyNDczNjM5Niw5NDc4NjcwODQsLTU3Mzg3
-MDg1MiwtOTQ4MjIyMjQzLDE2ODYwNjI3NjksMTE1NTUxOTUzNy
-w2NTEwNDkzOTMsNTgxNzQxMDIxLDE3MDg0NzQwMzcsMTg0OTUx
-NTM5NywxNTQ4ODYwMTUyLDM1NDY2MzgzNCwxMzE1MzIxMDExLD
-ExMTM2Mzg3NjIsLTE2NzM0NDkyOTMsLTEyODMwOTg4ODQsMTQ5
-NzMxMTMzM119
+eyJoaXN0b3J5IjpbMTE0ODI1NzA2MSwxMDQzOTkxNDA2LC0xMD
+QwODI1ODQ3LC0yMTI0NzM2Mzk2LDk0Nzg2NzA4NCwtNTczODcw
+ODUyLC05NDgyMjIyNDMsMTY4NjA2Mjc2OSwxMTU1NTE5NTM3LD
+Y1MTA0OTM5Myw1ODE3NDEwMjEsMTcwODQ3NDAzNywxODQ5NTE1
+Mzk3LDE1NDg4NjAxNTIsMzU0NjYzODM0LDEzMTUzMjEwMTEsMT
+ExMzYzODc2MiwtMTY3MzQ0OTI5MywtMTI4MzA5ODg4NCwxNDk3
+MzExMzMzXX0=
 -->
