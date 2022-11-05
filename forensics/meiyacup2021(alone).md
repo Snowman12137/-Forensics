@@ -566,7 +566,7 @@ D. 于 2021 年 10 月 18 日 18 时 42 分
 >**003311000000001AA411**
 >简单不多BB![输入图片说明](/imgs/2022-11-05/Hl93VZrpn8UDyqki.png)
 
->51. [单选题] 阿力士计算机曾经下载一张猴子的图片，以下哪一项描述正确? (1分)
+>51. [单选题] 阿力士计算机曾经下载一张猴子的图片，以下哪一项描述正确? (1分)**A**
 A. 该图片是由
 “https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgn6ABvcqTfFPjcIbjc9hdx1
 H4PtQsAuVyTQ&usqp=CAU”下载的
@@ -577,12 +577,15 @@ D. 该图片是由 GIF 档转换成 PNG 檔
 >![输入图片说明](/imgs/2022-11-05/YGMHd7fK1mYqRai5.png)
 >在系统默认下载路径找到了（果然是PNG格式）
 >观察一下下载的东西，发现好多软件的EXE都在下载到这里，推测是浏览器的默认下载路径
+>搜一下果然出来了![输入图片说明](/imgs/2022-11-05/enrQEW9SDUqFq9Rq.png)
+
+>52. [填空题] 阿力士计算机所安装的Microsoft Office 2007 的密钥是甚么? (请以英文全大写及阿拉伯数字回答，不用输入”-“) (1分)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjUyNTgxNzAsMTI4NzkzMDU1MiwxMj
-I2NTQ3MTU5LC0yMTE3MDY2MDg3LDExNDgyNTcwNjEsMTA0Mzk5
-MTQwNiwtMTA0MDgyNTg0NywtMjEyNDczNjM5Niw5NDc4NjcwOD
-QsLTU3Mzg3MDg1MiwtOTQ4MjIyMjQzLDE2ODYwNjI3NjksMTE1
-NTUxOTUzNyw2NTEwNDkzOTMsNTgxNzQxMDIxLDE3MDg0NzQwMz
-csMTg0OTUxNTM5NywxNTQ4ODYwMTUyLDM1NDY2MzgzNCwxMzE1
-MzIxMDExXX0=
+eyJoaXN0b3J5IjpbMzY3NDE2OTU1LDEyODc5MzA1NTIsMTIyNj
+U0NzE1OSwtMjExNzA2NjA4NywxMTQ4MjU3MDYxLDEwNDM5OTE0
+MDYsLTEwNDA4MjU4NDcsLTIxMjQ3MzYzOTYsOTQ3ODY3MDg0LC
+01NzM4NzA4NTIsLTk0ODIyMjI0MywxNjg2MDYyNzY5LDExNTU1
+MTk1MzcsNjUxMDQ5MzkzLDU4MTc0MTAyMSwxNzA4NDc0MDM3LD
+E4NDk1MTUzOTcsMTU0ODg2MDE1MiwzNTQ2NjM4MzQsMTMxNTMy
+MTAxMV19
 -->
