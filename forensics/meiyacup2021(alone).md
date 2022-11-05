@@ -639,9 +639,9 @@ F. Staff3
 >找终端权限，chmod是对文件权限进行更改
 >![输入图片说明](/imgs/2022-11-05/zlbgWYmODPTAGfE6.png)
 
->56. [填空题] 在阿力士FTP 服务器建设后，有______个额外用户被加入 (请以阿拉伯数字回答) (2分)
+>56. [填空题] 在阿力士FTP 服务器建设后，有______个额外用户被加入 (请以阿拉伯数字回答) (2分)f
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NjYxOTc2MiwyNzUzMjIwMTAsMzY3ND
+eyJoaXN0b3J5IjpbLTE5MDQzODc4OCwyNzUzMjIwMTAsMzY3ND
 E2OTU1LDEyODc5MzA1NTIsMTIyNjU0NzE1OSwtMjExNzA2NjA4
 NywxMTQ4MjU3MDYxLDEwNDM5OTE0MDYsLTEwNDA4MjU4NDcsLT
 IxMjQ3MzYzOTYsOTQ3ODY3MDg0LC01NzM4NzA4NTIsLTk0ODIy
