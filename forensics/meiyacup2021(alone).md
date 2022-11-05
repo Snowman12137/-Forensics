@@ -461,18 +461,22 @@ D. 此相片的拍摄时间为 2021-09-08 17:35:00(UTC+8)
 >搜索一下，发现密码**12345678**
 >![输入图片说明](/imgs/2022-11-05/L3oEhrqKYIFqibma.png)
 
->40. [单选题] 阿力士iPhone XR经iCloud备份的最后时间是什么?(UTC+8)? (1分)
+>40. [单选题] 阿力士iPhone XR经iCloud备份的最后时间是什么?(UTC+8)? (1分)**A**
 A. 2021-10-21 17:51:38(UTC+8)
 B. 2021-10-21 18:02:13 + (UTC+8)
 C. 2021-10-21 09:51:38(UTC+8)
 D. 2021-10-21 10:02:13 + (UTC+8)
->搜索iCloud，大致翻找一下每条信息的时间发现最新时间是10-21 9:58:30
+>搜索iCloud，大致翻找一下每条信息的时间发现最新时间是10-21 9:58:30然后时区+8
+>![输入图片说明](/imgs/2022-11-05/zqtk0lt5YoG5EI9n.png)
+
+>41. [填空题] 阿力士iPhone XR中的iBoot版本是iBoot-__________? (请以阿拉伯数字回答，不用轮入“.”) (1分)  
+>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MjA1NzI2NSwtNTczODcwODUyLC05ND
-gyMjIyNDMsMTY4NjA2Mjc2OSwxMTU1NTE5NTM3LDY1MTA0OTM5
-Myw1ODE3NDEwMjEsMTcwODQ3NDAzNywxODQ5NTE1Mzk3LDE1ND
-g4NjAxNTIsMzU0NjYzODM0LDEzMTUzMjEwMTEsMTExMzYzODc2
-MiwtMTY3MzQ0OTI5MywtMTI4MzA5ODg4NCwxNDk3MzExMzMzLC
-0xNjE1NzQxNzkyLDEzMjM1OTI5NDEsNDA1ODg4OTkzLDEyNDkx
-NjQwNTVdfQ==
+eyJoaXN0b3J5IjpbNzE1NTgwMTUxLC01NzM4NzA4NTIsLTk0OD
+IyMjI0MywxNjg2MDYyNzY5LDExNTU1MTk1MzcsNjUxMDQ5Mzkz
+LDU4MTc0MTAyMSwxNzA4NDc0MDM3LDE4NDk1MTUzOTcsMTU0OD
+g2MDE1MiwzNTQ2NjM4MzQsMTMxNTMyMTAxMSwxMTEzNjM4NzYy
+LC0xNjczNDQ5MjkzLC0xMjgzMDk4ODg0LDE0OTczMTEzMzMsLT
+E2MTU3NDE3OTIsMTMyMzU5Mjk0MSw0MDU4ODg5OTMsMTI0OTE2
+NDA1NV19
 -->
