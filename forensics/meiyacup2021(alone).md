@@ -648,10 +648,10 @@ A. 无线 , 公开
 B. 无线 , 私人
 C. 有线 , 公开
 D. 有线 , 私人
->首先他有线，盲猜一下，这是用来勒索诈骗的，肯定不能是公共的，找一下配置文件
+>首先他有线，盲猜一下，这是用来勒索诈骗的，肯定不能是公共的，找一下配置文件/etc/sysconfig/network-scripts/
 >![输入图片说明](/imgs/2022-11-05/Nfgnuv2GuQ1HWWZ3.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNzAxMzEzLC05MjU4NjM2MDUsMjc1Mz
+eyJoaXN0b3J5IjpbMTQ0NTc2NTk3LC05MjU4NjM2MDUsMjc1Mz
 IyMDEwLDM2NzQxNjk1NSwxMjg3OTMwNTUyLDEyMjY1NDcxNTks
 LTIxMTcwNjYwODcsMTE0ODI1NzA2MSwxMDQzOTkxNDA2LC0xMD
 QwODI1ODQ3LC0yMTI0NzM2Mzk2LDk0Nzg2NzA4NCwtNTczODcw
