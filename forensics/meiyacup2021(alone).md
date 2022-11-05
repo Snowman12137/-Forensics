@@ -559,9 +559,9 @@ D. 于 2021 年 10 月 18 日 18 时 42 分
 >![输入图片说明](/imgs/2022-11-05/P2kaxLSkipG3bV9h.png)
 
 >49. [填空题] 以下是阿力士计算机中的Basic data partition (EFI 3) 的Volume ID? (请以英文全大写及阿拉伯数字回答) (2分)
->zhet
+>这题不会，之前没接触过底层的东西，上网搜一下，发现要用到DiskGenius，下载下来，然后取证大师里取证文件里面对镜像右键进行挂载，然后用DiskGenius一点就好了
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4ODA2ODkwMCwtMjExNzA2NjA4NywxMT
+eyJoaXN0b3J5IjpbMTU0NjgyODM3OCwtMjExNzA2NjA4NywxMT
 Q4MjU3MDYxLDEwNDM5OTE0MDYsLTEwNDA4MjU4NDcsLTIxMjQ3
 MzYzOTYsOTQ3ODY3MDg0LC01NzM4NzA4NTIsLTk0ODIyMjI0My
 wxNjg2MDYyNzY5LDExNTU1MTk1MzcsNjUxMDQ5MzkzLDU4MTc0
