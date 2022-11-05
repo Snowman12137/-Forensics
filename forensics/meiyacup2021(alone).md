@@ -577,7 +577,7 @@ D. 该图片是由 GIF 档转换成 PNG 檔
 >**V77WQ-RPVP6-7MTPG-WH3G9-D44MJ**![输入图片说明](/imgs/2022-11-05/C89wf7fdmkMDKjjs.png)
 
 
-## 53-
+## 53-62
 FTP服务器
 >53. [单选题] 阿力士FTP 服务器用户使用命令行安装了甚么程序? (1分)
 A. Docker
@@ -597,9 +597,11 @@ A. 无线 , 公开
 B. 无线 , 私人
 C. 有线 , 公开
 D. 有线 , 私人
+>57[填空题] 阿力士FTP 服务器设定最多使用者数目是 50 (请以阿拉伯数字回答) (2分)
+>58[填空题] 阿力士FTP服务器使用Docker安装了一个FTP程序为stilliard/pure-ftpd。(例如 space docker /1.1，请输入 spacedocker/1.1，不要输入空格) (2分)
 >
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNzkxNzk1MSwzNjc0MTY5NTUsMTI4Nz
+eyJoaXN0b3J5IjpbMTQ3MDUxNDY5MSwzNjc0MTY5NTUsMTI4Nz
 kzMDU1MiwxMjI2NTQ3MTU5LC0yMTE3MDY2MDg3LDExNDgyNTcw
 NjEsMTA0Mzk5MTQwNiwtMTA0MDgyNTg0NywtMjEyNDczNjM5Ni
 w5NDc4NjcwODQsLTU3Mzg3MDg1MiwtOTQ4MjIyMjQzLDE2ODYw
