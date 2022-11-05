@@ -446,16 +446,17 @@ D. IMG_0056.HEIC 曾被开启过，所以在IOS系统中创建了缩略图5005.J
 >![输入图片说明](/imgs/2022-11-05/Os0Rc2zpe6AO2yAo.png)
 >![输入图片说明](/imgs/2022-11-05/FrcwRzPjvFWfVHER.png)
 
->37. [多选题] 阿力士iPhone XR中相片檔IMG_0056.HEIC提供了什么电子数据取证的信息? (3分)  
+>37. [多选题] 阿力士iPhone XR中相片檔IMG_0056.HEIC提供了什么电子数据取证的信息? (3分)  **AD**
 A. 此相片是由隔空投送 (Airdrop)得来
 B. 此相片由 iPhone XR 拍摄
 C. 此相片的拍摄时间为 2021-10-21 17:45:48(UTC+8)
 D. 此相片的拍摄时间为 2021-09-08 17:35:00(UTC+8)
-分析一下照片信息，很明显，下面的Met
+分析一下照片信息，很明显，下面的Metadata中的捕捉时间和上面的创建时间不一样，并且相机型号是IPhone12和本机不同，所以猜测是隔空投送来的，所以选AD
 >![输入图片说明](/imgs/2022-11-05/BB2IEFgpWo6jGvAq.png)
-
+>38. [单选题] 阿力士iPhone XR中阿力士的电邮账户Alexc19851016@gmail.com的密码有可能是什么? (1分)
+>我一般密码都存在beiwn
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTAyMTc4NjcsLTk0ODIyMjI0MywxNj
+eyJoaXN0b3J5IjpbLTE1NjMzOTAwNTIsLTk0ODIyMjI0MywxNj
 g2MDYyNzY5LDExNTU1MTk1MzcsNjUxMDQ5MzkzLDU4MTc0MTAy
 MSwxNzA4NDc0MDM3LDE4NDk1MTUzOTcsMTU0ODg2MDE1MiwzNT
 Q2NjM4MzQsMTMxNTMyMTAxMSwxMTEzNjM4NzYyLC0xNjczNDQ5
