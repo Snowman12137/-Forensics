@@ -395,17 +395,31 @@ D. 2021 年 10 月 21 日 08:58:29
 
 ## 34-42题（）
 >34. [多选题] 阿力士iPhone XR中在软件WhatsApp中工地主管与阿力士的对话中曾提到：[佢叫我俾钱喎，BTC係唔係呢个啊？]。在进行电子数据取证分析后，以下哪一个是有可能关于此对话的正确描述？ (2分)
-
 A. 此对话被 Kariser Lee 删除
 B. 此对话的附件为一张图片文件
 C. 此对话被 Alex Chan 删除
 D. 此对话是引用 Alex Chan 回复
+>35. [填空题] 阿力士iPhone XR的WhatsApp对话中，阿力士曾要求工地主管支付多少个BTC? (请以阿拉伯数字回答) (1分)
+>36. [多选题] 阿力士iPhone XR中 “IMG_0056.HEIC”的图像与"5005.JPG"(MD5: 96c48152249536d14eaa80086c92fcb9)” 看似为同一张相片，在电子数据取证分析下，以下哪样描述是正确? (2分)
+>37. [多选题] 阿力士iPhone XR中相片檔IMG_0056.HEIC提供了什么电子数据取证的信息? (3分)  
+A. 此相片是由隔空投送 (Airdrop)得来
+B. 此相片由 iPhone XR 拍摄
+C. 此相片的拍摄时间为 2021-10-21 17:45:48(UTC+8)
+D. 此相片的拍摄时间为 2021-09-08 17:35:00(UTC+8)
+>38. [单选题] 阿力士iPhone XR中阿力士的电邮账户Alexc19851016@gmail.com的密码有可能是什么? (1分)
+>39. [填空题] 阿力士iPhone XR曾经连接Wifi “Alex Home”的密码是什么? (请以英文全大写及阿拉伯数字回答) (1分)
+>40. [单选题] 阿力士iPhone XR经iCloud备份的最后时间是什么?(UTC+8)? (1分)
+A. 2021-10-21 17:51:38(UTC+8)
+B. 2021-10-21 18:02:13 + (UTC+8)
+C. 2021-10-21 09:51:38(UTC+8)
+D. 2021-10-21 10:02:13 + (UTC+8)
+?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4ODA2ODY1NSw2NTEwNDkzOTMsNTgxNz
-QxMDIxLDE3MDg0NzQwMzcsMTg0OTUxNTM5NywxNTQ4ODYwMTUy
-LDM1NDY2MzgzNCwxMzE1MzIxMDExLDExMTM2Mzg3NjIsLTE2Nz
-M0NDkyOTMsLTEyODMwOTg4ODQsMTQ5NzMxMTMzMywtMTYxNTc0
-MTc5MiwxMzIzNTkyOTQxLDQwNTg4ODk5MywxMjQ5MTY0MDU1LD
-QzNTEzMzQ2NywtMTYxMjgyMzUzMywxODY3MjIxNzg3LC0xNDg0
-ODg3MjUxXX0=
+eyJoaXN0b3J5IjpbODE3ODU2MjU5LDY1MTA0OTM5Myw1ODE3ND
+EwMjEsMTcwODQ3NDAzNywxODQ5NTE1Mzk3LDE1NDg4NjAxNTIs
+MzU0NjYzODM0LDEzMTUzMjEwMTEsMTExMzYzODc2MiwtMTY3Mz
+Q0OTI5MywtMTI4MzA5ODg4NCwxNDk3MzExMzMzLC0xNjE1NzQx
+NzkyLDEzMjM1OTI5NDEsNDA1ODg4OTkzLDEyNDkxNjQwNTUsND
+M1MTMzNDY3LC0xNjEyODIzNTMzLDE4NjcyMjE3ODcsLTE0ODQ4
+ODcyNTFdfQ==
 -->
