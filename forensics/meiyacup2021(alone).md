@@ -394,7 +394,7 @@ D. 2021 年 10 月 21 日 08:58:29
 ![输入图片说明](/imgs/2022-11-05/EDHeCOX69r0uCcWU.png)
 
 ## 34-42题（14分）
-不用多说iphone XPda
+不用多说iphone XP打开
 >34. [多选题] 阿力士iPhone XR中在软件WhatsApp中工地主管与阿力士的对话中曾提到：[佢叫我俾钱喎，BTC係唔係呢个啊？]。在进行电子数据取证分析后，以下哪一个是有可能关于此对话的正确描述？ (2分)
 A. 此对话被 Kariser Lee 删除
 B. 此对话的附件为一张图片文件
@@ -428,11 +428,11 @@ C. 此对话被 Alex Chan 删除
 D. 此对话是引用 Alex Chan 回复
 >
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM4NjUyODMzLDY1MTA0OTM5Myw1ODE3ND
-EwMjEsMTcwODQ3NDAzNywxODQ5NTE1Mzk3LDE1NDg4NjAxNTIs
-MzU0NjYzODM0LDEzMTUzMjEwMTEsMTExMzYzODc2MiwtMTY3Mz
-Q0OTI5MywtMTI4MzA5ODg4NCwxNDk3MzExMzMzLC0xNjE1NzQx
-NzkyLDEzMjM1OTI5NDEsNDA1ODg4OTkzLDEyNDkxNjQwNTUsND
-M1MTMzNDY3LC0xNjEyODIzNTMzLDE4NjcyMjE3ODcsLTE0ODQ4
-ODcyNTFdfQ==
+eyJoaXN0b3J5IjpbMTE1NTUxOTUzNyw2NTEwNDkzOTMsNTgxNz
+QxMDIxLDE3MDg0NzQwMzcsMTg0OTUxNTM5NywxNTQ4ODYwMTUy
+LDM1NDY2MzgzNCwxMzE1MzIxMDExLDExMTM2Mzg3NjIsLTE2Nz
+M0NDkyOTMsLTEyODMwOTg4ODQsMTQ5NzMxMTMzMywtMTYxNTc0
+MTc5MiwxMzIzNTkyOTQxLDQwNTg4ODk5MywxMjQ5MTY0MDU1LD
+QzNTEzMzQ2NywtMTYxMjgyMzUzMywxODY3MjIxNzg3LC0xNDg0
+ODg3MjUxXX0=
 -->
