@@ -472,13 +472,13 @@ D. 2021-10-21 10:02:13 + (UTC+8)
 >![输入图片说明](/imgs/2022-11-05/AilIVZ74Ek4AAg7x.png)
 
 >41. [填空题] 阿力士iPhone XR中的iBoot版本是iBoot-__________? (请以阿拉伯数字回答，不用轮入“.”) (1分)  
->简单搜了一下都没有，应用商店搜了一下也没有，我感觉是系统内置的什么东西，又去基本信息找了一下也没有，去网上搜一下，
+>简单搜了一下都没有，应用商店搜了一下也没有，我感觉是系统内置的什么东西，又去基本信息找了一下也没有，去网上搜一下，发现IBoot是一个类似苹果内核core的东西，emmmmmm，可能会在iPhone的配置文件里
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ3ODY3MDg0LC01NzM4NzA4NTIsLTk0OD
-IyMjI0MywxNjg2MDYyNzY5LDExNTU1MTk1MzcsNjUxMDQ5Mzkz
-LDU4MTc0MTAyMSwxNzA4NDc0MDM3LDE4NDk1MTUzOTcsMTU0OD
-g2MDE1MiwzNTQ2NjM4MzQsMTMxNTMyMTAxMSwxMTEzNjM4NzYy
-LC0xNjczNDQ5MjkzLC0xMjgzMDk4ODg0LDE0OTczMTEzMzMsLT
-E2MTU3NDE3OTIsMTMyMzU5Mjk0MSw0MDU4ODg5OTMsMTI0OTE2
-NDA1NV19
+eyJoaXN0b3J5IjpbLTIxMjQ3MzYzOTYsOTQ3ODY3MDg0LC01Nz
+M4NzA4NTIsLTk0ODIyMjI0MywxNjg2MDYyNzY5LDExNTU1MTk1
+MzcsNjUxMDQ5MzkzLDU4MTc0MTAyMSwxNzA4NDc0MDM3LDE4ND
+k1MTUzOTcsMTU0ODg2MDE1MiwzNTQ2NjM4MzQsMTMxNTMyMTAx
+MSwxMTEzNjM4NzYyLC0xNjczNDQ5MjkzLC0xMjgzMDk4ODg0LD
+E0OTczMTEzMzMsLTE2MTU3NDE3OTIsMTMyMzU5Mjk0MSw0MDU4
+ODg5OTNdfQ==
 -->
