@@ -489,10 +489,33 @@ D. 85264630956@s.whatsapp.net
 A. Aa475869!
 B. Bb475869!
 C. Cd475869!
-D.以上jiefei
+D.以上接非
+ >44. [单选题] 阿力士的计算机显示阿力士曾用什么方法进入受害者(主管)的计算机? (1分)
+A. 远程操控
+B. 特洛伊木马程序
+C. 勒索软件
+D. 恶意软件
+>45. [单选题] 续上题，阿力士最后一次进入受害者(主管)计算机的时间是什么? (2分)
+A. 于 2021 年 10 月 18 日 10 时 36 分
+B. 于 2021 年 10 月 18 日 18 时 36 分
+C. 于 2021 年 10 月 18 日 6 时 53 分
+D. 于 2021 年 10 月 18 日 18 时 42 分
+>46. [填空题] 阿力士的计算机显示他曾经使用FTP程序，FTP的主机IP地址是什麼?(请以亚拉伯数字作答，省去“.”符号) (2分）
+>47. [填空题] 阿力士的计算机显示于2021年9月至2021年11月期间，计算机曾被登入过多少次? (请以阿拉伯数字回答) (1分)
+>48. [填空题] 阿力士计算机所安装的Microsoft Office 2007 是以下哪一个版本? (请以亚拉伯数字作答，省去“.”符号) (2分)
+>49. [填空题] 以下是阿力士计算机中的Basic data partition (EFI 3) 的Volume ID? (请以英文全大写及阿拉伯数字回答) (2分)
+>50. [填空题] 阿力士计算机的Window product ID是什么? (请以英文全大写及阿拉伯数字回答，不用输入”-“) (1分)
+>51. [单选题] 阿力士计算机曾经下载一张猴子的图片，以下哪一项描述正确? (1分)
+A. 该图片是由
+“https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgn6ABvcqTfFPjcIbjc9hdx1
+H4PtQsAuVyTQ&usqp=CAU”下载的
+B. 该图片经过加密
+C. 该图片于 2021-09-30 下载
+D. 该图片是由 GIF 档转换成 PNG 檔
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzOTY1ODc2NywtMjEyNDczNjM5Niw5ND
+eyJoaXN0b3J5IjpbLTQyOTg0Mzk1MiwtMjEyNDczNjM5Niw5ND
 c4NjcwODQsLTU3Mzg3MDg1MiwtOTQ4MjIyMjQzLDE2ODYwNjI3
 NjksMTE1NTUxOTUzNyw2NTEwNDkzOTMsNTgxNzQxMDIxLDE3MD
 g0NzQwMzcsMTg0OTUxNTM5NywxNTQ4ODYwMTUyLDM1NDY2Mzgz
