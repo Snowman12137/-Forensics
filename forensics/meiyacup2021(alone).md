@@ -360,20 +360,26 @@ D. IMG_0008.HEIC
 >
 >![输入图片说明](/imgs/2022-11-03/vTZHnX46fqkla82j.png)
 
->30. [单选题] 阿力士的iphone 12 pro以什么屏幕密码保护? (1分)
+>30. [单选题] 阿力士的iphone 12 pro以什么屏幕密码保护? (1分)**D**
 A. 6 位阿拉伯数字密码
 B. 4 位阿拉伯数字密码
 C. 图形密码
 D. 以上皆非
->阅读器里面没找到，看了下wp，说是在pslist文件夹里，学到了学到了，然后搜索.plist文件，看到一个device.plist，导出来后查看，发现
+>阅读器里面没找到，看了下wp，说是在pslist文件夹里，学到了学到了，然后搜索.plist文件，看到一个device.plist，导出来后查看，发现PasswordProtected的值是FALSE，所以没有防护
 >![输入图片说明](/imgs/2022-11-05/8nTFya51yf9Z7pwT.png)
 ![输入图片说明](/imgs/2022-11-05/bzx4EzzDJFIyhoN6.png)
+
+>31. [多选题] 阿力士iphone 12 pro内以下哪一张相片是实况相片(live Photos)? (2分)
+A. IMG_0011.HEIC
+B. IMG_0010.HEIC
+C. IMG_0012.HEIC
+D. IMG_0009.HEIC
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE1ODEzMzQ1LDY1MTA0OTM5Myw1ODE3ND
-EwMjEsMTcwODQ3NDAzNywxODQ5NTE1Mzk3LDE1NDg4NjAxNTIs
-MzU0NjYzODM0LDEzMTUzMjEwMTEsMTExMzYzODc2MiwtMTY3Mz
-Q0OTI5MywtMTI4MzA5ODg4NCwxNDk3MzExMzMzLC0xNjE1NzQx
-NzkyLDEzMjM1OTI5NDEsNDA1ODg4OTkzLDEyNDkxNjQwNTUsND
-M1MTMzNDY3LC0xNjEyODIzNTMzLDE4NjcyMjE3ODcsLTE0ODQ4
-ODcyNTFdfQ==
+eyJoaXN0b3J5IjpbLTE0NDE5NjM4ODAsNjUxMDQ5MzkzLDU4MT
+c0MTAyMSwxNzA4NDc0MDM3LDE4NDk1MTUzOTcsMTU0ODg2MDE1
+MiwzNTQ2NjM4MzQsMTMxNTMyMTAxMSwxMTEzNjM4NzYyLC0xNj
+czNDQ5MjkzLC0xMjgzMDk4ODg0LDE0OTczMTEzMzMsLTE2MTU3
+NDE3OTIsMTMyMzU5Mjk0MSw0MDU4ODg5OTMsMTI0OTE2NDA1NS
+w0MzUxMzM0NjcsLTE2MTI4MjM1MzMsMTg2NzIyMTc4NywtMTQ4
+NDg4NzI1MV19
 -->
