@@ -634,14 +634,14 @@ F. Staff3
 >![输入图片说明](/imgs/2022-11-05/rkKCyeYf3CORr4n1.png)
 >![输入图片说明](/imgs/2022-11-05/GHeMhgaBcCJEPscM.png)
 
->55. [填空题] 在阿力士FTP服务器中，文件夹Dangerous_Project曾被用户变更了访问权限(请以英文全大写及阿拉伯数字回答) (2分)
->
+>55. [填空题] 在阿力士FTP服务器中，文件夹________曾被用户变更了访问权限(请以英文全大写及阿拉伯数字回答) (2分)
+>Dangerous_Project
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc1MzIyMDEwLDM2NzQxNjk1NSwxMjg3OT
-MwNTUyLDEyMjY1NDcxNTksLTIxMTcwNjYwODcsMTE0ODI1NzA2
-MSwxMDQzOTkxNDA2LC0xMDQwODI1ODQ3LC0yMTI0NzM2Mzk2LD
-k0Nzg2NzA4NCwtNTczODcwODUyLC05NDgyMjIyNDMsMTY4NjA2
-Mjc2OSwxMTU1NTE5NTM3LDY1MTA0OTM5Myw1ODE3NDEwMjEsMT
-cwODQ3NDAzNywxODQ5NTE1Mzk3LDE1NDg4NjAxNTIsMzU0NjYz
-ODM0XX0=
+eyJoaXN0b3J5IjpbNDkxMDMyNjUwLDI3NTMyMjAxMCwzNjc0MT
+Y5NTUsMTI4NzkzMDU1MiwxMjI2NTQ3MTU5LC0yMTE3MDY2MDg3
+LDExNDgyNTcwNjEsMTA0Mzk5MTQwNiwtMTA0MDgyNTg0NywtMj
+EyNDczNjM5Niw5NDc4NjcwODQsLTU3Mzg3MDg1MiwtOTQ4MjIy
+MjQzLDE2ODYwNjI3NjksMTE1NTUxOTUzNyw2NTEwNDkzOTMsNT
+gxNzQxMDIxLDE3MDg0NzQwMzcsMTg0OTUxNTM5NywxNTQ4ODYw
+MTUyXX0=
 -->
