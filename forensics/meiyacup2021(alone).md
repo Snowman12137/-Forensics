@@ -622,23 +622,26 @@ C. FileZilla
 D. TeamViewer
 >送分题，取证大师的web服务器处
 
->54. [多选题] 以下哪些档案于阿力士FTP 服务器曾重复出现? (3分)
+>54. [多选题] 以下哪些档案于阿力士FTP 服务器曾重复出现? (3分)**ABCDEF**
 A. Material1
 B. Material2
 C. Material3
 D. Staff1
 E. Staff2
 F. Staff3
->搜索以后发现是一个xlsx文件，到
+>搜索以后发现是一个xlsx文件，到文档分类里找一下，发现都有
 >![输入图片说明](/imgs/2022-11-05/mqWWtY8YWbYBhBlQ.png)
 >![输入图片说明](/imgs/2022-11-05/rkKCyeYf3CORr4n1.png)
 >![输入图片说明](/imgs/2022-11-05/GHeMhgaBcCJEPscM.png)
+
+>55. [填空题] 在阿力士FTP服务器中，文件夹Dangerous_Project曾被用户变更了访问权限(请以英文全大写及阿拉伯数字回答) (2分)
+>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMTMxODIyOSwzNjc0MTY5NTUsMTI4Nz
-kzMDU1MiwxMjI2NTQ3MTU5LC0yMTE3MDY2MDg3LDExNDgyNTcw
-NjEsMTA0Mzk5MTQwNiwtMTA0MDgyNTg0NywtMjEyNDczNjM5Ni
-w5NDc4NjcwODQsLTU3Mzg3MDg1MiwtOTQ4MjIyMjQzLDE2ODYw
-NjI3NjksMTE1NTUxOTUzNyw2NTEwNDkzOTMsNTgxNzQxMDIxLD
-E3MDg0NzQwMzcsMTg0OTUxNTM5NywxNTQ4ODYwMTUyLDM1NDY2
-MzgzNF19
+eyJoaXN0b3J5IjpbMjc1MzIyMDEwLDM2NzQxNjk1NSwxMjg3OT
+MwNTUyLDEyMjY1NDcxNTksLTIxMTcwNjYwODcsMTE0ODI1NzA2
+MSwxMDQzOTkxNDA2LC0xMDQwODI1ODQ3LC0yMTI0NzM2Mzk2LD
+k0Nzg2NzA4NCwtNTczODcwODUyLC05NDgyMjIyNDMsMTY4NjA2
+Mjc2OSwxMTU1NTE5NTM3LDY1MTA0OTM5Myw1ODE3NDEwMjEsMT
+cwODQ3NDAzNywxODQ5NTE1Mzk3LDE1NDg4NjAxNTIsMzU0NjYz
+ODM0XX0=
 -->
