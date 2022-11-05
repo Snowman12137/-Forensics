@@ -562,9 +562,20 @@ D. 于 2021 年 10 月 18 日 18 时 42 分
 >这题不会，之前没接触过底层的东西，上网搜一下，发现要用到DiskGenius，下载下来，然后取证大师里取证文件里面对镜像右键进行挂载，然后用DiskGenius一点就好了
 >**9705c469-7dca-4d55-ae76-7481b9f1428e**![输入图片说明](/imgs/2022-11-05/XWGANBRUAKVv7Xpe.png)
 
+>50. [填空题] 阿力士计算机的Window product ID是什么? (请以英文全大写及阿拉伯数字回答，不用输入”-“) (1分)
+>**003311000000001AA411**
+>简单不多BB![输入图片说明](/imgs/2022-11-05/Hl93VZrpn8UDyqki.png)
 
+>51. [单选题] 阿力士计算机曾经下载一张猴子的图片，以下哪一项描述正确? (1分)
+A. 该图片是由
+“https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgn6ABvcqTfFPjcIbjc9hdx1
+H4PtQsAuVyTQ&usqp=CAU”下载的
+B. 该图片经过加密
+C. 该图片于 2021-09-30 下载
+D. 该图片是由 GIF 档转换成 PNG 檔
+>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTE0NjE5MCwtMjExNzA2NjA4NywxMT
+eyJoaXN0b3J5IjpbMTIyNjU0NzE1OSwtMjExNzA2NjA4NywxMT
 Q4MjU3MDYxLDEwNDM5OTE0MDYsLTEwNDA4MjU4NDcsLTIxMjQ3
 MzYzOTYsOTQ3ODY3MDg0LC01NzM4NzA4NTIsLTk0ODIyMjI0My
 wxNjg2MDYyNzY5LDExNTU1MTk1MzcsNjUxMDQ5MzkzLDU4MTc0
