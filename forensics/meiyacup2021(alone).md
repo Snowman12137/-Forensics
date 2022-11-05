@@ -580,11 +580,11 @@ D. 该图片是由 GIF 档转换成 PNG 檔
 >搜一下果然出来了![输入图片说明](/imgs/2022-11-05/enrQEW9SDUqFq9Rq.png)
 
 >52. [填空题] 阿力士计算机所安装的Microsoft Office 2007 的密钥是甚么? (请以英文全大写及阿拉伯数字回答，不用输入”-“) (1分)
->按照在软件取证里面的路径进去没找到license文件，网上看wp才看到他把Office装在桌面上了，
+>按照在软件取证里面的路径进去没找到license文件，网上看wp才看到他把Office装在桌面上了（晕）
 >**V77WQ-RPVP6-7MTPG-WH3G9-D44MJ**![输入图片说明](/imgs/2022-11-05/C89wf7fdmkMDKjjs.png)
 >
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzODcwOTI4OCwzNjc0MTY5NTUsMTI4Nz
+eyJoaXN0b3J5IjpbMTA5Mzk3NjU1MiwzNjc0MTY5NTUsMTI4Nz
 kzMDU1MiwxMjI2NTQ3MTU5LC0yMTE3MDY2MDg3LDExNDgyNTcw
 NjEsMTA0Mzk5MTQwNiwtMTA0MDgyNTg0NywtMjEyNDczNjM5Ni
 w5NDc4NjcwODQsLTU3Mzg3MDg1MiwtOTQ4MjIyMjQzLDE2ODYw
