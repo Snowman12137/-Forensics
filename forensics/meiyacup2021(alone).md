@@ -402,6 +402,10 @@ C. 此对话被 Alex Chan 删除
 D. 此对话是引用 Alex Chan 回复
 >35. [填空题] 阿力士iPhone XR的WhatsApp对话中，阿力士曾要求工地主管支付多少个BTC? (请以阿拉伯数字回答) (1分)
 >36. [多选题] 阿力士iPhone XR中 “IMG_0056.HEIC”的图像与"5005.JPG"(MD5: 96c48152249536d14eaa80086c92fcb9)” 看似为同一张相片，在电子数据取证分析下，以下哪样描述是正确? (2分)
+>A. 储存在不同的.db 里
+B. 有不同哈希值
+C. IMG_0056.HEIC 为原图, 5005.JPG(MD5: 96c48152249536d14eaa80086c92fcb9)为缩略图
+D. IMG_0056.HEIC 曾被开启过，所以在IOS系统中创建了缩略图5005.JPG(MD5: 96c48152249536d14eaa80086c92fcb9)
 >37. [多选题] 阿力士iPhone XR中相片檔IMG_0056.HEIC提供了什么电子数据取证的信息? (3分)  
 A. 此相片是由隔空投送 (Airdrop)得来
 B. 此相片由 iPhone XR 拍摄
@@ -434,13 +438,17 @@ D. 此对话是引用 Alex Chan 回复
 >35. [填空题] 阿力士iPhone XR的WhatsApp对话中，阿力士曾要求工地主管支付多少个BTC? (请以阿拉伯数字回答) (1分)
 >上图  **10**
 >>36. [多选题] 阿力士iPhone XR中 “IMG_0056.HEIC”的图像与"5005.JPG"(MD5: 96c48152249536d14eaa80086c92fcb9)” 看似为同一张相片，在电子数据取证分析下，以下哪样描述是正确? (2分)
+>A. 储存在不同的.db 里
+B. 有不同哈希值
+C. IMG_0056.HEIC 为原图, 5005.JPG(MD5: 96c48152249536d14eaa80086c92fcb9)为缩略图
+D. IMG_0056.HEIC 曾被开启过，所以在IOS系统中创建了缩略图5005.JPG(MD5: 96c48152249536d14eaa80086c92fcb9)
 >
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2OTExOTUzLDExNTU1MTk1MzcsNjUxMD
-Q5MzkzLDU4MTc0MTAyMSwxNzA4NDc0MDM3LDE4NDk1MTUzOTcs
-MTU0ODg2MDE1MiwzNTQ2NjM4MzQsMTMxNTMyMTAxMSwxMTEzNj
-M4NzYyLC0xNjczNDQ5MjkzLC0xMjgzMDk4ODg0LDE0OTczMTEz
-MzMsLTE2MTU3NDE3OTIsMTMyMzU5Mjk0MSw0MDU4ODg5OTMsMT
-I0OTE2NDA1NSw0MzUxMzM0NjcsLTE2MTI4MjM1MzMsMTg2NzIy
-MTc4N119
+eyJoaXN0b3J5IjpbMTY4NjA2Mjc2OSwxMTU1NTE5NTM3LDY1MT
+A0OTM5Myw1ODE3NDEwMjEsMTcwODQ3NDAzNywxODQ5NTE1Mzk3
+LDE1NDg4NjAxNTIsMzU0NjYzODM0LDEzMTUzMjEwMTEsMTExMz
+YzODc2MiwtMTY3MzQ0OTI5MywtMTI4MzA5ODg4NCwxNDk3MzEx
+MzMzLC0xNjE1NzQxNzkyLDEzMjM1OTI5NDEsNDA1ODg4OTkzLD
+EyNDkxNjQwNTUsNDM1MTMzNDY3LC0xNjEyODIzNTMzLDE4Njcy
+MjE3ODddfQ==
 -->
