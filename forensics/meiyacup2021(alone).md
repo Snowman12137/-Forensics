@@ -573,13 +573,15 @@ H4PtQsAuVyTQ&usqp=CAU”下载的
 B. 该图片经过加密
 C. 该图片于 2021-09-30 下载
 D. 该图片是由 GIF 档转换成 PNG 檔
->看了一下图片分类，盲猜一下是一个jpg格式的，翻了一圈没找到，还有可能是PNG图片，但是2w张，算了算了从下载的关键字找一下，可能下载到本地，也可能是浏览器下载，找一下
+>看了一下图片分类，盲猜一下是一个jpg格式的，翻了一圈没找到，还有可能是PNG图片，但是2w张，算了算了从下载的关键字找一下，可能下载到本地，也可能是浏览器下载，找一下】
+>![输入图片说明](/imgs/2022-11-05/YGMHd7fK1mYqRai5.png)
+>在系统默认下载路径找到了（果然是PNG格式）
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjExNDU3NjgsMTIyNjU0NzE1OSwtMj
-ExNzA2NjA4NywxMTQ4MjU3MDYxLDEwNDM5OTE0MDYsLTEwNDA4
-MjU4NDcsLTIxMjQ3MzYzOTYsOTQ3ODY3MDg0LC01NzM4NzA4NT
-IsLTk0ODIyMjI0MywxNjg2MDYyNzY5LDExNTU1MTk1MzcsNjUx
-MDQ5MzkzLDU4MTc0MTAyMSwxNzA4NDc0MDM3LDE4NDk1MTUzOT
-csMTU0ODg2MDE1MiwzNTQ2NjM4MzQsMTMxNTMyMTAxMSwxMTEz
-NjM4NzYyXX0=
+eyJoaXN0b3J5IjpbMTI4NzkzMDU1MiwxMjI2NTQ3MTU5LC0yMT
+E3MDY2MDg3LDExNDgyNTcwNjEsMTA0Mzk5MTQwNiwtMTA0MDgy
+NTg0NywtMjEyNDczNjM5Niw5NDc4NjcwODQsLTU3Mzg3MDg1Mi
+wtOTQ4MjIyMjQzLDE2ODYwNjI3NjksMTE1NTUxOTUzNyw2NTEw
+NDkzOTMsNTgxNzQxMDIxLDE3MDg0NzQwMzcsMTg0OTUxNTM5Ny
+wxNTQ4ODYwMTUyLDM1NDY2MzgzNCwxMzE1MzIxMDExLDExMTM2
+Mzg3NjJdfQ==
 -->
