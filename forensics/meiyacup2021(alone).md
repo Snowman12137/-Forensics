@@ -648,14 +648,19 @@ A. 无线 , 公开
 B. 无线 , 私人
 C. 有线 , 公开
 D. 有线 , 私人
->首先他有线，盲猜一下，这是用来勒索诈骗的，肯定不能是公共的，找一下配置文件/etc/sysconfig/network-scripts/
+>首先他有线，盲猜一下，这是用来勒索诈骗的，肯定不能是公共的，跳转到源文件，观看文本
 >![输入图片说明](/imgs/2022-11-05/Nfgnuv2GuQ1HWWZ3.png)
+>![输入图片说明](/imgs/2022-11-05/N1VILfHC3JbHy4Jg.png)
+
+
+>58. [填空题] 阿力士FTP 服务器设定最多使用者数目是_____ (请以阿拉伯数字回答) (2分)
+>这个不太会，网上看了下，
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NTc2NTk3LC05MjU4NjM2MDUsMjc1Mz
-IyMDEwLDM2NzQxNjk1NSwxMjg3OTMwNTUyLDEyMjY1NDcxNTks
-LTIxMTcwNjYwODcsMTE0ODI1NzA2MSwxMDQzOTkxNDA2LC0xMD
-QwODI1ODQ3LC0yMTI0NzM2Mzk2LDk0Nzg2NzA4NCwtNTczODcw
-ODUyLC05NDgyMjIyNDMsMTY4NjA2Mjc2OSwxMTU1NTE5NTM3LD
-Y1MTA0OTM5Myw1ODE3NDEwMjEsMTcwODQ3NDAzNywxODQ5NTE1
-Mzk3XX0=
+eyJoaXN0b3J5IjpbLTY2MzQ5OTY2LDE0NDU3NjU5NywtOTI1OD
+YzNjA1LDI3NTMyMjAxMCwzNjc0MTY5NTUsMTI4NzkzMDU1Miwx
+MjI2NTQ3MTU5LC0yMTE3MDY2MDg3LDExNDgyNTcwNjEsMTA0Mz
+k5MTQwNiwtMTA0MDgyNTg0NywtMjEyNDczNjM5Niw5NDc4Njcw
+ODQsLTU3Mzg3MDg1MiwtOTQ4MjIyMjQzLDE2ODYwNjI3NjksMT
+E1NTUxOTUzNyw2NTEwNDkzOTMsNTgxNzQxMDIxLDE3MDg0NzQw
+MzddfQ==
 -->
