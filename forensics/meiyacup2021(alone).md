@@ -484,7 +484,8 @@ D. 85264630956@s.whatsapp.net
 盲猜这个，送分
 >![输入图片说明](/imgs/2022-11-05/kQmfvkZpIlAullm9.png)
 
-## 43-52题（）
+## 43-52题（16分）
+阿力士のcomputer
 >43. [单选题] 阿力士的计算机显示曾于hongkongcard.com 的论坛登记成为会员，以下哪个是他的帐户密码? (3分)
 A. Aa475869!
 B. Bb475869!
@@ -512,14 +513,20 @@ H4PtQsAuVyTQ&usqp=CAU”下载的
 B. 该图片经过加密
 C. 该图片于 2021-09-30 下载
 D. 该图片是由 GIF 档转换成 PNG 檔
+>52. [填空题] 阿力士计算机所安装的Microsoft Office 2007 的密钥是甚么? (请以英文全大写及阿拉伯数字回答，不用输入”-“) (1分)
 
-
+>43. [单选题] 阿力士的计算机显示曾于hongkongcard.com 的论坛登记成为会员，以下哪个是他的帐户密码? (3分)
+A. Aa475869!
+B. Bb475869!
+C. Cd475869!
+D.以上接非
+>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyOTg0Mzk1MiwtMjEyNDczNjM5Niw5ND
-c4NjcwODQsLTU3Mzg3MDg1MiwtOTQ4MjIyMjQzLDE2ODYwNjI3
-NjksMTE1NTUxOTUzNyw2NTEwNDkzOTMsNTgxNzQxMDIxLDE3MD
-g0NzQwMzcsMTg0OTUxNTM5NywxNTQ4ODYwMTUyLDM1NDY2Mzgz
-NCwxMzE1MzIxMDExLDExMTM2Mzg3NjIsLTE2NzM0NDkyOTMsLT
-EyODMwOTg4ODQsMTQ5NzMxMTMzMywtMTYxNTc0MTc5MiwxMzIz
-NTkyOTQxXX0=
+eyJoaXN0b3J5IjpbLTEwNDA4MjU4NDcsLTIxMjQ3MzYzOTYsOT
+Q3ODY3MDg0LC01NzM4NzA4NTIsLTk0ODIyMjI0MywxNjg2MDYy
+NzY5LDExNTU1MTk1MzcsNjUxMDQ5MzkzLDU4MTc0MTAyMSwxNz
+A4NDc0MDM3LDE4NDk1MTUzOTcsMTU0ODg2MDE1MiwzNTQ2NjM4
+MzQsMTMxNTMyMTAxMSwxMTEzNjM4NzYyLC0xNjczNDQ5MjkzLC
+0xMjgzMDk4ODg0LDE0OTczMTEzMzMsLTE2MTU3NDE3OTIsMTMy
+MzU5Mjk0MV19
 -->
