@@ -442,15 +442,22 @@ D. 此对话是引用 Alex Chan 回复
 B. 有不同哈希值
 C. IMG_0056.HEIC 为原图, 5005.JPG(MD5: 96c48152249536d14eaa80086c92fcb9)为缩略图
 D. IMG_0056.HEIC 曾被开启过，所以在IOS系统中创建了缩略图5005.JPG(MD5: 96c48152249536d14eaa80086c92fcb9)
->存储在路径里，没有在db里。哈希值不同正确。原图的大小会大一些，C符合描述合理。
+>存储在路径里，没有在db里。哈希值不同正确。原图的大小会大一些，C符合描述合理。D？？？不太懂，好像说的没有问题，但是不能证明0056被开启过，嘶，有点小纠结。
 >![输入图片说明](/imgs/2022-11-05/Os0Rc2zpe6AO2yAo.png)
 >![输入图片说明](/imgs/2022-11-05/FrcwRzPjvFWfVHER.png)
+
+>37. [多选题] 阿力士iPhone XR中相片檔IMG_0056.HEIC提供了什么电子数据取证的信息? (3分)  
+A. 此相片是由隔空投送 (Airdrop)得来
+B. 此相片由 iPhone XR 拍摄
+C. 此相片的拍摄时间为 2021-10-21 17:45:48(UTC+8)
+D. 此相片的拍摄时间为 2021-09-08 17:35:00(UTC+8)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MzQ0NjA3MSwxNjg2MDYyNzY5LDExNT
-U1MTk1MzcsNjUxMDQ5MzkzLDU4MTc0MTAyMSwxNzA4NDc0MDM3
-LDE4NDk1MTUzOTcsMTU0ODg2MDE1MiwzNTQ2NjM4MzQsMTMxNT
-MyMTAxMSwxMTEzNjM4NzYyLC0xNjczNDQ5MjkzLC0xMjgzMDk4
-ODg0LDE0OTczMTEzMzMsLTE2MTU3NDE3OTIsMTMyMzU5Mjk0MS
-w0MDU4ODg5OTMsMTI0OTE2NDA1NSw0MzUxMzM0NjcsLTE2MTI4
-MjM1MzNdfQ==
+eyJoaXN0b3J5IjpbLTE3NDU5OTk1NDUsMTY4NjA2Mjc2OSwxMT
+U1NTE5NTM3LDY1MTA0OTM5Myw1ODE3NDEwMjEsMTcwODQ3NDAz
+NywxODQ5NTE1Mzk3LDE1NDg4NjAxNTIsMzU0NjYzODM0LDEzMT
+UzMjEwMTEsMTExMzYzODc2MiwtMTY3MzQ0OTI5MywtMTI4MzA5
+ODg4NCwxNDk3MzExMzMzLC0xNjE1NzQxNzkyLDEzMjM1OTI5ND
+EsNDA1ODg4OTkzLDEyNDkxNjQwNTUsNDM1MTMzNDY3LC0xNjEy
+ODIzNTMzXX0=
 -->
