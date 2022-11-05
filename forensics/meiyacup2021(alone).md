@@ -591,7 +591,7 @@ C. Material3
 D. Staff1
 E. Staff2
 F. Staff3
->55. [填空题] 在阿力士FTP服务器中，文件夹Dangerous_Project曾被用户变更了访问权限(请以英文全大写及阿拉伯数字回答) (2分)
+>55. [填空题] 在阿力士FTP服务器中，文件夹_______曾被用户变更了访问权限(请以英文全大写及阿拉伯数字回答) (2分)
 >56. [填空题] 在阿力士FTP 服务器建设后，有______个额外用户被加入 (请以阿拉伯数字回答) (2分)
 >57. [单选题] 根据阿力士FTP服务器设定显示，此服务器是以_____方式连接网络，且是一个_______网络状态 (1分)
 A. 无线 , 公开
@@ -636,13 +636,16 @@ F. Staff3
 
 >55. [填空题] 在阿力士FTP服务器中，文件夹________曾被用户变更了访问权限(请以英文全大写及阿拉伯数字回答) (2分)
 >**Dangerous_Project**
->sou
+>找终端权限，chmod是对文件权限进行更改
+>![输入图片说明](/imgs/2022-11-05/zlbgWYmODPTAGfE6.png)
+
+>56. [填空题] 在阿力士FTP 服务器建设后，有______个额外用户被加入 (请以阿拉伯数字回答) (2分)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzE2NTIwMzUsMjc1MzIyMDEwLDM2Nz
-QxNjk1NSwxMjg3OTMwNTUyLDEyMjY1NDcxNTksLTIxMTcwNjYw
-ODcsMTE0ODI1NzA2MSwxMDQzOTkxNDA2LC0xMDQwODI1ODQ3LC
-0yMTI0NzM2Mzk2LDk0Nzg2NzA4NCwtNTczODcwODUyLC05NDgy
-MjIyNDMsMTY4NjA2Mjc2OSwxMTU1NTE5NTM3LDY1MTA0OTM5My
-w1ODE3NDEwMjEsMTcwODQ3NDAzNywxODQ5NTE1Mzk3LDE1NDg4
-NjAxNTJdfQ==
+eyJoaXN0b3J5IjpbMTc0NjYxOTc2MiwyNzUzMjIwMTAsMzY3ND
+E2OTU1LDEyODc5MzA1NTIsMTIyNjU0NzE1OSwtMjExNzA2NjA4
+NywxMTQ4MjU3MDYxLDEwNDM5OTE0MDYsLTEwNDA4MjU4NDcsLT
+IxMjQ3MzYzOTYsOTQ3ODY3MDg0LC01NzM4NzA4NTIsLTk0ODIy
+MjI0MywxNjg2MDYyNzY5LDExNTU1MTk1MzcsNjUxMDQ5MzkzLD
+U4MTc0MTAyMSwxNzA4NDc0MDM3LDE4NDk1MTUzOTcsMTU0ODg2
+MDE1Ml19
 -->
