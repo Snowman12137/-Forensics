@@ -643,19 +643,19 @@ F. Staff3
 >这个不太会，搜一下，发现pure命令是加入用户，那就直接看下终端
 >![输入图片说明](/imgs/2022-11-05/QvlDjFkuDamwU9Re.png)
 
->57. [单选题] 根据阿力士FTP服务器设定显示，此服务器是以_____方式连接网络，且是一个_______网络状态 (1分)
+>57. [单选题] 根据阿力士FTP服务器设定显示，此服务器是以_____方式连接网络，且是一个_______网络状态 (1分)**D**
 A. 无线 , 公开
 B. 无线 , 私人
 C. 有线 , 公开
 D. 有线 , 私人
-
+>首先他有线
 >![输入图片说明](/imgs/2022-11-05/Nfgnuv2GuQ1HWWZ3.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MTc0MjE5MCwtOTI1ODYzNjA1LDI3NT
-MyMjAxMCwzNjc0MTY5NTUsMTI4NzkzMDU1MiwxMjI2NTQ3MTU5
-LC0yMTE3MDY2MDg3LDExNDgyNTcwNjEsMTA0Mzk5MTQwNiwtMT
-A0MDgyNTg0NywtMjEyNDczNjM5Niw5NDc4NjcwODQsLTU3Mzg3
-MDg1MiwtOTQ4MjIyMjQzLDE2ODYwNjI3NjksMTE1NTUxOTUzNy
-w2NTEwNDkzOTMsNTgxNzQxMDIxLDE3MDg0NzQwMzcsMTg0OTUx
-NTM5N119
+eyJoaXN0b3J5IjpbLTEzODIzMTk3NDAsLTkyNTg2MzYwNSwyNz
+UzMjIwMTAsMzY3NDE2OTU1LDEyODc5MzA1NTIsMTIyNjU0NzE1
+OSwtMjExNzA2NjA4NywxMTQ4MjU3MDYxLDEwNDM5OTE0MDYsLT
+EwNDA4MjU4NDcsLTIxMjQ3MzYzOTYsOTQ3ODY3MDg0LC01NzM4
+NzA4NTIsLTk0ODIyMjI0MywxNjg2MDYyNzY5LDExNTU1MTk1Mz
+csNjUxMDQ5MzkzLDU4MTc0MTAyMSwxNzA4NDc0MDM3LDE4NDk1
+MTUzOTddfQ==
 -->
