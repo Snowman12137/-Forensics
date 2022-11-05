@@ -577,7 +577,7 @@ D. 该图片是由 GIF 档转换成 PNG 檔
 >**V77WQ-RPVP6-7MTPG-WH3G9-D44MJ**![输入图片说明](/imgs/2022-11-05/C89wf7fdmkMDKjjs.png)
 
 
-## 53-62
+## 53-62(20分)
 FTP服务器
 >53. [单选题] 阿力士FTP 服务器用户使用命令行安装了甚么程序? (1分)
 A. Docker
@@ -613,8 +613,15 @@ C. ExFAT
 D. HFS+
 E. Ext4
 >62. [填空题] 阿力士FTP服务器用户输入了指令_____________去检查现存的Docker容器 (例如 netstat lntp，请输入 netstatlntp，不要输入空格) (3分)
+
+
+>53. [单选题] 阿力士FTP 服务器用户使用命令行安装了甚么程序? (1分)
+A. Docker
+B. Chrome
+C. FileZilla
+D. TeamViewer
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MjEzMjk2MSwzNjc0MTY5NTUsMTI4Nz
+eyJoaXN0b3J5IjpbLTk4MTA2NTMxNiwzNjc0MTY5NTUsMTI4Nz
 kzMDU1MiwxMjI2NTQ3MTU5LC0yMTE3MDY2MDg3LDExNDgyNTcw
 NjEsMTA0Mzk5MTQwNiwtMTA0MDgyNTg0NywtMjEyNDczNjM5Ni
 w5NDc4NjcwODQsLTU3Mzg3MDg1MiwtOTQ4MjIyMjQzLDE2ODYw
