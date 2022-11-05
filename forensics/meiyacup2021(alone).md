@@ -662,15 +662,24 @@ D. 有线 , 私人
 >直接看镜像信息就有
 >![输入图片说明](/imgs/2022-11-05/CHPQT2rN2mp3UmNP.png)
 
-> 60. [多选题] 阿力士FTP 服务器曾使用过甚么版本的Linux内核? (2分) 	AD
+> 60. [多选题] 阿力士FTP 服务器曾使用过甚么版本的Linux内核? (2分) 	**AD**
 A. linux-headers-5.11.0-16
 B. linux-headers-5.11.0-17
 C. linux-headers-5.11.0-36
 D. inux-headers-5.11.0-37
 E. linux-headers-5.11.0-40
+>直接搜索
+>![输入图片说明](/imgs/2022-11-05/aS3svPR8tfdEJsTW.png)
 
+
+>61. [多选题] 阿力士FTP 服务器的磁盘分区，有以下哪一种文件系统? (2分)
+A. FAT16
+B. FAT32
+C. ExFAT
+D. HFS+
+E. Ext4
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzkwODc2MDgsMTQ0NTc2NTk3LC05Mj
+eyJoaXN0b3J5IjpbLTE0NjgyNTkyNzMsMTQ0NTc2NTk3LC05Mj
 U4NjM2MDUsMjc1MzIyMDEwLDM2NzQxNjk1NSwxMjg3OTMwNTUy
 LDEyMjY1NDcxNTksLTIxMTcwNjYwODcsMTE0ODI1NzA2MSwxMD
 QzOTkxNDA2LC0xMDQwODI1ODQ3LC0yMTI0NzM2Mzk2LDk0Nzg2
