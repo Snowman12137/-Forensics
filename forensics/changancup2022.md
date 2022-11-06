@@ -26,9 +26,13 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 
 
 >1	检材1的SHA256值为
->因为是赛后复盘，弘连的软件过期了，用的是美亚的取证大师进行操作。gu
+>因为是赛后复盘，弘连的软件过期了，用的是美亚的取证大师进行操作。挂载完以后，右键即算哈希，得到结果
+>**9E48BB2CAE5C1D93BAF572E3646D2ECD26080B70413DC7DC4131F88289F49E34**
 >![输入图片说明](/imgs/2022-11-06/E91mmidFXUwIQonu.png)
+
+>2	分析检材1，搭建该服务器的技术员IP地址是多少？用该地址解压检材2
+>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MTMyMTg3NiwxNzcyMjU3NDI5LC0xMz
-YwNjA5MDg0LC00MjkwODg5NzNdfQ==
+eyJoaXN0b3J5IjpbLTE5OTgxMjg2MjYsMTc3MjI1NzQyOSwtMT
+M2MDYwOTA4NCwtNDI5MDg4OTczXX0=
 -->
