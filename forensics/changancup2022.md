@@ -25,8 +25,8 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 10	分析检材1，网站管理后台登录密码加密算法中所使用的盐值是
 
 
-
+>1	检材1的SHA256值为
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MjI1NzQyOSwtMTM2MDYwOTA4NCwtND
-I5MDg4OTczXX0=
+eyJoaXN0b3J5IjpbLTMwMDAwOTM3NCwxNzcyMjU3NDI5LC0xMz
+YwNjA5MDg0LC00MjkwODg5NzNdfQ==
 -->
