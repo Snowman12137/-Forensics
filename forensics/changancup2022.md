@@ -26,7 +26,9 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 
 
 >1	检材1的SHA256值为
+>因为是赛后复盘，弘连的软件过期了，用的是美亚的取证大师进行操作。gu
+>![输入图片说明](/imgs/2022-11-06/E91mmidFXUwIQonu.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMDAwOTM3NCwxNzcyMjU3NDI5LC0xMz
+eyJoaXN0b3J5IjpbLTc0MTMyMTg3NiwxNzcyMjU3NDI5LC0xMz
 YwNjA5MDg0LC00MjkwODg5NzNdfQ==
 -->
