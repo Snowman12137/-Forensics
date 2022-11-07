@@ -31,8 +31,8 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 >![输入图片说明](/imgs/2022-11-06/E91mmidFXUwIQonu.png)
 
 >2	分析检材1，搭建该服务器的技术员IP地址是多少？用该地址解压检材2
->
+>用仿真软件仿真检材一，通过lastmingli
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTgxMjg2MjYsMTc3MjI1NzQyOSwtMT
-M2MDYwOTA4NCwtNDI5MDg4OTczXX0=
+eyJoaXN0b3J5IjpbMTQwNTk4NjExOCwtMTk5ODEyODYyNiwxNz
+cyMjU3NDI5LC0xMzYwNjA5MDg0LC00MjkwODg5NzNdfQ==
 -->
