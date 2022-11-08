@@ -359,18 +359,47 @@ E . android.permission.CLEAR_APP_CACHE清除缓存
 35、【填空题】特普可能在电话中被可疑饮件窃取了的验证码是什么?(南以英文全大写及阿拉伯数字回答)(2分)
 
 
->29、【多选题】特普的电话中一张于2021年09月30日10:45:12拍摄的相片包含以哪些字?(1分)AD
+>29、【多选题】特普的电话中一张于2021年09月30日10:45:12拍摄的相片包含以哪些字?(1分)**AD**
 A 精忠
 B .报国
 C 忠诚 
 D .勇毅
+>打开软件tool->setting-》中文。然后选到图像这里，上面的时间条拉倒9-30往后，发现以后一个二维码的捕获时间刚好重合。
+>![输入图片说明](/imgs/2022-11-08/apUJs24Z7Fh6fiRS.png)
 
+30、【多选题】特普的电电话中的 whatsapp 账号85268421495@6.whatsapp.net中,有哪些其他人的WhatsApp 用户数据记录？（2分）AD
+A .85222117188@s.whatsapp.net
+B .85289853825@s.whatsapp.net
+C .85264795287@s.whatsapp.net
+D .85231882226@s.whatsapp.net
+31、【单选题】特普电话的热点分享密码是什么?(1分)
+A .12345678
+B .69447401bceb
+C .Jioijo4542554
+D . Dak Pou Home
+32、【多选题】特普于经纬度22.278843,114.165783,没有做什么?(2分)
+A 拍影片
+B拍照
+C 使用 gpogle map
+D .在 Whatsapp 中分享实时位置
+33、【多选题】特普于电话中安装了一个可疑软件（版本为2020033001），跟据该可疑软件的安装档,下列哪项描述正确?(2分)
+A 软件名称是安全防护
+B 件名称是安心润家
+C .软件签名( signAlgorithm )以SHA512withRSA加密
+D .封包名称(packageName)是org.chromium.webapk .a5b80edf82b436506_v2
+34、【多选题】特普于电话中安装了一个可疑软件(版本为2020033001),根据该可疑软件的安装档,可疑软件中涉及以下安全许可？
+A . android.permission.READ_SMS读取信内容
+B . android.permission.SEND_SMS发送短信
+C . android.permission.READ_CONTACTS读取联系人
+D . android.permission.BLUETOOTH使用蓝牙
+E . android.permission.CLEAR_APP_CACHE清除缓存
+35、【填空题】特普可能在电话中被可疑饮件窃取了的验证码是什么?(南以英文全大写及阿拉伯数字回答)(2分)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTE0NzgwMjIsLTM1OTc0NDU1Myw0Nz
-Y0NTkyMjIsLTEwMjExOTc4MiwxNTgxNzYzMTQ4LC03MDM5Nzgy
-NjEsLTEwODE0NTgyOTMsLTg3OTMzNjQ0NywyOTA0MDQwNiwxNT
-M1NzMyMDMxLC0xNjUxMjA0MjQsLTI5ODU3Mjk3MiwtNTIxOTk2
-ODY2LC02NzA1NzExMCwtMTY3Nzg1MzE4OSwtMTAzMjc3ODMwNS
-wtMTE5MDk4OTE4LDE4MjU0MjcyNSwtNjA0MzIzNDQ1LDE2NTYw
-MTA2OTddfQ==
+eyJoaXN0b3J5IjpbMTMxMjg1ODQ1OCwtMzU5NzQ0NTUzLDQ3Nj
+Q1OTIyMiwtMTAyMTE5NzgyLDE1ODE3NjMxNDgsLTcwMzk3ODI2
+MSwtMTA4MTQ1ODI5MywtODc5MzM2NDQ3LDI5MDQwNDA2LDE1Mz
+U3MzIwMzEsLTE2NTEyMDQyNCwtMjk4NTcyOTcyLC01MjE5OTY4
+NjYsLTY3MDU3MTEwLC0xNjc3ODUzMTg5LC0xMDMyNzc4MzA1LC
+0xMTkwOTg5MTgsMTgyNTQyNzI1LC02MDQzMjM0NDUsMTY1NjAx
+MDY5N119
 -->
