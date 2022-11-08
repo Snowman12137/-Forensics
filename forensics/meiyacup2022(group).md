@@ -156,9 +156,26 @@ E . 18:40:06(UTC +8:00)
 下方的数值数据即为windows的激活密钥即为CDKEY
 >涨知识了，或者用x-ways跑一下就出来了
 >![输入图片说明](/imgs/2022-11-08/gh7XJxWbwI3Da0mV.png)
+
+
+>13 . 【单选题】检查过工地职员 B 的计算机登录档案后( Wndow Registry )，计算机感染了什么恶意软件?(1分)**D**
+A . Adware
+B . Worms
+C . Rootkits
+D .没有感染任何恶意软件
+>取证搜了一下，发现ABC都没有
+>
+
+>14 . 【单选题】工地职员 B 的计算机中被加密便盘内的图片”_120778782_58759559.jpg”,有可能是从下列哪个途径载入计算机？
+A .电邮下载附件
+B . USB
+C . 网上下载
+D . 蓝牙传入
+E . Direct-Link
+>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMTk5Njg2NiwtNjcwNTcxMTAsLTE2Nz
-c4NTMxODksLTEwMzI3NzgzMDUsLTExOTA5ODkxOCwxODI1NDI3
-MjUsLTYwNDMyMzQ0NSwxNjU2MDEwNjk3LDEwODQ2MTAzODldfQ
-==
+eyJoaXN0b3J5IjpbLTExMzkxNjk3NDMsLTUyMTk5Njg2NiwtNj
+cwNTcxMTAsLTE2Nzc4NTMxODksLTEwMzI3NzgzMDUsLTExOTA5
+ODkxOCwxODI1NDI3MjUsLTYwNDMyMzQ0NSwxNjU2MDEwNjk3LD
+EwODQ2MTAzODldfQ==
 -->
