@@ -192,10 +192,16 @@ E . 绿色
 >![输入图片说明](/imgs/2022-11-08/8JJXdfdzecAhOD9K.png)
 
 >17、【填空题】工地职员B的计算机硬盘分割表是什么？（答案请以首字母大写作答）
->
+>桌面–>计算机图标–>右键–>管理–>磁盘管理–>选择一个磁盘（注意是磁盘不是分区）
+–>右键–>属性–>鼠标左键点击“卷”–>查看“磁盘分区形式”
 >![输入图片说明](/imgs/2022-11-08/6fbPk8gHhiZEWOI2.png)
+
+>18、【填空题】在工地职员 B 的计其机 Event Log 中最后登入时 services .exe的Prccess ID是什么?（请以阿拉伯数字输入） (3分) 
+
+
+>19、【填空题】什么IP曾经上传档案到网页服务器？(请以数字输入答案,不要输入-）(1分)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NTkxNzIxMCwtMTY1MTIwNDI0LC0yOT
+eyJoaXN0b3J5IjpbMTUzNTczMjAzMSwtMTY1MTIwNDI0LC0yOT
 g1NzI5NzIsLTUyMTk5Njg2NiwtNjcwNTcxMTAsLTE2Nzc4NTMx
 ODksLTEwMzI3NzgzMDUsLTExOTA5ODkxOCwxODI1NDI3MjUsLT
 YwNDMyMzQ0NSwxNjU2MDEwNjk3LDEwODQ2MTAzODldfQ==
