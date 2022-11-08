@@ -49,8 +49,16 @@ E.BTC address.bmp
 
 
 >2、【填空题】工地职员 A 计算机的修复密明解除定是什么?(情以数字输入答案,不要输入-)(1分)
->
+>是否还记得个人赛阿力士的FTP服务器里面还有两个大冤种的恢复秘钥串，
+>**483714-461582-060962-373351-019646-502348-309628-684431**![输入图片说明](/imgs/2022-11-08/djXhTBjxQTIYCKKw.png)
+
+>3、【单选题】工地职员 A的计算机被什么程式密?(1分)
+A.Ransomware
+B.BitLocker
+C.AxCrypt
+D.PGP
+E.FileVault 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNDMyMzQ0NSwxNjU2MDEwNjk3LDEwOD
-Q2MTAzODldfQ==
+eyJoaXN0b3J5IjpbMjMxOTExMDc5LC02MDQzMjM0NDUsMTY1Nj
+AxMDY5NywxMDg0NjEwMzg5XX0=
 -->
