@@ -288,17 +288,18 @@ E.透过PuTTY(远程登录工具) 取得计算机控制权
 >**0de664ecd2be02cdd54234a0d1229b43**
 >接上题的s_pass的值，看上面注释说，密码以这样的摘要形式存储。
 
->25、【单选题】在网特服务器中，可疑档案的译码函数是什么？（2分）
+>25、【单选题】在网特服务器中，可疑档案的译码函数是什么？（2分）**C**
 A . unzip _ file (’$x,$y')
 B . gzdccode (base64 decode ($x))
 C . gzinflate (base64_ decode ($x))
 D .以上皆否
->
+>上上题代码处".gz'.'inf'.'late'.'( bas'.'e64'.'_de'.'co'.'de($x)));')
+>gzinflate (base64_ decode ($x))
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzOTgwNjU1NSwtMTAyMTE5NzgyLDE1OD
-E3NjMxNDgsLTcwMzk3ODI2MSwtMTA4MTQ1ODI5MywtODc5MzM2
-NDQ3LDI5MDQwNDA2LDE1MzU3MzIwMzEsLTE2NTEyMDQyNCwtMj
-k4NTcyOTcyLC01MjE5OTY4NjYsLTY3MDU3MTEwLC0xNjc3ODUz
-MTg5LC0xMDMyNzc4MzA1LC0xMTkwOTg5MTgsMTgyNTQyNzI1LC
-02MDQzMjM0NDUsMTY1NjAxMDY5NywxMDg0NjEwMzg5XX0=
+eyJoaXN0b3J5IjpbNjA3MTU1MjQ4LC0xMDIxMTk3ODIsMTU4MT
+c2MzE0OCwtNzAzOTc4MjYxLC0xMDgxNDU4MjkzLC04NzkzMzY0
+NDcsMjkwNDA0MDYsMTUzNTczMjAzMSwtMTY1MTIwNDI0LC0yOT
+g1NzI5NzIsLTUyMTk5Njg2NiwtNjcwNTcxMTAsLTE2Nzc4NTMx
+ODksLTEwMzI3NzgzMDUsLTExOTA5ODkxOCwxODI1NDI3MjUsLT
+YwNDMyMzQ0NSwxNjU2MDEwNjk3LDEwODQ2MTAzODldfQ==
 -->
