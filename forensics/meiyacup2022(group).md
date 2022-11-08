@@ -372,16 +372,18 @@ A .85222117188@s.whatsapp.net
 B .85289853825@s.whatsapp.net
 C .85264795287@s.whatsapp.net
 D .85231882226@s.whatsapp.net
-》
-![输入图片说明](/imgs/2022-11-08/D1wjQbnkVmptLIAi.png)
+>看了一下WhatsApp的用户，发现详细信息里面有个general，然后选项里面都是85开头，推测像大陆电话号要加86一样的前缀，选**AD**
+>![输入图片说明](/imgs/2022-11-08/D1wjQbnkVmptLIAi.png)
 
 
 
-31、【单选题】特普电话的热点分享密码是什么?(1分)
+>31、【单选题】特普电话的热点分享密码是什么?(1分)
 A .12345678
 B .69447401bceb
 C .Jioijo4542554
 D . Dak Pou Home
+>
+
 32、【多选题】特普于经纬度22.278843,114.165783,没有做什么?(2分)
 A 拍影片
 B拍照
@@ -400,11 +402,11 @@ D . android.permission.BLUETOOTH使用蓝牙
 E . android.permission.CLEAR_APP_CACHE清除缓存
 35、【填空题】特普可能在电话中被可疑饮件窃取了的验证码是什么?(南以英文全大写及阿拉伯数字回答)(2分)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExODY4MTQ4NCwtMzU5NzQ0NTUzLDQ3Nj
-Q1OTIyMiwtMTAyMTE5NzgyLDE1ODE3NjMxNDgsLTcwMzk3ODI2
-MSwtMTA4MTQ1ODI5MywtODc5MzM2NDQ3LDI5MDQwNDA2LDE1Mz
-U3MzIwMzEsLTE2NTEyMDQyNCwtMjk4NTcyOTcyLC01MjE5OTY4
-NjYsLTY3MDU3MTEwLC0xNjc3ODUzMTg5LC0xMDMyNzc4MzA1LC
-0xMTkwOTg5MTgsMTgyNTQyNzI1LC02MDQzMjM0NDUsMTY1NjAx
-MDY5N119
+eyJoaXN0b3J5IjpbNDg1NDI2OTYwLC0zNTk3NDQ1NTMsNDc2ND
+U5MjIyLC0xMDIxMTk3ODIsMTU4MTc2MzE0OCwtNzAzOTc4MjYx
+LC0xMDgxNDU4MjkzLC04NzkzMzY0NDcsMjkwNDA0MDYsMTUzNT
+czMjAzMSwtMTY1MTIwNDI0LC0yOTg1NzI5NzIsLTUyMTk5Njg2
+NiwtNjcwNTcxMTAsLTE2Nzc4NTMxODksLTEwMzI3NzgzMDUsLT
+ExOTA5ODkxOCwxODI1NDI3MjUsLTYwNDMyMzQ0NSwxNjU2MDEw
+Njk3XX0=
 -->
