@@ -324,7 +324,7 @@ D 以上皆否
 
 
 ## 29 - 35(12分)
-
+特普手机
 >29、【多选题】特普的电话中一张于2021年09月30日10:45:12拍摄的相片包含以哪些字?(1分)
 A 精忠
 B .报国
@@ -366,7 +366,7 @@ C 忠诚
 D .勇毅
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMDAxODgxMSw0NzY0NTkyMjIsLTEwMj
+eyJoaXN0b3J5IjpbLTM1OTc0NDU1Myw0NzY0NTkyMjIsLTEwMj
 ExOTc4MiwxNTgxNzYzMTQ4LC03MDM5NzgyNjEsLTEwODE0NTgy
 OTMsLTg3OTMzNjQ0NywyOTA0MDQwNiwxNTM1NzMyMDMxLC0xNj
 UxMjA0MjQsLTI5ODU3Mjk3MiwtNTIxOTk2ODY2LC02NzA1NzEx
