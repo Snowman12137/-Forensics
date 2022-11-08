@@ -10,6 +10,9 @@
 解压完成以后先进行基本分析，把镜像文件全部都列出来，看起来用到了无人机取证
 
 ![输入图片说明](/imgs/2022-11-08/Dcr0aZHSUxCjLvsq.jpeg)
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NjY5NTUzOSwxMDg0NjEwMzg5XX0=
+eyJoaXN0b3J5IjpbODU4MTIwNTUsMTA4NDYxMDM4OV19
 -->
