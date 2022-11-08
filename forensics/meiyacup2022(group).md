@@ -146,8 +146,9 @@ E . 18:40:06(UTC +8:00)
 
 >11 . 【填空题】工地职员 B 的计算机户FaFa的Profile ID 是什么?(请以大写英文及数字输入答案,不要输入-）(1分) 
 >
+>![输入图片说明](/imgs/2022-11-08/HVvN4EGeqNWGLfwS.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjU2ODAzODMsLTEwMzI3NzgzMDUsLT
+eyJoaXN0b3J5IjpbLTE2OTA2ODk0NTYsLTEwMzI3NzgzMDUsLT
 ExOTA5ODkxOCwxODI1NDI3MjUsLTYwNDMyMzQ0NSwxNjU2MDEw
 Njk3LDEwODQ2MTAzODldfQ==
 -->
