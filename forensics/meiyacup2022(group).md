@@ -270,7 +270,7 @@ B Peter R.Lee
 C Mary
 D May
 E Colin
->浅浅仿真一下，然后搜一下doc文档，
+>浅浅仿真一下，然后搜一下doc文档，doex文档也搜了下，发现没有
 ![输入图片说明](/imgs/2022-11-08/4mUd1fuqSgCWJgFp.png)
 
 >23、【多选题】在网页服务器中,哪个是可疑档案?它如何眼得计算机控制权?(3分)
@@ -280,7 +280,7 @@ C.可档案: upload.php
 D 透过浏究器远程管理取得计算机控制权
 >
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMDA3NTA0MSwtNzAzOTc4MjYxLC0xMD
+eyJoaXN0b3J5IjpbMTU4MTc2MzE0OCwtNzAzOTc4MjYxLC0xMD
 gxNDU4MjkzLC04NzkzMzY0NDcsMjkwNDA0MDYsMTUzNTczMjAz
 MSwtMTY1MTIwNDI0LC0yOTg1NzI5NzIsLTUyMTk5Njg2NiwtNj
 cwNTcxMTAsLTE2Nzc4NTMxODksLTEwMzI3NzgzMDUsLTExOTA5
