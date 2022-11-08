@@ -128,16 +128,18 @@ E . 绿色
 18、【填空题】在工地职员 B 的计其机 Event Log 中最后登入时 services .exe的Prccess ID是什么?（请以阿拉伯数字输入） (3分) 
 19、【填空题】什么IP曾经上传档案到网页服务器？(请以数字输入答案,不要输入-）(1分)
 
->9、【多选题】工地职员B的计算机在什么日期和时间被黑客控制?(2分)
+>9、【多选题】工地职员B的计算机在什么日期和时间被黑客控制?(2分)**E**
 A .2021—10—19
 B .2021—09—16
 C .11:16:41(UTC + 8:00)
 D .05:55:50(UTC + 8:00)
 E . 18:40:06(UTC +8:00)
+>TeamViewer看一下时间，发信啊AB都不对
+>![输入图片说明](/imgs/2022-11-08/iVL5TjPSC8EULvt3.png)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgxODU3NTM0LC0xMTkwOTg5MTgsMTgyNT
-QyNzI1LC02MDQzMjM0NDUsMTY1NjAxMDY5NywxMDg0NjEwMzg5
-XX0=
+eyJoaXN0b3J5IjpbMTY4MzA3NjQ5NiwtMTE5MDk4OTE4LDE4Mj
+U0MjcyNSwtNjA0MzIzNDQ1LDE2NTYwMTA2OTcsMTA4NDYxMDM4
+OV19
 -->
