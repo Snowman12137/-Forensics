@@ -81,15 +81,19 @@ E.BTC address.bmp
 >TeamViewer里面，开始和结束时间一减，**11**
 >![输入图片说明](/imgs/2022-11-08/vhZJxj9hfo0zONgf.png)
 
->7、【单选题】工地职员 A 的计算机被加密后,被要求存入的虚拟货币是什么?(1分)
+>7、【单选题】工地职员 A 的计算机被加密后,被要求存入的虚拟货币是什么?(1分)**B**
  A 比币现金
  B 比特币
  C 以太币
  D 达币
- >浏览过BTCb网址
+ >浏览过BTC本地网址，（上一题有提示）推测是比特币
  >![输入图片说明](/imgs/2022-11-08/XOG45Jtj0hZMhheN.png)
+
+
+>8、【填空题】在工地职员 A 的计算机曾经打开过的 Excal 档案中,有多少人有可能在法律部门工作?(请以阿拉伯数字回答)（1分）
+>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNjcwNzYxNiwtMTE5MDk4OTE4LDE4Mj
-U0MjcyNSwtNjA0MzIzNDQ1LDE2NTYwMTA2OTcsMTA4NDYxMDM4
-OV19
+eyJoaXN0b3J5IjpbOTM0MjMxNDE3LC0xMTkwOTg5MTgsMTgyNT
+QyNzI1LC02MDQzMjM0NDUsMTY1NjAxMDY5NywxMDg0NjEwMzg5
+XX0=
 -->
