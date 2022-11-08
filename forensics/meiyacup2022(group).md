@@ -154,10 +154,11 @@ E . 18:40:06(UTC +8:00)
 >然后在目录下HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion找到SoftwareProtectionPlatform找到BackupProductKeyDefault双击
 弹出编辑字符串窗口
 下方的数值数据即为windows的激活密钥即为CDKEY
->涨知识了，
+>涨知识了，或者用x-ways跑一下就出来了
 >![输入图片说明](/imgs/2022-11-08/gh7XJxWbwI3Da0mV.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MDU3MTEwLC0xNjc3ODUzMTg5LC0xMD
-MyNzc4MzA1LC0xMTkwOTg5MTgsMTgyNTQyNzI1LC02MDQzMjM0
-NDUsMTY1NjAxMDY5NywxMDg0NjEwMzg5XX0=
+eyJoaXN0b3J5IjpbLTUyMTk5Njg2NiwtNjcwNTcxMTAsLTE2Nz
+c4NTMxODksLTEwMzI3NzgzMDUsLTExOTA5ODkxOCwxODI1NDI3
+MjUsLTYwNDMyMzQ0NSwxNjU2MDEwNjk3LDEwODQ2MTAzODldfQ
+==
 -->
