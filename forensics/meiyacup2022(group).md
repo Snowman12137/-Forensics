@@ -52,13 +52,21 @@ E.BTC address.bmp
 >是否还记得个人赛阿力士的FTP服务器里面还有两个大冤种的恢复秘钥串，
 >**483714-461582-060962-373351-019646-502348-309628-684431**![输入图片说明](/imgs/2022-11-08/djXhTBjxQTIYCKKw.png)
 
->3、【单选题】工地职员 A的计算机被什么程式密?(1分)
+>3、【单选题】工地职员 A的计算机被什么程式密?(1分)B
 A.Ransomware
 B.BitLocker
 C.AxCrypt
 D.PGP
 E.FileVault 2
+
+
+>4、【单选题】工地职员A的孩子有可能正准备就读什么学校?(2分)
+A.小学
+B.中学
+C.幼儿园
+D.大学
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMxOTExMDc5LC02MDQzMjM0NDUsMTY1Nj
+eyJoaXN0b3J5IjpbMTgyNTQyNzI1LC02MDQzMjM0NDUsMTY1Nj
 AxMDY5NywxMDg0NjEwMzg5XX0=
 -->
