@@ -279,10 +279,12 @@ B .可疑档案:b374k—25. php
 C.可档案: upload.php
 D 透过浏究器远程管理取得计算机控制权
 E.透过PuTTY(远程登录工具) 取得计算机控制权
->z
+>打开b374k—25. php，发现第一行是个eval输出，这在PHP里是一个很危险的函数，可以执行系统命令，又搜了下b374k
 >![输入图片说明](/imgs/2022-11-08/GHX1U3rCM0546u3k.png)
+>发现是一个webshell，ke
+>![输入图片说明](/imgs/2022-11-08/5TG4Mecfok55STNn.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNjAwNjQyNSwxNTgxNzYzMTQ4LC03MD
+eyJoaXN0b3J5IjpbLTM5NDA3MTM1MywxNTgxNzYzMTQ4LC03MD
 M5NzgyNjEsLTEwODE0NTgyOTMsLTg3OTMzNjQ0NywyOTA0MDQw
 NiwxNTM1NzMyMDMxLC0xNjUxMjA0MjQsLTI5ODU3Mjk3MiwtNT
 IxOTk2ODY2LC02NzA1NzExMCwtMTY3Nzg1MzE4OSwtMTAzMjc3
