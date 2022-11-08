@@ -174,10 +174,22 @@ D . 蓝牙传入
 E . Direct-Link
 搜了一下照片，发现FTP服务器里也有，猜测是FTP传过去的，但是发现照片是先在staffB上存在的，所以看一下文件的原目录，在E盘下面，没啥头绪，开虚拟机看看
 >![输入图片说明](/imgs/2022-11-08/R2h7XRLZdP9oeMMH.png)
+>看到浏览器下载记录里面有这个图片
+>![输入图片说明](/imgs/2022-11-08/Xa0xdDBD47gMNIFJ.png)
 
+
+
+>15 . 【多选题】工地职员B的计算机中被加密硬盘内的图片中,人物中农着有什么颜色?(2分)**BE** 
+A . 黄色
+B .红色
+C .紫色
+D . 蓝色
+E . 绿色
+>youyu
+![输入图片说明](/imgs/2022-11-08/6Vhg16ckf3PxDEBe.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjcxOTg4NDYsLTI5ODU3Mjk3MiwtNT
-IxOTk2ODY2LC02NzA1NzExMCwtMTY3Nzg1MzE4OSwtMTAzMjc3
-ODMwNSwtMTE5MDk4OTE4LDE4MjU0MjcyNSwtNjA0MzIzNDQ1LD
-E2NTYwMTA2OTcsMTA4NDYxMDM4OV19
+eyJoaXN0b3J5IjpbMjkyNjM2Mzc3LC0yOTg1NzI5NzIsLTUyMT
+k5Njg2NiwtNjcwNTcxMTAsLTE2Nzc4NTMxODksLTEwMzI3Nzgz
+MDUsLTExOTA5ODkxOCwxODI1NDI3MjUsLTYwNDMyMzQ0NSwxNj
+U2MDEwNjk3LDEwODQ2MTAzODldfQ==
 -->
