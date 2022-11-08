@@ -86,7 +86,10 @@ E.BTC address.bmp
  B 比特币
  C 以太币
  D 达币
+ >浏览过BTCb网址
+ >![输入图片说明](/imgs/2022-11-08/XOG45Jtj0hZMhheN.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTA5ODkxOCwxODI1NDI3MjUsLTYwND
-MyMzQ0NSwxNjU2MDEwNjk3LDEwODQ2MTAzODldfQ==
+eyJoaXN0b3J5IjpbMjAzNjcwNzYxNiwtMTE5MDk4OTE4LDE4Mj
+U0MjcyNSwtNjA0MzIzNDQ1LDE2NTYwMTA2OTcsMTA4NDYxMDM4
+OV19
 -->
