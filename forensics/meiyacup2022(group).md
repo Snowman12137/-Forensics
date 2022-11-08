@@ -295,11 +295,15 @@ C . gzinflate (base64_ decode ($x))
 D .以上皆否
 >上上题代码处".gz'.'inf'.'late'.'( bas'.'e64'.'_de'.'co'.'de($x)));')
 >gzinflate (base64_ decode ($x))
+
+
+>26、【填空题】解压后的脚本文档的档案大小是多少?(请以字节及阿拉伯数字回答)(3分)
+感谢[https://blog.csdn.net/forest_fire/article/details/50944216]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA3MTU1MjQ4LC0xMDIxMTk3ODIsMTU4MT
-c2MzE0OCwtNzAzOTc4MjYxLC0xMDgxNDU4MjkzLC04NzkzMzY0
-NDcsMjkwNDA0MDYsMTUzNTczMjAzMSwtMTY1MTIwNDI0LC0yOT
-g1NzI5NzIsLTUyMTk5Njg2NiwtNjcwNTcxMTAsLTE2Nzc4NTMx
-ODksLTEwMzI3NzgzMDUsLTExOTA5ODkxOCwxODI1NDI3MjUsLT
-YwNDMyMzQ0NSwxNjU2MDEwNjk3LDEwODQ2MTAzODldfQ==
+eyJoaXN0b3J5IjpbMjAwMzI1MjcwMywtMTAyMTE5NzgyLDE1OD
+E3NjMxNDgsLTcwMzk3ODI2MSwtMTA4MTQ1ODI5MywtODc5MzM2
+NDQ3LDI5MDQwNDA2LDE1MzU3MzIwMzEsLTE2NTEyMDQyNCwtMj
+k4NTcyOTcyLC01MjE5OTY4NjYsLTY3MDU3MTEwLC0xNjc3ODUz
+MTg5LC0xMDMyNzc4MzA1LC0xMTkwOTg5MTgsMTgyNTQyNzI1LC
+02MDQzMjM0NDUsMTY1NjAxMDY5NywxMDg0NjEwMzg5XX0=
 -->
