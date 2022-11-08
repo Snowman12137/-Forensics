@@ -390,15 +390,19 @@ A 拍影片
 B拍照
 C 使用 gpogle map
 D .在 Whatsapp 中分享实时位置
->直接搜，没有搜到
+>直接搜，没有搜到，然后在位置上搜索，只发现一张照片，应该是**ACD**
+>![输入图片说明](/imgs/2022-11-08/R8txYtauzZ5NQYJi.png)
 
 
 
-33、【多选题】特普于电话中安装了一个可疑软件（版本为2020033001），跟据该可疑软件的安装档,下列哪项描述正确?(2分)
+>33、【多选题】特普于电话中安装了一个可疑软件（版本为2020033001），跟据该可疑软件的安装档,下列哪项描述正确?(2分)
 A 软件名称是安全防护
 B 件名称是安心润家
 C .软件签名( signAlgorithm )以SHA512withRSA加密
 D .封包名称(packageName)是org.chromium.webapk .a5b80edf82b436506_v2
+>
+>
+
 34、【多选题】特普于电话中安装了一个可疑软件(版本为2020033001),根据该可疑软件的安装档,可疑软件中涉及以下安全许可？
 A . android.permission.READ_SMS读取信内容
 B . android.permission.SEND_SMS发送短信
@@ -407,7 +411,7 @@ D . android.permission.BLUETOOTH使用蓝牙
 E . android.permission.CLEAR_APP_CACHE清除缓存
 35、【填空题】特普可能在电话中被可疑饮件窃取了的验证码是什么?(南以英文全大写及阿拉伯数字回答)(2分)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTYxMjQwMzUsNDg1NDI2OTYwLC0zNT
+eyJoaXN0b3J5IjpbLTE1MDAwOTY0MTcsNDg1NDI2OTYwLC0zNT
 k3NDQ1NTMsNDc2NDU5MjIyLC0xMDIxMTk3ODIsMTU4MTc2MzE0
 OCwtNzAzOTc4MjYxLC0xMDgxNDU4MjkzLC04NzkzMzY0NDcsMj
 kwNDA0MDYsMTUzNTczMjAzMSwtMTY1MTIwNDI0LC0yOTg1NzI5
