@@ -45,7 +45,12 @@ E.BTC address.bmp
 >1、【填空题】工地职员 A 计算机的修复密钥标识符是什么?(请以代写英文字母和数字输入答案,不要输入-）(1分)
 >**49737A2E-6E82-4EAF-94B5-E1DB4F7CA642**
 >取证大师打开以后右键加密分区点击BitLocker解密，恢复秘钥串表示
+>![输入图片说明](/imgs/2022-11-08/Ipisr2U2XKGXjE56.png)
+
+
+>2、【填空题】工地职员 A 计算机的修复密明解除定是什么?(情以数字输入答案,不要输入-)(1分)
+>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjQzMTU3OTAsMTY1NjAxMDY5NywxMD
-g0NjEwMzg5XX0=
+eyJoaXN0b3J5IjpbLTYwNDMyMzQ0NSwxNjU2MDEwNjk3LDEwOD
+Q2MTAzODldfQ==
 -->
