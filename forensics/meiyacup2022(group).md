@@ -145,10 +145,15 @@ E . 18:40:06(UTC +8:00)
 
 
 >11 . 【填空题】工地职员 B 的计算机户FaFa的Profile ID 是什么?(请以大写英文及数字输入答案,不要输入-）(1分) 
->
+>配置文件的ID，估计就是这个用户标识SID
+>**S-1-5-21-1634007002-1203460028-4027450868-1001**
 >![输入图片说明](/imgs/2022-11-08/HVvN4EGeqNWGLfwS.png)
+
+>12 . 【填空题】工地职员B办公室计算机的 Windows CD Key 是什么?(请以大写英文及数字输入答案,不要输入-）(1分)
+>
+>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTA2ODk0NTYsLTEwMzI3NzgzMDUsLT
+eyJoaXN0b3J5IjpbLTE2Nzc4NTMxODksLTEwMzI3NzgzMDUsLT
 ExOTA5ODkxOCwxODI1NDI3MjUsLTYwNDMyMzQ0NSwxNjU2MDEw
 Njk3LDEwODQ2MTAzODldfQ==
 -->
