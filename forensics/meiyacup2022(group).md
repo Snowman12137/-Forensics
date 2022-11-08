@@ -95,9 +95,8 @@ E.BTC address.bmp
 >第五题搜索里面无意间看到只有staff1被打开过，所以在staff里面找一下和法律相关的词语（还真是legal这个词），搜索一下有22个
 >![输入图片说明](/imgs/2022-11-08/65eRIVqWyGTTAMdH.png)
 575025-204820-336325-067067-589996-389829-603361-712272
-## 
-
-
+## 9-19(16分)
+staffB
 >9、【多选题】工地职员B的计算机在什么日期和时间被黑客控制?(2分)
 A .2021—10—19
 B .2021—09—16
@@ -126,10 +125,19 @@ D . 蓝色
 E . 绿色
 16、【填空题】工地职员 B 的计算机有多个磁盘分区?(请以阿拉伯数字输入答案)(1分)
 17、【填空题】工地职员B的计算机硬盘分割表是什么？（答案请以首字母大写作答）
-仿真出来直接看
 18、【填空题】在工地职员 B 的计其机 Event Log 中最后登入时 services .exe的Prccess ID是什么?（请以阿拉伯数字输入） (3分) 
+19、【填空题】什么IP曾经上传档案到网页服务器？(请以数字输入答案,不要输入-）(1分)
+
+>9、【多选题】工地职员B的计算机在什么日期和时间被黑客控制?(2分)
+A .2021—10—19
+B .2021—09—16
+C .11:16:41(UTC + 8:00)
+D .05:55:50(UTC + 8:00)
+E . 18:40:06(UTC +8:00)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODc0NDE5NzIsLTExOTA5ODkxOCwxOD
-I1NDI3MjUsLTYwNDMyMzQ0NSwxNjU2MDEwNjk3LDEwODQ2MTAz
-ODldfQ==
+eyJoaXN0b3J5IjpbOTgxODU3NTM0LC0xMTkwOTg5MTgsMTgyNT
+QyNzI1LC02MDQzMjM0NDUsMTY1NjAxMDY5NywxMDg0NjEwMzg5
+XX0=
 -->
