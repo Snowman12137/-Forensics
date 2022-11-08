@@ -139,10 +139,15 @@ E . 18:40:06(UTC +8:00)
 
 
 >10 . 【填空题】工地职员 B 的计算机的MAC Address 是什么?(请以大写英文及数字不要输入-）(1分)
->00-0C-29-E2-53-2D
+>**00-0C-29-E2-53-2D**
+>送分
+>![输入图片说明](/imgs/2022-11-08/Lfh5v0moHqKvEP1P.png)
+
+
+>11 . 【填空题】工地职员 B 的计算机户FaFa的Profile ID 是什么?(请以大写英文及数字输入答案,不要输入-）(1分) 
 >
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNTM1ODk4NSwtMTAzMjc3ODMwNSwtMT
-E5MDk4OTE4LDE4MjU0MjcyNSwtNjA0MzIzNDQ1LDE2NTYwMTA2
-OTcsMTA4NDYxMDM4OV19
+eyJoaXN0b3J5IjpbLTEwNjU2ODAzODMsLTEwMzI3NzgzMDUsLT
+ExOTA5ODkxOCwxODI1NDI3MjUsLTYwNDMyMzQ0NSwxNjU2MDEw
+Njk3LDEwODQ2MTAzODldfQ==
 -->
