@@ -201,7 +201,7 @@ E . 绿色
 >![输入图片说明](/imgs/2022-11-08/OKz73qI23VRcpR7w.png)
 
 
-## 19 - （）
+## 19 - 28（23分）
 WebServer
 >19、【填空题】什么IP曾经上传档案到网页服务器？(请以数字输入答案,不要输入-）(1分)
 >20、【多选题】承上题,以下哪试档案曾被上传到网页服务器?(3分)
@@ -227,11 +227,29 @@ B .可疑档案:b374k—25. php
 C.可档案: upload.php
 D 透过浏究器远程管理取得计算机控制权
 24、【填空题】在网页服务器中,运行可疑档案需要密码,其密码的哈希值( Hash Value )是甚么?(请以英文全大写及阿拉伯数字回答)（3分）
+25、【单选题】在网特服务器中，可疑档案的译码函数是什么？（2分）
+A . unzip _ file (’$x,$y')
+B . gzdccode (base64 decode ($x))
+C . gzinflate (base64_ decode ($x))
+D .以上皆否
+26、【填空题】解压后的脚本文档的档案大小是多少?(请以字节及阿拉伯数字回答)(3分)
+27、【多选题】解压后的脚本文件内有甚么功能?(3分)
+A 编辑文件
+B 删除文件
+C 更改用户密码
+D .加密文件
+E .重新命名文件
+28、【单选题】解压后的脚本含有压缩功能,当中使用的解压方法是甚么?(2分)
+A. PclZip . php
+B Unzip _gz0
+C ZipArchive )
+D 以上皆否
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NDQ3ODA1NywtODc5MzM2NDQ3LDI5MD
-QwNDA2LDE1MzU3MzIwMzEsLTE2NTEyMDQyNCwtMjk4NTcyOTcy
-LC01MjE5OTY4NjYsLTY3MDU3MTEwLC0xNjc3ODUzMTg5LC0xMD
-MyNzc4MzA1LC0xMTkwOTg5MTgsMTgyNTQyNzI1LC02MDQzMjM0
-NDUsMTY1NjAxMDY5NywxMDg0NjEwMzg5XX0=
+eyJoaXN0b3J5IjpbLTE4NDkyNjk2MTMsLTg3OTMzNjQ0NywyOT
+A0MDQwNiwxNTM1NzMyMDMxLC0xNjUxMjA0MjQsLTI5ODU3Mjk3
+MiwtNTIxOTk2ODY2LC02NzA1NzExMCwtMTY3Nzg1MzE4OSwtMT
+AzMjc3ODMwNSwtMTE5MDk4OTE4LDE4MjU0MjcyNSwtNjA0MzIz
+NDQ1LDE2NTYwMTA2OTcsMTA4NDYxMDM4OV19
 -->
