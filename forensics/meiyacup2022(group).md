@@ -92,10 +92,10 @@ E.BTC address.bmp
 
 >8、【填空题】在工地职员 A 的计算机曾经打开过的 Excal 档案中,有多少人有可能在法律部门工作?(请以阿拉伯数字回答)（1分）
 >**22**
->第五题搜索里面无意间看到只有staff1被打开过，所以在staff里面
+>第五题搜索里面无意间看到只有staff1被打开过，所以在staff里面找一下和法律相关的词语（还真是legal这个词），搜索一下有22个
 >![输入图片说明](/imgs/2022-11-08/65eRIVqWyGTTAMdH.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTIzNDAwNzcsLTExOTA5ODkxOCwxOD
+eyJoaXN0b3J5IjpbLTE3NjU2NzU0NDMsLTExOTA5ODkxOCwxOD
 I1NDI3MjUsLTYwNDMyMzQ0NSwxNjU2MDEwNjk3LDEwODQ2MTAz
 ODldfQ==
 -->
