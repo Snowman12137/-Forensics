@@ -330,8 +330,36 @@ A 精忠
 B .报国
 C 忠诚 
 D .勇毅
+30、【多选题】特普的电电话中的 whatsapp 账号85268421495@6.whatsapp.net中,有哪些其他人的WhatsApp 用户数据记录？（2分）AD
+A .85222117188@s.whatsapp.net
+B .85289853825@s.whatsapp.net
+C .85264795287@s.whatsapp.net
+D .85231882226@s.whatsapp.net
+31、【单选题】特普电话的热点分享密码是什么?(1分)
+A .12345678
+B .69447401bceb
+C .Jioijo4542554
+D . Dak Pou Home
+32、【多选题】特普于经纬度22.278843,114.165783,没有做什么?(2分)
+A 拍影片
+B拍照
+C 使用 gpogle map
+D .在 Whatsapp 中分享实时位置
+33、【多选题】特普于电话中安装了一个可疑软件（版本为2020033001），跟据该可疑软件的安装档,下列哪项描述正确?(2分)
+A 软件名称是安全防护
+B 件名称是安心润家
+C .软件签名( signAlgorithm )以SHA512withRSA加密
+D .封包名称(packageName)是org.chromium.webapk .a5b80edf82b436506_v2
+34、【多选题】特普于电话中安装了一个可疑软件(版本为2020033001),根据该可疑软件的安装档,可疑软件中涉及以下安全许可？
+A . android.permission.READ_SMS读取信内容
+B . android.permission.SEND_SMS发送短信
+C . android.permission.READ_CONTACTS读取联系人
+D . android.permission.BLUETOOTH使用蓝牙
+E . android.permission.CLEAR_APP_CACHE清除缓存
+35、【填空题】特普可能在电话中被可疑饮件窃取了的验证码是什么?(南以英文全大写及阿拉伯数字回答)(2分)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTMwMjEyNTcsNDc2NDU5MjIyLC0xMD
+eyJoaXN0b3J5IjpbLTE3Mjk5NjAyOTQsNDc2NDU5MjIyLC0xMD
 IxMTk3ODIsMTU4MTc2MzE0OCwtNzAzOTc4MjYxLC0xMDgxNDU4
 MjkzLC04NzkzMzY0NDcsMjkwNDA0MDYsMTUzNTczMjAzMSwtMT
 Y1MTIwNDI0LC0yOTg1NzI5NzIsLTUyMTk5Njg2NiwtNjcwNTcx
