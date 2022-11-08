@@ -95,7 +95,7 @@ E.BTC address.bmp
 >第五题搜索里面无意间看到只有staff1被打开过，所以在staff里面找一下和法律相关的词语（还真是legal这个词），搜索一下有22个
 >![输入图片说明](/imgs/2022-11-08/65eRIVqWyGTTAMdH.png)
 575025-204820-336325-067067-589996-389829-603361-712272
-## 9-19(16分)
+## 9-18(15分)
 staffB
 >9、【多选题】工地职员B的计算机在什么日期和时间被黑客控制?(2分)
 A .2021—10—19
@@ -126,7 +126,7 @@ E . 绿色
 16、【填空题】工地职员 B 的计算机有多个磁盘分区?(请以阿拉伯数字输入答案)(1分)
 17、【填空题】工地职员B的计算机硬盘分割表是什么？（答案请以首字母大写作答）
 18、【填空题】在工地职员 B 的计其机 Event Log 中最后登入时 services .exe的Prccess ID是什么?（请以阿拉伯数字输入） (3分) 
-19、【填空题】什么IP曾经上传档案到网页服务器？(请以数字输入答案,不要输入-）(1分)
+
 
 >9、【多选题】工地职员B的计算机在什么日期和时间被黑客控制?(2分)**E**
 A .2021—10—19
@@ -200,12 +200,15 @@ E . 绿色
 >搜了一下services.exe，在系统日志里面发现了记录，但是没找到PID，看了下wp发现答案是1833，发现最后一条中只有一个地方有1833，推测这就是Windows日志记录PID的位置，但是围着呢吗后面还有个1843？1842？不太懂这里
 >![输入图片说明](/imgs/2022-11-08/OKz73qI23VRcpR7w.png)
 
+
+## 19 - （）
+WebServer
 >19、【填空题】什么IP曾经上传档案到网页服务器？(请以数字输入答案,不要输入-）(1分)
 >
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkwNDA0MDYsMTUzNTczMjAzMSwtMTY1MT
-IwNDI0LC0yOTg1NzI5NzIsLTUyMTk5Njg2NiwtNjcwNTcxMTAs
-LTE2Nzc4NTMxODksLTEwMzI3NzgzMDUsLTExOTA5ODkxOCwxOD
-I1NDI3MjUsLTYwNDMyMzQ0NSwxNjU2MDEwNjk3LDEwODQ2MTAz
-ODldfQ==
+eyJoaXN0b3J5IjpbLTg3OTMzNjQ0NywyOTA0MDQwNiwxNTM1Nz
+MyMDMxLC0xNjUxMjA0MjQsLTI5ODU3Mjk3MiwtNTIxOTk2ODY2
+LC02NzA1NzExMCwtMTY3Nzg1MzE4OSwtMTAzMjc3ODMwNSwtMT
+E5MDk4OTE4LDE4MjU0MjcyNSwtNjA0MzIzNDQ1LDE2NTYwMTA2
+OTcsMTA4NDYxMDM4OV19
 -->
