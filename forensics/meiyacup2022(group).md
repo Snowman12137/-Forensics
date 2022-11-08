@@ -187,9 +187,15 @@ D . 蓝色
 E . 绿色
 >鱿鱼游戏，嘿嘿
 ![输入图片说明](/imgs/2022-11-08/6Vhg16ckf3PxDEBe.png)
+
+>16、【填空题】工地职员 B 的计算机有多个磁盘分区?(请以阿拉伯数字输入答案)(1分)**5**
+>![输入图片说明](/imgs/2022-11-08/8JJXdfdzecAhOD9K.png)
+
+>17、【填空题】工地职员B的计算机硬盘分割表是什么？（答案请以首字母大写作答）
+>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njk4MzI5MDAsLTI5ODU3Mjk3MiwtNT
-IxOTk2ODY2LC02NzA1NzExMCwtMTY3Nzg1MzE4OSwtMTAzMjc3
-ODMwNSwtMTE5MDk4OTE4LDE4MjU0MjcyNSwtNjA0MzIzNDQ1LD
-E2NTYwMTA2OTcsMTA4NDYxMDM4OV19
+eyJoaXN0b3J5IjpbLTE2NTEyMDQyNCwtMjk4NTcyOTcyLC01Mj
+E5OTY4NjYsLTY3MDU3MTEwLC0xNjc3ODUzMTg5LC0xMDMyNzc4
+MzA1LC0xMTkwOTg5MTgsMTgyNTQyNzI1LC02MDQzMjM0NDUsMT
+Y1NjAxMDY5NywxMDg0NjEwMzg5XX0=
 -->
