@@ -150,10 +150,10 @@ E . 18:40:06(UTC +8:00)
 >![输入图片说明](/imgs/2022-11-08/HVvN4EGeqNWGLfwS.png)
 
 >12 . 【填空题】工地职员B办公室计算机的 Windows CD Key 是什么?(请以大写英文及数字输入答案,不要输入-）(1分)
->
+>仿真以后win+r输入 regedit去注册列表
 >
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Nzc4NTMxODksLTEwMzI3NzgzMDUsLT
-ExOTA5ODkxOCwxODI1NDI3MjUsLTYwNDMyMzQ0NSwxNjU2MDEw
-Njk3LDEwODQ2MTAzODldfQ==
+eyJoaXN0b3J5IjpbLTUwNjM2MzE5OSwtMTY3Nzg1MzE4OSwtMT
+AzMjc3ODMwNSwtMTE5MDk4OTE4LDE4MjU0MjcyNSwtNjA0MzIz
+NDQ1LDE2NTYwMTA2OTcsMTA4NDYxMDM4OV19
 -->
