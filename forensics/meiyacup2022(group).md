@@ -204,11 +204,34 @@ E . 绿色
 ## 19 - （）
 WebServer
 >19、【填空题】什么IP曾经上传档案到网页服务器？(请以数字输入答案,不要输入-）(1分)
->
+>20、【多选题】承上题,以下哪试档案曾被上传到网页服务器?(3分)
+A .kjk2.jpg
+B kjk2.php
+C b6778k-9.0.php
+D b374k-2.5.php
+E d374k-2.5.php
+>21、【单选题】入侵者可能使用甚么漏洞进行入侵网页服务器?(1分)
+A .文件上传漏洞
+B SQL 注入
+C 跨站脚本攻击
+D 格式化字将串弱点
+22、【多选题】在网页服务器得到的所有文件档( doc 及 doex )中,有以下哪些文件制作人(Author) ?(2分)
+A. Kevin L.Brown
+B Peter R.Lee 
+C Mary
+D May
+E Colin
+23、【多选题】在网页服务器中,哪个是可疑档案?它如何眼得计算机控制权?(3分)
+A 可疑档案:b677Bk—9.0.php
+B .可疑档案:b374k—25. php
+C.可档案: upload.php
+D 透过浏究器远程管理取得计算机控制权
+24、【填空题】在网页服务器中,运行可疑档案需要密码,其密码的哈希值( Hash Value )是甚么?(请以英文全大写及阿拉伯数字回答)（3分）
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3OTMzNjQ0NywyOTA0MDQwNiwxNTM1Nz
-MyMDMxLC0xNjUxMjA0MjQsLTI5ODU3Mjk3MiwtNTIxOTk2ODY2
-LC02NzA1NzExMCwtMTY3Nzg1MzE4OSwtMTAzMjc3ODMwNSwtMT
-E5MDk4OTE4LDE4MjU0MjcyNSwtNjA0MzIzNDQ1LDE2NTYwMTA2
-OTcsMTA4NDYxMDM4OV19
+eyJoaXN0b3J5IjpbMTc1NDQ3ODA1NywtODc5MzM2NDQ3LDI5MD
+QwNDA2LDE1MzU3MzIwMzEsLTE2NTEyMDQyNCwtMjk4NTcyOTcy
+LC01MjE5OTY4NjYsLTY3MDU3MTEwLC0xNjc3ODUzMTg5LC0xMD
+MyNzc4MzA1LC0xMTkwOTg5MTgsMTgyNTQyNzI1LC02MDQzMjM0
+NDUsMTY1NjAxMDY5NywxMDg0NjEwMzg5XX0=
 -->
