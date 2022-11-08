@@ -273,17 +273,17 @@ E Colin
 >浅浅仿真一下，然后搜一下doc文档，doex文档也搜了下，发现没有
 ![输入图片说明](/imgs/2022-11-08/4mUd1fuqSgCWJgFp.png)
 
->23、【多选题】在网页服务器中,哪个是可疑档案?它如何眼得计算机控制权?(3分)
+>23、【多选题】在网页服务器中,哪个是可疑档案?它如何眼得计算机控制权?(3分)BD
 A 可疑档案:b677Bk—9.0.php
 B .可疑档案:b374k—25. php
 C.可档案: upload.php
 D 透过浏究器远程管理取得计算机控制权
 >
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MTc2MzE0OCwtNzAzOTc4MjYxLC0xMD
-gxNDU4MjkzLC04NzkzMzY0NDcsMjkwNDA0MDYsMTUzNTczMjAz
-MSwtMTY1MTIwNDI0LC0yOTg1NzI5NzIsLTUyMTk5Njg2NiwtNj
-cwNTcxMTAsLTE2Nzc4NTMxODksLTEwMzI3NzgzMDUsLTExOTA5
-ODkxOCwxODI1NDI3MjUsLTYwNDMyMzQ0NSwxNjU2MDEwNjk3LD
-EwODQ2MTAzODldfQ==
+eyJoaXN0b3J5IjpbNDg4NzkxODg2LDE1ODE3NjMxNDgsLTcwMz
+k3ODI2MSwtMTA4MTQ1ODI5MywtODc5MzM2NDQ3LDI5MDQwNDA2
+LDE1MzU3MzIwMzEsLTE2NTEyMDQyNCwtMjk4NTcyOTcyLC01Mj
+E5OTY4NjYsLTY3MDU3MTEwLC0xNjc3ODUzMTg5LC0xMDMyNzc4
+MzA1LC0xMTkwOTg5MTgsMTgyNTQyNzI1LC02MDQzMjM0NDUsMT
+Y1NjAxMDY5NywxMDg0NjEwMzg5XX0=
 -->
