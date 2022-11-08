@@ -246,12 +246,20 @@ C ZipArchive )
 D 以上皆否
 
 >19、【填空题】什么IP曾经上传档案到网页服务器？(请以数字输入答案,不要输入-）(1分)
->上传东西一般都是要POST，而且看日志只有203.145.94.120的请求数最多，推测是这个IP上传的档案
+>上传东西一般都是要POST，而且看日志只有**203.145.94.120**的请求数最多，推测是这个IP上传的档案
 >![输入图片说明](/imgs/2022-11-08/8McSlTHfvESy3pCs.png)
+
+>20、【多选题】承上题,以下哪试档案曾被上传到网页服务器?(3分)D
+A .kjk2.jpg
+B kjk2.php
+C b6778k-9.0.php
+D b374k-2.5.php
+E d374k-2.5.php
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MzkwOTIzMiwtODc5MzM2NDQ3LDI5MD
-QwNDA2LDE1MzU3MzIwMzEsLTE2NTEyMDQyNCwtMjk4NTcyOTcy
-LC01MjE5OTY4NjYsLTY3MDU3MTEwLC0xNjc3ODUzMTg5LC0xMD
-MyNzc4MzA1LC0xMTkwOTg5MTgsMTgyNTQyNzI1LC02MDQzMjM0
-NDUsMTY1NjAxMDY5NywxMDg0NjEwMzg5XX0=
+eyJoaXN0b3J5IjpbLTE5NDU3MTQxODcsLTg3OTMzNjQ0NywyOT
+A0MDQwNiwxNTM1NzMyMDMxLC0xNjUxMjA0MjQsLTI5ODU3Mjk3
+MiwtNTIxOTk2ODY2LC02NzA1NzExMCwtMTY3Nzg1MzE4OSwtMT
+AzMjc3ODMwNSwtMTE5MDk4OTE4LDE4MjU0MjcyNSwtNjA0MzIz
+NDQ1LDE2NTYwMTA2OTcsMTA4NDYxMDM4OV19
 -->
