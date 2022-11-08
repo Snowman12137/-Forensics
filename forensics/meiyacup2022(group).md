@@ -105,8 +105,31 @@ C .11:16:41(UTC + 8:00)
 D .05:55:50(UTC + 8:00)
 E . 18:40:06(UTC +8:00)
 10 . 【填空题】工地职员 B 的计算机的MAC Address 是什么?(请以大写英文及数字不要输入-）(1分)
+11 . 【填空题】工地职员 B 的计算机户FaFa的Profile ID 是什么?(请以大写英文及数字输入答案,不要输入-）(1分) 
+12 . 【填空题】工地职员B办公室计算机的 Windows CD Key 是什么?(请以大写英文及数字输入答案,不要输入-）(1分)
+13 . 【单选题】检查过工地职员 B 的计算机登录档案后( Wndow Registry )，计算机感染了什么恶意软件?(1分)
+A . Adware
+B . Worms
+C . Rootkits
+D .没有感染任何恶意软件
+14 . 【单选题】工地职员 B 的计算机中被加密便盘内的图片”_120778782_58759559.jpg”,有可能是从下列哪个途径载入计算机？
+A .电邮下载附件
+B . USB
+C . 网上下载
+D . 蓝牙传入
+E . Direct-Link
+15 . 【多选题】工地职员B的计算机中被加密硬盘内的图片中,人物中农着有什么颜色?(2分)
+A . 黄色
+B .红色
+C .紫色
+D . 蓝色
+E . 绿色
+16、【填空题】工地职员 B 的计算机有多个磁盘分区?(请以阿拉伯数字输入答案)(1分)
+17、【填空题】工地职员B的计算机硬盘分割表是什么？（答案请以首字母大写作答）
+仿真出来直接看
+18、【填空题】在工地职员 B 的计其机 Event Log 中最后登入时 services .exe的Prccess ID是什么?（请以阿拉伯数字输入） (3分) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc2ODY3NjIsLTExOTA5ODkxOCwxODI1ND
-I3MjUsLTYwNDMyMzQ0NSwxNjU2MDEwNjk3LDEwODQ2MTAzODld
-fQ==
+eyJoaXN0b3J5IjpbLTE1ODc0NDE5NzIsLTExOTA5ODkxOCwxOD
+I1NDI3MjUsLTYwNDMyMzQ0NSwxNjU2MDEwNjk3LDEwODQ2MTAz
+ODldfQ==
 -->
