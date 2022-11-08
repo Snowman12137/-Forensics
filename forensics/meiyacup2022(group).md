@@ -400,7 +400,7 @@ A 软件名称是安全防护
 B 件名称是安心润家
 C .软件签名( signAlgorithm )以SHA512withRSA加密
 D .封包名称(packageName)是org.chromium.webapk .a5b80edf82b436506_v2
->搜索2020033001，有两条记录，kan
+>搜索2020033001，有两条记录，看不出啥，跳转到源文件，也看不出啥，导出来看看
 >![输入图片说明](/imgs/2022-11-08/rbnFtQC22P5Ersgr.png)
 
 34、【多选题】特普于电话中安装了一个可疑软件(版本为2020033001),根据该可疑软件的安装档,可疑软件中涉及以下安全许可？
@@ -411,7 +411,7 @@ D . android.permission.BLUETOOTH使用蓝牙
 E . android.permission.CLEAR_APP_CACHE清除缓存
 35、【填空题】特普可能在电话中被可疑饮件窃取了的验证码是什么?(南以英文全大写及阿拉伯数字回答)(2分)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzEzMjQ2OCwxNjAzNzQwMzM4LDQ4NT
+eyJoaXN0b3J5IjpbLTEyMDAxNjI2NiwxNjAzNzQwMzM4LDQ4NT
 QyNjk2MCwtMzU5NzQ0NTUzLDQ3NjQ1OTIyMiwtMTAyMTE5Nzgy
 LDE1ODE3NjMxNDgsLTcwMzk3ODI2MSwtMTA4MTQ1ODI5MywtOD
 c5MzM2NDQ3LDI5MDQwNDA2LDE1MzU3MzIwMzEsLTE2NTEyMDQy
