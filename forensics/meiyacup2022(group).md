@@ -323,7 +323,7 @@ D 以上皆否
 >![输入图片说明](/imgs/2022-11-08/ttjj4B7lh3vdSX0U.png)
 
 
-## 29 - 
+## 29 - 35(12分)
 
 >29、【多选题】特普的电话中一张于2021年09月30日10:45:12拍摄的相片包含以哪些字?(1分)
 A 精忠
@@ -358,12 +358,19 @@ D . android.permission.BLUETOOTH使用蓝牙
 E . android.permission.CLEAR_APP_CACHE清除缓存
 35、【填空题】特普可能在电话中被可疑饮件窃取了的验证码是什么?(南以英文全大写及阿拉伯数字回答)(2分)
 
+
+>29、【多选题】特普的电话中一张于2021年09月30日10:45:12拍摄的相片包含以哪些字?(1分)
+A 精忠
+B .报国
+C 忠诚 
+D .勇毅
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mjk5NjAyOTQsNDc2NDU5MjIyLC0xMD
-IxMTk3ODIsMTU4MTc2MzE0OCwtNzAzOTc4MjYxLC0xMDgxNDU4
-MjkzLC04NzkzMzY0NDcsMjkwNDA0MDYsMTUzNTczMjAzMSwtMT
-Y1MTIwNDI0LC0yOTg1NzI5NzIsLTUyMTk5Njg2NiwtNjcwNTcx
-MTAsLTE2Nzc4NTMxODksLTEwMzI3NzgzMDUsLTExOTA5ODkxOC
-wxODI1NDI3MjUsLTYwNDMyMzQ0NSwxNjU2MDEwNjk3LDEwODQ2
-MTAzODldfQ==
+eyJoaXN0b3J5IjpbMTkwMDAxODgxMSw0NzY0NTkyMjIsLTEwMj
+ExOTc4MiwxNTgxNzYzMTQ4LC03MDM5NzgyNjEsLTEwODE0NTgy
+OTMsLTg3OTMzNjQ0NywyOTA0MDQwNiwxNTM1NzMyMDMxLC0xNj
+UxMjA0MjQsLTI5ODU3Mjk3MiwtNTIxOTk2ODY2LC02NzA1NzEx
+MCwtMTY3Nzg1MzE4OSwtMTAzMjc3ODMwNSwtMTE5MDk4OTE4LD
+E4MjU0MjcyNSwtNjA0MzIzNDQ1LDE2NTYwMTA2OTcsMTA4NDYx
+MDM4OV19
 -->
