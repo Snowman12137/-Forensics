@@ -12,7 +12,7 @@
 ![输入图片说明](/imgs/2022-11-08/Dcr0aZHSUxCjLvsq.jpeg)
 
 
-# 1-8()
+# 1-8(11分)
 一看就是职员A了
 >1、【填空题】工地职员 A 计算机的修复密钥标识符是什么?(请以代写英文字母和数字输入答案,不要输入-）(1分)
 >2、【填空题】工地职员 A 计算机的修复密明解除定是什么?(情以数字输入答案,不要输入-)(1分)
@@ -94,8 +94,19 @@ E.BTC address.bmp
 >**22**
 >第五题搜索里面无意间看到只有staff1被打开过，所以在staff里面找一下和法律相关的词语（还真是legal这个词），搜索一下有22个
 >![输入图片说明](/imgs/2022-11-08/65eRIVqWyGTTAMdH.png)
+575025-204820-336325-067067-589996-389829-603361-712272
+## 
+
+
+>9、【多选题】工地职员B的计算机在什么日期和时间被黑客控制?(2分)
+A .2021—10—19
+B .2021—09—16
+C .11:16:41(UTC + 8:00)
+D .05:55:50(UTC + 8:00)
+E . 18:40:06(UTC +8:00)
+10 . 【填空题】工地职员 B 的计算机的MAC Address 是什么?(请以大写英文及数字不要输入-）(1分)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjU2NzU0NDMsLTExOTA5ODkxOCwxOD
-I1NDI3MjUsLTYwNDMyMzQ0NSwxNjU2MDEwNjk3LDEwODQ2MTAz
-ODldfQ==
+eyJoaXN0b3J5IjpbNDc2ODY3NjIsLTExOTA5ODkxOCwxODI1ND
+I3MjUsLTYwNDMyMzQ0NSwxNjU2MDEwNjk3LDEwODQ2MTAzODld
+fQ==
 -->
