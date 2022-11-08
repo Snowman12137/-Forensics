@@ -196,15 +196,16 @@ E . 绿色
 –>右键–>属性–>鼠标左键点击“卷”–>查看“磁盘分区形式”
 >![输入图片说明](/imgs/2022-11-08/6fbPk8gHhiZEWOI2.png)
 
->18、【填空题】在工地职员 B 的计其机 Event Log 中最后登入时 services .exe的Prccess ID是什么?（请以阿拉伯数字输入） (3分) 
->搜了一下services.exe，在系统日志里面发现了记录，但是没找到PID，看了下wp发现答案是1833，发现最后一条中只有一个地方有1833，推测这就是
+>18、【填空题】在工地职员 B 的计其机 Event Log 中最后登入时 services .exe的Prccess ID是什么?（请以阿拉伯数字输入） (3分) **1833**
+>搜了一下services.exe，在系统日志里面发现了记录，但是没找到PID，看了下wp发现答案是1833，发现最后一条中只有一个地方有1833，推测这就是Windows日志记录PID的位置，但是围着呢吗后面还有个1843？1842？不太懂这里
 >![输入图片说明](/imgs/2022-11-08/OKz73qI23VRcpR7w.png)
 
 >19、【填空题】什么IP曾经上传档案到网页服务器？(请以数字输入答案,不要输入-）(1分)
+>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc2NzA3MjM3LDE1MzU3MzIwMzEsLTE2NT
-EyMDQyNCwtMjk4NTcyOTcyLC01MjE5OTY4NjYsLTY3MDU3MTEw
-LC0xNjc3ODUzMTg5LC0xMDMyNzc4MzA1LC0xMTkwOTg5MTgsMT
-gyNTQyNzI1LC02MDQzMjM0NDUsMTY1NjAxMDY5NywxMDg0NjEw
-Mzg5XX0=
+eyJoaXN0b3J5IjpbMjkwNDA0MDYsMTUzNTczMjAzMSwtMTY1MT
+IwNDI0LC0yOTg1NzI5NzIsLTUyMTk5Njg2NiwtNjcwNTcxMTAs
+LTE2Nzc4NTMxODksLTEwMzI3NzgzMDUsLTExOTA5ODkxOCwxOD
+I1NDI3MjUsLTYwNDMyMzQ0NSwxNjU2MDEwNjk3LDEwODQ2MTAz
+ODldfQ==
 -->
