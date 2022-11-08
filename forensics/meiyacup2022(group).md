@@ -65,9 +65,15 @@ A.小学
 B.中学
 C.幼儿园
 D.大学
->作为家长应该会在浏览器里面搜索学校啥的吧，yi
+>作为家长应该会在浏览器里面搜索学校啥的吧，一看还真有，幼稚园。
 >![输入图片说明](/imgs/2022-11-08/EBrmNmQ8oV9So5Bn.png)
+
+>5.【多选题】工地职员A并没有打开过那一个档案?(2分)
+A.Staff3.xlsx
+B.Staf4.xisx
+C.Slaf1. xisx
+D.Staf2.xisx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyODQ5NzQ4MCwxODI1NDI3MjUsLTYwND
+eyJoaXN0b3J5IjpbMTA1MTE0Nzc2MCwxODI1NDI3MjUsLTYwND
 MyMzQ0NSwxNjU2MDEwNjk3LDEwODQ2MTAzODldfQ==
 -->
