@@ -299,12 +299,30 @@ D .以上皆否
 
 >26、【填空题】解压后的脚本文档的档案大小是多少?(请以字节及阿拉伯数字回答)(3分)
 >感谢[# base64+gzinflate压缩编码（加密）文件](https://blog.csdn.net/forest_fire/article/details/50944216)
->
+>在执行脚本的过程中要关闭防火墙，如下图，**109041**
+>![输入图片说明](/imgs/2022-11-08/xdXTcmls4UrUYCRH.png)
+
+
+>27、【多选题】解压后的脚本文件内有甚么功能?(3分)
+A 编辑文件
+B 删除文件
+C 更改用户密码
+D .加密文件
+E .重新命名文件
+
+
+
+>28、【单选题】解压后的脚本含有压缩功能,当中使用的解压方法是甚么?(2分)
+A. PclZip . php
+B Unzip _gz0
+C ZipArchive )
+D 以上皆否
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc2NDU5MjIyLC0xMDIxMTk3ODIsMTU4MT
-c2MzE0OCwtNzAzOTc4MjYxLC0xMDgxNDU4MjkzLC04NzkzMzY0
-NDcsMjkwNDA0MDYsMTUzNTczMjAzMSwtMTY1MTIwNDI0LC0yOT
-g1NzI5NzIsLTUyMTk5Njg2NiwtNjcwNTcxMTAsLTE2Nzc4NTMx
-ODksLTEwMzI3NzgzMDUsLTExOTA5ODkxOCwxODI1NDI3MjUsLT
-YwNDMyMzQ0NSwxNjU2MDEwNjk3LDEwODQ2MTAzODldfQ==
+eyJoaXN0b3J5IjpbOTM5MjI2MzU0LDQ3NjQ1OTIyMiwtMTAyMT
+E5NzgyLDE1ODE3NjMxNDgsLTcwMzk3ODI2MSwtMTA4MTQ1ODI5
+MywtODc5MzM2NDQ3LDI5MDQwNDA2LDE1MzU3MzIwMzEsLTE2NT
+EyMDQyNCwtMjk4NTcyOTcyLC01MjE5OTY4NjYsLTY3MDU3MTEw
+LC0xNjc3ODUzMTg5LC0xMDMyNzc4MzA1LC0xMTkwOTg5MTgsMT
+gyNTQyNzI1LC02MDQzMjM0NDUsMTY1NjAxMDY5NywxMDg0NjEw
+Mzg5XX0=
 -->
