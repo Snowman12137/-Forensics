@@ -134,12 +134,13 @@ B .2021—09—16
 C .11:16:41(UTC + 8:00)
 D .05:55:50(UTC + 8:00)
 E . 18:40:06(UTC +8:00)
->TeamViewer看一下时间，发信啊AB都不对
+>TeamViewer看一下时间，发现AB都不对，选E
 >![输入图片说明](/imgs/2022-11-08/iVL5TjPSC8EULvt3.png)
 
 
+>10 . 【填空题】工地职员 B 的计算机的MAC Address 是什么?(请以大写英文及数字不要输入-）(1分)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MzA3NjQ5NiwtMTE5MDk4OTE4LDE4Mj
-U0MjcyNSwtNjA0MzIzNDQ1LDE2NTYwMTA2OTcsMTA4NDYxMDM4
-OV19
+eyJoaXN0b3J5IjpbLTEwMzI3NzgzMDUsLTExOTA5ODkxOCwxOD
+I1NDI3MjUsLTYwNDMyMzQ0NSwxNjU2MDEwNjk3LDEwODQ2MTAz
+ODldfQ==
 -->
