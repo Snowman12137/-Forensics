@@ -78,8 +78,15 @@ E.BTC address.bmp
 >![输入图片说明](/imgs/2022-11-08/CUeWuby4ORiKHyqs.png)
 
 >6、【填空题】工地现员 A 的计算机被远程控制了多少分钟?(请以阿拉伯数字回答)(2分)
->
+>TeamViewer里面，开始和结束时间一减，**11**
+>![输入图片说明](/imgs/2022-11-08/vhZJxj9hfo0zONgf.png)
+
+>7、【单选题】工地职员 A 的计算机被加密后,被要求存入的虚拟货币是什么?(1分)
+ A 比币现金
+ B 比特币
+ C 以太币
+ D 达币
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTM1MDEyNTcsMTgyNTQyNzI1LC02MD
-QzMjM0NDUsMTY1NjAxMDY5NywxMDg0NjEwMzg5XX0=
+eyJoaXN0b3J5IjpbLTExOTA5ODkxOCwxODI1NDI3MjUsLTYwND
+MyMzQ0NSwxNjU2MDEwNjk3LDEwODQ2MTAzODldfQ==
 -->
