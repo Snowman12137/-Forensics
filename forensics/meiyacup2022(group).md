@@ -249,17 +249,32 @@ D 以上皆否
 >上传东西一般都是要POST，而且看日志只有**203.145.94.120**的请求数最多，推测是这个IP上传的档案,并且在请求是uploader.php
 >![输入图片说明](/imgs/2022-11-08/8McSlTHfvESy3pCs.png)
 
->20、【多选题】承上题,以下哪试档案曾被上传到网页服务器?(3分)D
+>20、【多选题】承上题,以下哪试档案曾被上传到网页服务器?(3分)**ABD**
 A .kjk2.jpg
 B kjk2.php
 C b6778k-9.0.php
 D b374k-2.5.php
 E d374k-2.5.php
+>每个选项都搜索一下
 
+>21、【单选题】入侵者可能使用甚么漏洞进行入侵网页服务器?(1分)**A** 
+A .文件上传漏洞
+B SQL 注入
+C 跨站脚本攻击
+D 格式化字将串弱点
+>上面两题都是关于文件传输的，还有一个uploader.php，推断是文件上传漏洞
+
+>22、【多选题】在网页服务器得到的所有文件档( doc 及 doex )中,有以下哪些文件制作人(Author) ?(2分)
+A. Kevin L.Brown
+B Peter R.Lee 
+C Mary
+D May
+E Colin
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODE0NTgyOTMsLTg3OTMzNjQ0NywyOT
-A0MDQwNiwxNTM1NzMyMDMxLC0xNjUxMjA0MjQsLTI5ODU3Mjk3
-MiwtNTIxOTk2ODY2LC02NzA1NzExMCwtMTY3Nzg1MzE4OSwtMT
-AzMjc3ODMwNSwtMTE5MDk4OTE4LDE4MjU0MjcyNSwtNjA0MzIz
-NDQ1LDE2NTYwMTA2OTcsMTA4NDYxMDM4OV19
+eyJoaXN0b3J5IjpbLTcwMzk3ODI2MSwtMTA4MTQ1ODI5MywtOD
+c5MzM2NDQ3LDI5MDQwNDA2LDE1MzU3MzIwMzEsLTE2NTEyMDQy
+NCwtMjk4NTcyOTcyLC01MjE5OTY4NjYsLTY3MDU3MTEwLC0xNj
+c3ODUzMTg5LC0xMDMyNzc4MzA1LC0xMTkwOTg5MTgsMTgyNTQy
+NzI1LC02MDQzMjM0NDUsMTY1NjAxMDY5NywxMDg0NjEwMzg5XX
+0=
 -->
