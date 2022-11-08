@@ -264,18 +264,26 @@ C 跨站脚本攻击
 D 格式化字将串弱点
 >上面两题都是关于文件传输的，还有一个uploader.php，推断是文件上传漏洞
 
->22、【多选题】在网页服务器得到的所有文件档( doc 及 doex )中,有以下哪些文件制作人(Author) ?(2分)
+>22、【多选题】在网页服务器得到的所有文件档( doc 及 doex )中,有以下哪些文件制作人(Author) ?(2分)**AC**
 A. Kevin L.Brown
 B Peter R.Lee 
 C Mary
 D May
 E Colin
+>浅浅仿真一下，然后搜一下doc文档，
 ![输入图片说明](/imgs/2022-11-08/4mUd1fuqSgCWJgFp.png)
+
+>23、【多选题】在网页服务器中,哪个是可疑档案?它如何眼得计算机控制权?(3分)
+A 可疑档案:b677Bk—9.0.php
+B .可疑档案:b374k—25. php
+C.可档案: upload.php
+D 透过浏究器远程管理取得计算机控制权
+>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzM5NDU1MTgsLTcwMzk3ODI2MSwtMT
-A4MTQ1ODI5MywtODc5MzM2NDQ3LDI5MDQwNDA2LDE1MzU3MzIw
-MzEsLTE2NTEyMDQyNCwtMjk4NTcyOTcyLC01MjE5OTY4NjYsLT
-Y3MDU3MTEwLC0xNjc3ODUzMTg5LC0xMDMyNzc4MzA1LC0xMTkw
-OTg5MTgsMTgyNTQyNzI1LC02MDQzMjM0NDUsMTY1NjAxMDY5Ny
-wxMDg0NjEwMzg5XX0=
+eyJoaXN0b3J5IjpbMTYzMDA3NTA0MSwtNzAzOTc4MjYxLC0xMD
+gxNDU4MjkzLC04NzkzMzY0NDcsMjkwNDA0MDYsMTUzNTczMjAz
+MSwtMTY1MTIwNDI0LC0yOTg1NzI5NzIsLTUyMTk5Njg2NiwtNj
+cwNTcxMTAsLTE2Nzc4NTMxODksLTEwMzI3NzgzMDUsLTExOTA5
+ODkxOCwxODI1NDI3MjUsLTYwNDMyMzQ0NSwxNjU2MDEwNjk3LD
+EwODQ2MTAzODldfQ==
 -->
