@@ -172,11 +172,11 @@ B . USB
 C . 网上下载
 D . 蓝牙传入
 E . Direct-Link
-搜了一下照片，发现FTP服务器里也有，猜测是FTP传过去的，但是发现照片是先在staffB上存在的，所以看一下文件的原目录，
+搜了一下照片，发现FTP服务器里也有，猜测是FTP传过去的，但是发现照片是先在staffB上存在的，所以看一下文件的原目录，在E盘下面，没啥头绪，开虚拟机看看
 >![输入图片说明](/imgs/2022-11-08/R2h7XRLZdP9oeMMH.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MzE2ODQ3LC01MjE5OTY4NjYsLTY3MD
-U3MTEwLC0xNjc3ODUzMTg5LC0xMDMyNzc4MzA1LC0xMTkwOTg5
-MTgsMTgyNTQyNzI1LC02MDQzMjM0NDUsMTY1NjAxMDY5NywxMD
-g0NjEwMzg5XX0=
+eyJoaXN0b3J5IjpbLTI5ODU3Mjk3MiwtNTIxOTk2ODY2LC02Nz
+A1NzExMCwtMTY3Nzg1MzE4OSwtMTAzMjc3ODMwNSwtMTE5MDk4
+OTE4LDE4MjU0MjcyNSwtNjA0MzIzNDQ1LDE2NTYwMTA2OTcsMT
+A4NDYxMDM4OV19
 -->
