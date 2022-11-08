@@ -273,7 +273,7 @@ E Colin
 >浅浅仿真一下，然后搜一下doc文档，doex文档也搜了下，发现没有
 ![输入图片说明](/imgs/2022-11-08/4mUd1fuqSgCWJgFp.png)
 
->23、【多选题】在网页服务器中,哪个是可疑档案?它如何眼得计算机控制权?(3分)BD
+>23、【多选题】在网页服务器中,哪个是可疑档案?它如何眼得计算机控制权?(3分)**BD**
 A 可疑档案:b677Bk—9.0.php
 B .可疑档案:b374k—25. php
 C.可档案: upload.php
@@ -281,10 +281,13 @@ D 透过浏究器远程管理取得计算机控制权
 E.透过PuTTY(远程登录工具) 取得计算机控制权
 >打开b374k—25. php，发现第一行是个eval输出，这在PHP里是一个很危险的函数，可以执行系统命令，又搜了下b374k
 >![输入图片说明](/imgs/2022-11-08/GHX1U3rCM0546u3k.png)
->发现是一个webshell，ke
+>发现是一个webshell，可以远程控制主机的木马，所以BD
 >![输入图片说明](/imgs/2022-11-08/5TG4Mecfok55STNn.png)
+
+>24、【填空题】在网页服务器中,运行可疑档案需要密码,其密码的哈希值( Hash Value )是甚么?(请以英文全大写及阿拉伯数字回答)（3分）
+>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NDA3MTM1MywxNTgxNzYzMTQ4LC03MD
+eyJoaXN0b3J5IjpbLTEwMjExOTc4MiwxNTgxNzYzMTQ4LC03MD
 M5NzgyNjEsLTEwODE0NTgyOTMsLTg3OTMzNjQ0NywyOTA0MDQw
 NiwxNTM1NzMyMDMxLC0xNjUxMjA0MjQsLTI5ODU3Mjk3MiwtNT
 IxOTk2ODY2LC02NzA1NzExMCwtMTY3Nzg1MzE4OSwtMTAzMjc3
