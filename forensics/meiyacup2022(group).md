@@ -40,6 +40,9 @@ E.BTC address.bmp
  C 以太币
  D 达币
 8、【填空题】在工地职员 A 的计算机曾经打开过的 Excal 档案中,有多少人有可能在法律部门工作?(请以阿拉伯数字回答)（1分）
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NjAxMDY5NywxMDg0NjEwMzg5XX0=
+eyJoaXN0b3J5IjpbLTIwODU0MjQwOTEsMTY1NjAxMDY5NywxMD
+g0NjEwMzg5XX0=
 -->
