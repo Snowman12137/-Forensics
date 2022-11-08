@@ -285,12 +285,20 @@ E.透过PuTTY(远程登录工具) 取得计算机控制权
 >![输入图片说明](/imgs/2022-11-08/5TG4Mecfok55STNn.png)
 
 >24、【填空题】在网页服务器中,运行可疑档案需要密码,其密码的哈希值( Hash Value )是甚么?(请以英文全大写及阿拉伯数字回答)（3分）
->0de664ecd2be02cdd54234a0d1229b43
+>**0de664ecd2be02cdd54234a0d1229b43**
+>接上题的s_pass的值，看上面注释说，密码以这样的摘要形式存储。
+
+>25、【单选题】在网特服务器中，可疑档案的译码函数是什么？（2分）
+A . unzip _ file (’$x,$y')
+B . gzdccode (base64 decode ($x))
+C . gzinflate (base64_ decode ($x))
+D .以上皆否
+>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ0Mjc5Mzc3LC0xMDIxMTk3ODIsMTU4MT
-c2MzE0OCwtNzAzOTc4MjYxLC0xMDgxNDU4MjkzLC04NzkzMzY0
-NDcsMjkwNDA0MDYsMTUzNTczMjAzMSwtMTY1MTIwNDI0LC0yOT
-g1NzI5NzIsLTUyMTk5Njg2NiwtNjcwNTcxMTAsLTE2Nzc4NTMx
-ODksLTEwMzI3NzgzMDUsLTExOTA5ODkxOCwxODI1NDI3MjUsLT
-YwNDMyMzQ0NSwxNjU2MDEwNjk3LDEwODQ2MTAzODldfQ==
+eyJoaXN0b3J5IjpbMTMzOTgwNjU1NSwtMTAyMTE5NzgyLDE1OD
+E3NjMxNDgsLTcwMzk3ODI2MSwtMTA4MTQ1ODI5MywtODc5MzM2
+NDQ3LDI5MDQwNDA2LDE1MzU3MzIwMzEsLTE2NTEyMDQyNCwtMj
+k4NTcyOTcyLC01MjE5OTY4NjYsLTY3MDU3MTEwLC0xNjc3ODUz
+MTg5LC0xMDMyNzc4MzA1LC0xMTkwOTg5MTgsMTgyNTQyNzI1LC
+02MDQzMjM0NDUsMTY1NjAxMDY5NywxMDg0NjEwMzg5XX0=
 -->
