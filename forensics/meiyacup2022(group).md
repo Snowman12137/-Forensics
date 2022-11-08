@@ -246,9 +246,10 @@ C ZipArchive )
 D 以上皆否
 
 >19、【填空题】什么IP曾经上传档案到网页服务器？(请以数字输入答案,不要输入-）(1分)
-
+>上传东西一般都是要POST，而且看日志只有203.145.94.120的请求数最多，推测是这个IP上传的档案
+>![输入图片说明](/imgs/2022-11-08/8McSlTHfvESy3pCs.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwODY1NzQxMSwtODc5MzM2NDQ3LDI5MD
+eyJoaXN0b3J5IjpbLTk4MzkwOTIzMiwtODc5MzM2NDQ3LDI5MD
 QwNDA2LDE1MzU3MzIwMzEsLTE2NTEyMDQyNCwtMjk4NTcyOTcy
 LC01MjE5OTY4NjYsLTY3MDU3MTEwLC0xNjc3ODUzMTg5LC0xMD
 MyNzc4MzA1LC0xMTkwOTg5MTgsMTgyNTQyNzI1LC02MDQzMjM0
