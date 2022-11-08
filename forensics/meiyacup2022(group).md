@@ -60,13 +60,14 @@ D.PGP
 E.FileVault 2
 
 
->4、【单选题】工地职员A的孩子有可能正准备就读什么学校?(2分)
+>4、【单选题】工地职员A的孩子有可能正准备就读什么学校?(2分)**C**
 A.小学
 B.中学
 C.幼儿园
 D.大学
-
+>作为家长应该会在浏览器里面搜索学校啥的吧，yi
+>![输入图片说明](/imgs/2022-11-08/EBrmNmQ8oV9So5Bn.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNTQyNzI1LC02MDQzMjM0NDUsMTY1Nj
-AxMDY5NywxMDg0NjEwMzg5XX0=
+eyJoaXN0b3J5IjpbMTEyODQ5NzQ4MCwxODI1NDI3MjUsLTYwND
+MyMzQ0NSwxNjU2MDEwNjk3LDEwODQ2MTAzODldfQ==
 -->
