@@ -385,11 +385,15 @@ D . Dak Pou Home
 >搜索了一下几个密码，发现只有**B**可以搜到
 >![输入图片说明](/imgs/2022-11-08/ohcDHJjVHXZvsVEi.png)
 
-32、【多选题】特普于经纬度22.278843,114.165783,没有做什么?(2分)
+>32、【多选题】特普于经纬度22.278843,114.165783,没有做什么?(2分)
 A 拍影片
 B拍照
 C 使用 gpogle map
 D .在 Whatsapp 中分享实时位置
+>直接搜，没有搜到
+
+
+
 33、【多选题】特普于电话中安装了一个可疑软件（版本为2020033001），跟据该可疑软件的安装档,下列哪项描述正确?(2分)
 A 软件名称是安全防护
 B 件名称是安心润家
@@ -403,11 +407,11 @@ D . android.permission.BLUETOOTH使用蓝牙
 E . android.permission.CLEAR_APP_CACHE清除缓存
 35、【填空题】特普可能在电话中被可疑饮件窃取了的验证码是什么?(南以英文全大写及阿拉伯数字回答)(2分)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNjMyNDUxNCw0ODU0MjY5NjAsLTM1OT
-c0NDU1Myw0NzY0NTkyMjIsLTEwMjExOTc4MiwxNTgxNzYzMTQ4
-LC03MDM5NzgyNjEsLTEwODE0NTgyOTMsLTg3OTMzNjQ0NywyOT
-A0MDQwNiwxNTM1NzMyMDMxLC0xNjUxMjA0MjQsLTI5ODU3Mjk3
-MiwtNTIxOTk2ODY2LC02NzA1NzExMCwtMTY3Nzg1MzE4OSwtMT
-AzMjc3ODMwNSwtMTE5MDk4OTE4LDE4MjU0MjcyNSwtNjA0MzIz
-NDQ1XX0=
+eyJoaXN0b3J5IjpbLTE5OTYxMjQwMzUsNDg1NDI2OTYwLC0zNT
+k3NDQ1NTMsNDc2NDU5MjIyLC0xMDIxMTk3ODIsMTU4MTc2MzE0
+OCwtNzAzOTc4MjYxLC0xMDgxNDU4MjkzLC04NzkzMzY0NDcsMj
+kwNDA0MDYsMTUzNTczMjAzMSwtMTY1MTIwNDI0LC0yOTg1NzI5
+NzIsLTUyMTk5Njg2NiwtNjcwNTcxMTAsLTE2Nzc4NTMxODksLT
+EwMzI3NzgzMDUsLTExOTA5ODkxOCwxODI1NDI3MjUsLTYwNDMy
+MzQ0NV19
 -->
