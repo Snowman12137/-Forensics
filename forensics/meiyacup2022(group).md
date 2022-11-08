@@ -74,9 +74,12 @@ B.Staf4.xisx
 C.Slaf1. xisx
 D.Staf2.xisx
 E.BTC address.bmp
->shousuoyixi
+>搜索一下最近访问的文档，发现只有E出现过，**注意：CD是slaf不是staf**
 >![输入图片说明](/imgs/2022-11-08/CUeWuby4ORiKHyqs.png)
+
+>6、【填空题】工地现员 A 的计算机被远程控制了多少分钟?(请以阿拉伯数字回答)(2分)
+>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MDEwMTUwMywxODI1NDI3MjUsLTYwND
-MyMzQ0NSwxNjU2MDEwNjk3LDEwODQ2MTAzODldfQ==
+eyJoaXN0b3J5IjpbLTExMTM1MDEyNTcsMTgyNTQyNzI1LC02MD
+QzMjM0NDUsMTY1NjAxMDY5NywxMDg0NjEwMzg5XX0=
 -->
