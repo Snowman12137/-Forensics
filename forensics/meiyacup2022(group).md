@@ -14,7 +14,28 @@
 
 # 1-8()
 一看就是职员A了
+>1、【填空题】工地职员 A 计算机的修复密钥标识符是什么?(请以代写英文字母和数字输入答案,不要输入-）(1分)
+>2、【填空题】工地职员 A 计算机的修复密明解除定是什么?(情以数字输入答案,不要输入-)(1分)
+>3、【单选题】工地职员 A的计算机被什么程式密?(1分)
+A.Ransomware
+B.BitLocker
+C.AxCrypt
+D.PGP
+E.FileVault 2
+4、【单选题】工地职员A的孩子有可能正准备就读什么学校?(2分)
+A.小学
+B.中学
+C.幼儿园
+D.大学
+5.【多选题】工地职员A并没有打开过那一个档案?(2分)
+A.Staff3.xlsx
+B.Staf4.xisx
+C.Slaf1. xisx
+D.Staf2.xisx
+E.BTC address.bmp
+6、【填空题】工地现员 A 的计算机被远程控制了多少分钟?(请以阿拉伯数字回答)(2分)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjM0Mzk3NDUsMTA4NDYxMDM4OV19
+eyJoaXN0b3J5IjpbLTk1MzUyMjU5NSwxMDg0NjEwMzg5XX0=
 -->
