@@ -172,10 +172,11 @@ B . USB
 C . 网上下载
 D . 蓝牙传入
 E . Direct-Link
->
+搜了一下照片，发现FTP服务器里也有，猜测是FTP传过去的，但是发现照片是xian
+>![输入图片说明](/imgs/2022-11-08/R2h7XRLZdP9oeMMH.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzkxNjk3NDMsLTUyMTk5Njg2NiwtNj
-cwNTcxMTAsLTE2Nzc4NTMxODksLTEwMzI3NzgzMDUsLTExOTA5
-ODkxOCwxODI1NDI3MjUsLTYwNDMyMzQ0NSwxNjU2MDEwNjk3LD
-EwODQ2MTAzODldfQ==
+eyJoaXN0b3J5IjpbNDY3MDc1NjYzLC01MjE5OTY4NjYsLTY3MD
+U3MTEwLC0xNjc3ODUzMTg5LC0xMDMyNzc4MzA1LC0xMTkwOTg5
+MTgsMTgyNTQyNzI1LC02MDQzMjM0NDUsMTY1NjAxMDY5NywxMD
+g0NjEwMzg5XX0=
 -->
