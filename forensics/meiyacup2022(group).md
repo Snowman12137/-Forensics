@@ -197,12 +197,12 @@ E . 绿色
 >![输入图片说明](/imgs/2022-11-08/6fbPk8gHhiZEWOI2.png)
 
 >18、【填空题】在工地职员 B 的计其机 Event Log 中最后登入时 services .exe的Prccess ID是什么?（请以阿拉伯数字输入） (3分) 
->搜了一下services.exe
+>搜了一下services.exe，在系统日志里面发现了记录，但是没找到PID，看了下wp发现答案是1833，发现最后一条中只有一个地方有1833，推测这就是
 >![输入图片说明](/imgs/2022-11-08/OKz73qI23VRcpR7w.png)
 
 >19、【填空题】什么IP曾经上传档案到网页服务器？(请以数字输入答案,不要输入-）(1分)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNTA3Mjc5LDE1MzU3MzIwMzEsLTE2NT
+eyJoaXN0b3J5IjpbNjc2NzA3MjM3LDE1MzU3MzIwMzEsLTE2NT
 EyMDQyNCwtMjk4NTcyOTcyLC01MjE5OTY4NjYsLTY3MDU3MTEw
 LC0xNjc3ODUzMTg5LC0xMDMyNzc4MzA1LC0xMTkwOTg5MTgsMT
 gyNTQyNzI1LC02MDQzMjM0NDUsMTY1NjAxMDY5NywxMDg0NjEw
