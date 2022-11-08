@@ -34,8 +34,12 @@ C.Slaf1. xisx
 D.Staf2.xisx
 E.BTC address.bmp
 6、【填空题】工地现员 A 的计算机被远程控制了多少分钟?(请以阿拉伯数字回答)(2分)
-
-
+7、【单选题】工地职员 A 的计算机被加密后,被要求存入的虚拟货币是什么?(1分)
+ A 比币现金
+ B 比特币
+ C 以太币
+ D 达币
+8、【填空题】在工地职员 A 的计算机曾经打开过的 Excal 档案中,有多少人有可能在法律部门工作?(请以阿拉伯数字回答)（1分）
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MzUyMjU5NSwxMDg0NjEwMzg5XX0=
+eyJoaXN0b3J5IjpbMTY1NjAxMDY5NywxMDg0NjEwMzg5XX0=
 -->
