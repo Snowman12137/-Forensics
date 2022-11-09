@@ -108,14 +108,19 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 >16	检材2中，技术员使用的WSL子系统发行版本是
 >不知道WSL是啥，搜一下
 >![输入图片说明](/imgs/2022-11-09/ju09cmQmiN7zQM75.png)
->
+>搜一下一看**20.04**
 ![输入图片说明](/imgs/2022-11-09/5mE2r2xu0OdH3jbL.png)
-17	检材2中，运行的数据库服务版本号是
+
+
+
+>17	检材2中，运行的数据库服务版本号是
+>
+
 18	上述数据库debian-sys-maint用户的初始密码是
 19	检材3服务器root账号的密码是
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MTA4MjMwNywtMjA4MDI1NjkxNSwtNz
+eyJoaXN0b3J5IjpbLTQ1NTM3NzU5OSwtMjA4MDI1NjkxNSwtNz
 I4MDU4NTAxLDE1MzIzMzA1MjMsMTI3ODA2MDg0Myw4NzMyNzQx
 NTYsLTI0MTA0NDEwOCwxNDg3NjMyNjY5LC05ODQyMjU3ODEsMj
 EzMDk3ODg3MSwtODc1MjEzNzgxLC0xOTk4MTI4NjI2LDE3NzIy
