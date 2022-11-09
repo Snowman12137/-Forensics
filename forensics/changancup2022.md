@@ -58,6 +58,10 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 >![输入图片说明](/imgs/2022-11-09/j2CjpoGg00qfHvg4.png)
 >>第一种：挨个启动启动后观看7000端口（其实启动时候仔细看已经有答案了）![输入图片说明](/imgs/2022-11-09/mJxfj0DsqMnS5Pbl.png)
 >>第二种：文件导出来看源码，导出来以后不能直接打开，需要有反编译软件如
+>![输入图片说明](/imgs/2022-11-09/EvOmVRVvn0vdFFHk.png)
+>然后把文件拖进去然后看源码就会发现答案
+>![输入图片说明](/imgs/2022-11-09/YmfSJz86SG5hmc3v.png)
+
 
 
 7	检材1中，网站管理后台页面对应的网络端口为
@@ -65,8 +69,8 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 9	检材1中，网站管理后台页面调用的用户表(admin)里的密码字段加密方式为?
 10	分析检材1，网站管理后台登录密码加密算法中所使用的盐值是
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NDkzOTE0NywxNDg3NjMyNjY5LC05OD
-QyMjU3ODEsMjEzMDk3ODg3MSwtODc1MjEzNzgxLC0xOTk4MTI4
-NjI2LDE3NzIyNTc0MjksLTEzNjA2MDkwODQsLTQyOTA4ODk3M1
-19
+eyJoaXN0b3J5IjpbNzEwMjM1NTkzLDE0ODc2MzI2NjksLTk4ND
+IyNTc4MSwyMTMwOTc4ODcxLC04NzUyMTM3ODEsLTE5OTgxMjg2
+MjYsMTc3MjI1NzQyOSwtMTM2MDYwOTA4NCwtNDI5MDg4OTczXX
+0=
 -->
