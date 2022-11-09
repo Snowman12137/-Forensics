@@ -96,6 +96,9 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 >14	检材2中，下载的涉案网站源代码文件名为
 >在压缩文件里翻找一下（还好不多），找一下可疑的文件然后导出来看一下，或者到浏览器下载记录里面看。
 >![输入图片说明](/imgs/2022-11-09/EJiWDPupZyjA76YU.png)
+>![输入图片说明](/imgs/2022-11-09/vzGKOv9ttJn8v5bC.png)
+>这个jar的五个文件就是检材一网站搭建里面的jar包
+>答案为：**ZTuoExchange_framework-master.zip**
 
 15	检材2中，网站管理后台root账号的密码为
 16	检材2中，技术员使用的WSL子系统发行版本是
@@ -104,7 +107,7 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 19	检材3服务器root账号的密码是
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyODE1Mzc3NywtNzI4MDU4NTAxLDE1Mz
+eyJoaXN0b3J5IjpbMjE0MzIxMDU5NywtNzI4MDU4NTAxLDE1Mz
 IzMzA1MjMsMTI3ODA2MDg0Myw4NzMyNzQxNTYsLTI0MTA0NDEw
 OCwxNDg3NjMyNjY5LC05ODQyMjU3ODEsMjEzMDk3ODg3MSwtOD
 c1MjEzNzgxLC0xOTk4MTI4NjI2LDE3NzIyNTc0MjksLTEzNjA2
