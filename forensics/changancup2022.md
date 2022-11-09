@@ -123,10 +123,11 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 >![输入图片说明](/imgs/2022-11-09/n81RYu9Vr6DuVemz.png)![输入图片说明](/imgs/2022-11-09/Kcw6nyfj95WvlWd6.png)
 
 >19	检材3服务器root账号的密码是
->是否还记得9题10题的java包，
+>是否还记得9题10题的java包，推测128为数据库服务器，对应的密码就是**h123456**
+>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NDI0MTkyNCwxNDMxOTE2NzQ4LC00NT
+eyJoaXN0b3J5IjpbLTg2NDEyMDgzMiwxNDMxOTE2NzQ4LC00NT
 UzNzc1OTksLTIwODAyNTY5MTUsLTcyODA1ODUwMSwxNTMyMzMw
 NTIzLDEyNzgwNjA4NDMsODczMjc0MTU2LC0yNDEwNDQxMDgsMT
 Q4NzYzMjY2OSwtOTg0MjI1NzgxLDIxMzA5Nzg4NzEsLTg3NTIx
