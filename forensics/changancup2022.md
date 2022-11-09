@@ -73,7 +73,7 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 >10题是**XehGyeyrVgOV4P8Uf70REVpIw3iVNwNs**
 >![输入图片说明](/imgs/2022-11-09/V11n33a12JOO59qR.png)
 >仔细一看这个java包里面给的信息真不少
->这里有一个数据库的密码账号，还有一个IP是128，caiceshi![输入图片说明](/imgs/2022-11-09/cbgvecwI985d6aCh.png)
+>这里有一个数据库的密码账号，还有一个IP是128，猜测是数据库服务器![输入图片说明](/imgs/2022-11-09/cbgvecwI985d6aCh.png)
 >这里还有mongodb和redis数据库![输入图片说明](/imgs/2022-11-09/e4aLmZ5k7I9tQv2Q.png)
 
 ## 检材二：11-19
@@ -88,8 +88,8 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 19	检材3服务器root账号的密码是
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDkyMDE0NCwtMjQxMDQ0MTA4LDE0OD
-c2MzI2NjksLTk4NDIyNTc4MSwyMTMwOTc4ODcxLC04NzUyMTM3
-ODEsLTE5OTgxMjg2MjYsMTc3MjI1NzQyOSwtMTM2MDYwOTA4NC
-wtNDI5MDg4OTczXX0=
+eyJoaXN0b3J5IjpbODczMjc0MTU2LC0yNDEwNDQxMDgsMTQ4Nz
+YzMjY2OSwtOTg0MjI1NzgxLDIxMzA5Nzg4NzEsLTg3NTIxMzc4
+MSwtMTk5ODEyODYyNiwxNzcyMjU3NDI5LC0xMzYwNjA5MDg0LC
+00MjkwODg5NzNdfQ==
 -->
