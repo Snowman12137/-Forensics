@@ -123,8 +123,7 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 >![输入图片说明](/imgs/2022-11-09/n81RYu9Vr6DuVemz.png)![输入图片说明](/imgs/2022-11-09/Kcw6nyfj95WvlWd6.png)
 
 >19	检材3服务器root账号的密码是
->是否还记得9题10题的java包，推测128为数据库服务器，对应的密码就是**h123456**
->而且大家是否还记得在ssh链接记录里面也有一个密码记录![输入图片说明](/imgs/2022-11-09/GhkBbv35c9MGTUC1.png)
+>大家是否还记得在ssh链接记录里面有一个密码记录**h123456**![输入图片说明](/imgs/2022-11-09/GhkBbv35c9MGTUC1.png)
 
 
 
@@ -160,7 +159,7 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 >回到检材一的9,10题的逆向代码部分，**redis.mongo**
 
 >22	检材3中，MySQL数据库root账号的密码是
->
+>回到检材一的9,10题的逆向代码部分, **shhl7001**
 
 23	检材3中，MySQL数据库在容器内部的数据目录为
 24	涉案网站调用的MySQL数据库名为
@@ -174,7 +173,7 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 31	还原全部被删改数据，2022年10月17日总计产生多少笔交易记录？
 32	还原全部被删改数据，该网站中充值的USDT总额为
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMDg5MDUzOCwxMjM0NzU3MDY1LDgwNz
+eyJoaXN0b3J5IjpbMTE0NDQxNTIyOSwxMjM0NzU3MDY1LDgwNz
 M5MDA4NCwxMTA2NzE4NjMwLDE0MzE5MTY3NDgsLTQ1NTM3NzU5
 OSwtMjA4MDI1NjkxNSwtNzI4MDU4NTAxLDE1MzIzMzA1MjMsMT
 I3ODA2MDg0Myw4NzMyNzQxNTYsLTI0MTA0NDEwOCwxNDg3NjMy
