@@ -41,7 +41,8 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 
 
 >4	检材1系统中，网卡绑定的静态IP地址为
->找配置文件
+>找配置文件/etc/sysconfig/network-scripts/ifcfg-en33
+>1![输入图片说明](/imgs/2022-11-09/nhcYuzy9eZkW3EmB.png)
 >
 
 5	检材1中，网站jar包所存放的目录是
@@ -51,7 +52,7 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 9	检材1中，网站管理后台页面调用的用户表(admin)里的密码字段加密方式为?
 10	分析检材1，网站管理后台登录密码加密算法中所使用的盐值是
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3ODU4NzgwMCwtODc1MjEzNzgxLC0xOT
+eyJoaXN0b3J5IjpbLTQ3MzE4MDE4MywtODc1MjEzNzgxLC0xOT
 k4MTI4NjI2LDE3NzIyNTc0MjksLTEzNjA2MDkwODQsLTQyOTA4
 ODk3M119
 -->
