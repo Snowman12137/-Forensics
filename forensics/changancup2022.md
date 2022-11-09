@@ -163,8 +163,9 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 
 >23	检材3中，MySQL数据库在容器内部的数据目录为
 >需要我们启动docker，进入到容器里面，先启动docker：systemctl start docker，然后docker images查看容器，然后docker run cc开启容器，然后docker exec -it 8e bash 进入到容器里。
->或者然后根据历史记录，docker-compose应该在/data/mysql里面
+>或者然后根据历史记录，docker-compose应该在/data/mysql里面。**/var/lib/mysql**。注其中vlumes前面是宿主机的目录，后面是容器里的目录
 >![输入图片说明](/imgs/2022-11-09/qwkInZzHI8yQliJN.png)
+>![输入图片说明](/imgs/2022-11-09/IytomRezD2qK4Fz2.png)
 
 >24	涉案网站调用的MySQL数据库名为
 >
@@ -179,11 +180,11 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 31	还原全部被删改数据，2022年10月17日总计产生多少笔交易记录？
 32	还原全部被删改数据，该网站中充值的USDT总额为
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUwMjU5ODA4LDI4NjA3NTgzOSwxMTQ0ND
-E1MjI5LDEyMzQ3NTcwNjUsODA3MzkwMDg0LDExMDY3MTg2MzAs
-MTQzMTkxNjc0OCwtNDU1Mzc3NTk5LC0yMDgwMjU2OTE1LC03Mj
-gwNTg1MDEsMTUzMjMzMDUyMywxMjc4MDYwODQzLDg3MzI3NDE1
-NiwtMjQxMDQ0MTA4LDE0ODc2MzI2NjksLTk4NDIyNTc4MSwyMT
-MwOTc4ODcxLC04NzUyMTM3ODEsLTE5OTgxMjg2MjYsMTc3MjI1
-NzQyOV19
+eyJoaXN0b3J5IjpbLTE0MjM4NTA5NzksNTUwMjU5ODA4LDI4Nj
+A3NTgzOSwxMTQ0NDE1MjI5LDEyMzQ3NTcwNjUsODA3MzkwMDg0
+LDExMDY3MTg2MzAsMTQzMTkxNjc0OCwtNDU1Mzc3NTk5LC0yMD
+gwMjU2OTE1LC03MjgwNTg1MDEsMTUzMjMzMDUyMywxMjc4MDYw
+ODQzLDg3MzI3NDE1NiwtMjQxMDQ0MTA4LDE0ODc2MzI2NjksLT
+k4NDIyNTc4MSwyMTMwOTc4ODcxLC04NzUyMTM3ODEsLTE5OTgx
+Mjg2MjZdfQ==
 -->
