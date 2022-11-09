@@ -176,8 +176,8 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 >还有两个奇怪的文件后面也有用处
 >![输入图片说明](/imgs/2022-11-09/0EbPXLXDkdgRa1Vp.png)
 
-25	勒索者在数据库中修改了多少个用户的手机号？
-
+>25	勒索者在数据库中修改了多少个用户的手机号？
+>在检材三的/data/mysql/db目录下有一个.log的日志文件
 
 26	勒索者在数据库中删除的用户数量为
 27	还原被破坏的数据库，分析除技术员以外，还有哪个IP地址登录过管理后台网站？用该地址解压
@@ -188,7 +188,7 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 31	还原全部被删改数据，2022年10月17日总计产生多少笔交易记录？
 32	还原全部被删改数据，该网站中充值的USDT总额为
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzM2MTIyNTIsLTE5Mjg5Njk4NTYsLT
+eyJoaXN0b3J5IjpbLTExMTI2NjIwMDQsLTE5Mjg5Njk4NTYsLT
 E2MTU4NzEzNjQsLTE0MjM4NTA5NzksNTUwMjU5ODA4LDI4NjA3
 NTgzOSwxMTQ0NDE1MjI5LDEyMzQ3NTcwNjUsODA3MzkwMDg0LD
 ExMDY3MTg2MzAsMTQzMTkxNjc0OCwtNDU1Mzc3NTk5LC0yMDgw
