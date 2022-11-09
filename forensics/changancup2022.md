@@ -147,7 +147,9 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 
 在分析以后发现有docker服务器，查看命令分析一波
 ![输入图片说明](/imgs/2022-11-09/DdqqprBwJxqsTEeF.png)
-
+![输入图片说明](/imgs/2022-11-09/c1M7T5qiDwQKkay6.png)
+查看有关docker的命令：history | grep docker | more
+发现有一个docker-compose.yml文件，这个是docker的一个类似配置文件的东西
 
 >20	检材3中，监听33050端口的程序名（program name）为
 21	除MySQL外，该网站还依赖以下哪种数据库
@@ -164,7 +166,7 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 31	还原全部被删改数据，2022年10月17日总计产生多少笔交易记录？
 32	还原全部被删改数据，该网站中充值的USDT总额为
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMDcyNDYxOSwxMjM0NzU3MDY1LDgwNz
+eyJoaXN0b3J5IjpbLTI0MTAwMzA5OCwxMjM0NzU3MDY1LDgwNz
 M5MDA4NCwxMTA2NzE4NjMwLDE0MzE5MTY3NDgsLTQ1NTM3NzU5
 OSwtMjA4MDI1NjkxNSwtNzI4MDU4NTAxLDE1MzIzMzA1MjMsMT
 I3ODA2MDg0Myw4NzMyNzQxNTYsLTI0MTA0NDEwOCwxNDg3NjMy
