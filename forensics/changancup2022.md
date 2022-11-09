@@ -86,7 +86,7 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 >![输入图片说明](/imgs/2022-11-09/e3dnqhuQuGAqzVsw.png)
 
 >13	检材2中，powershell中输入的最后一条命令是
->
+>当时比赛时候找了好久，还尝试了在虚拟机里面调用命令，但是没搞出来，命令文件在xia
 >![输入图片说明](/imgs/2022-11-09/C05oSQy2kOOw1M6N.png)
 
 14	检材2中，下载的涉案网站源代码文件名为
@@ -97,7 +97,7 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 19	检材3服务器root账号的密码是
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5OTU1OTcwNSwxNTMyMzMwNTIzLDEyNz
+eyJoaXN0b3J5IjpbLTE0MzY4Nzc3OCwxNTMyMzMwNTIzLDEyNz
 gwNjA4NDMsODczMjc0MTU2LC0yNDEwNDQxMDgsMTQ4NzYzMjY2
 OSwtOTg0MjI1NzgxLDIxMzA5Nzg4NzEsLTg3NTIxMzc4MSwtMT
 k5ODEyODYyNiwxNzcyMjU3NDI5LC0xMzYwNjA5MDg0LC00Mjkw
