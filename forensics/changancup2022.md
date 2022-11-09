@@ -94,7 +94,8 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 
 
 >14	检材2中，下载的涉案网站源代码文件名为
->
+>在压缩文件里翻找一下（还好不多），找一下可疑的文件然后导出来看一下，或者到浏览器下载记录里面看。
+>![输入图片说明](/imgs/2022-11-09/EJiWDPupZyjA76YU.png)
 
 15	检材2中，网站管理后台root账号的密码为
 16	检材2中，技术员使用的WSL子系统发行版本是
@@ -103,9 +104,9 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 19	检材3服务器root账号的密码是
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyODA1ODUwMSwxNTMyMzMwNTIzLDEyNz
-gwNjA4NDMsODczMjc0MTU2LC0yNDEwNDQxMDgsMTQ4NzYzMjY2
-OSwtOTg0MjI1NzgxLDIxMzA5Nzg4NzEsLTg3NTIxMzc4MSwtMT
-k5ODEyODYyNiwxNzcyMjU3NDI5LC0xMzYwNjA5MDg0LC00Mjkw
-ODg5NzNdfQ==
+eyJoaXN0b3J5IjpbLTkyODE1Mzc3NywtNzI4MDU4NTAxLDE1Mz
+IzMzA1MjMsMTI3ODA2MDg0Myw4NzMyNzQxNTYsLTI0MTA0NDEw
+OCwxNDg3NjMyNjY5LC05ODQyMjU3ODEsMjEzMDk3ODg3MSwtOD
+c1MjEzNzgxLC0xOTk4MTI4NjI2LDE3NzIyNTc0MjksLTEzNjA2
+MDkwODQsLTQyOTA4ODk3M119
 -->
