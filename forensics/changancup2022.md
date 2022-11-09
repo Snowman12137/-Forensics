@@ -63,7 +63,7 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 >![输入图片说明](/imgs/2022-11-09/YmfSJz86SG5hmc3v.png)
 
 
-这后面的题建议从检材二里面找到启动脚本然后在做，不然看历史命令太太太麻烦了。
+7,8题建议从检材二里面找到启动脚本然后在做，不然看历史命令太太太麻烦了。9,10为源码分析，吧admin-api
 
 7	检材1中，网站管理后台页面对应的网络端口为
 8	检材1中，网站前台页面里给出的APK的下载地址是
@@ -71,9 +71,19 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 10	分析检材1，网站管理后台登录密码加密算法中所使用的盐值是
 
 ## 检材二：11-19
+>11	检材2中，windows账户Web King的登录密码是
+12	检材2中，除检材1以外，还远程连接过哪个IP地址？并用该地址解压检材3
+13	检材2中，powershell中输入的最后一条命令是
+14	检材2中，下载的涉案网站源代码文件名为
+15	检材2中，网站管理后台root账号的密码为
+16	检材2中，技术员使用的WSL子系统发行版本是
+17	检材2中，运行的数据库服务版本号是
+18	上述数据库debian-sys-maint用户的初始密码是
+19	检材3服务器root账号的密码是
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk1MzcxMTI0LDE0ODc2MzI2NjksLTk4ND
-IyNTc4MSwyMTMwOTc4ODcxLC04NzUyMTM3ODEsLTE5OTgxMjg2
-MjYsMTc3MjI1NzQyOSwtMTM2MDYwOTA4NCwtNDI5MDg4OTczXX
-0=
+eyJoaXN0b3J5IjpbMjEyMzk3NzI1MiwxNDg3NjMyNjY5LC05OD
+QyMjU3ODEsMjEzMDk3ODg3MSwtODc1MjEzNzgxLC0xOTk4MTI4
+NjI2LDE3NzIyNTc0MjksLTEzNjA2MDkwODQsLTQyOTA4ODk3M1
+19
 -->
