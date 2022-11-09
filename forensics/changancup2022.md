@@ -51,19 +51,22 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 >![输入图片说明](/imgs/2022-11-09/w3KVihNtWcBOBDsK.png)
 
 后面的就需要启动服务器进行检查了，不会搭建服务器的同学也不要担心，九百多行命令大致看一下，只需要学会怎么启动就可以了。
-在第953行有一个 sh start_web.sh的脚本启动，但是后面可以看到有个人吧这个脚本删掉了，所以只能手动启动。
+在第953行有一个 sh start_web.sh的脚本启动，但是后面可以看到有个人吧这个脚本删掉了，所以只能手动启动。（这其实是一个坑，这个启动文件会在后面的检材里发现）
 >6	检材1中，监听7000端口的进程对应文件名为
 >注意.jar后缀的包都是后端代码，.js是前端代码，所以过滤一下历史命令，发现166-171是所有jar包的启动路径和方式，两种思路
 
 >![输入图片说明](/imgs/2022-11-09/j2CjpoGg00qfHvg4.png)
 >>第一种：挨个启动启动后观看7000端口（其实启动时候仔细看已经有答案了）![输入图片说明](/imgs/2022-11-09/mJxfj0DsqMnS5Pbl.png)
+>>第二种：文件导出来
+
 
 7	检材1中，网站管理后台页面对应的网络端口为
 8	检材1中，网站前台页面里给出的APK的下载地址是
 9	检材1中，网站管理后台页面调用的用户表(admin)里的密码字段加密方式为?
 10	分析检材1，网站管理后台登录密码加密算法中所使用的盐值是
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NzYzMjY2OSwtOTg0MjI1NzgxLDIxMz
-A5Nzg4NzEsLTg3NTIxMzc4MSwtMTk5ODEyODYyNiwxNzcyMjU3
-NDI5LC0xMzYwNjA5MDg0LC00MjkwODg5NzNdfQ==
+eyJoaXN0b3J5IjpbLTEwODAzNzY4MiwxNDg3NjMyNjY5LC05OD
+QyMjU3ODEsMjEzMDk3ODg3MSwtODc1MjEzNzgxLC0xOTk4MTI4
+NjI2LDE3NzIyNTc0MjksLTEzNjA2MDkwODQsLTQyOTA4ODk3M1
+19
 -->
