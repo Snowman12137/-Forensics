@@ -47,15 +47,18 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 
 >5	检材1中，网站jar包所存放的目录是
 >直接history一下，因为该虚拟机不支持鼠标滚轮滑动，所以在history后面价格管道符再加上more，就可以支持回车查看了命令：history | more
+>很明显，在**/web/app**下
+>![输入图片说明](/imgs/2022-11-09/w3KVihNtWcBOBDsK.png)
+
+>6	检材1中，监听7000端口的进程对应文件名为
 >
 
-6	检材1中，监听7000端口的进程对应文件名为
 7	检材1中，网站管理后台页面对应的网络端口为
 8	检材1中，网站前台页面里给出的APK的下载地址是
 9	检材1中，网站管理后台页面调用的用户表(admin)里的密码字段加密方式为?
 10	分析检材1，网站管理后台登录密码加密算法中所使用的盐值是
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzc1NjQ0OTQsLTg3NTIxMzc4MSwtMT
-k5ODEyODYyNiwxNzcyMjU3NDI5LC0xMzYwNjA5MDg0LC00Mjkw
-ODg5NzNdfQ==
+eyJoaXN0b3J5IjpbOTM5OTAzNTczLC04NzUyMTM3ODEsLTE5OT
+gxMjg2MjYsMTc3MjI1NzQyOSwtMTM2MDYwOTA4NCwtNDI5MDg4
+OTczXX0=
 -->
