@@ -82,9 +82,12 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 >![输入图片说明](/imgs/2022-11-09/rNZaXeEM8RDK5J0E.png)
 
 >12	检材2中，除检材1以外，还远程连接过哪个IP地址？并用该地址解压检材3
+>里面有链接172.16.80.128的记录
+>![输入图片说明](/imgs/2022-11-09/e3dnqhuQuGAqzVsw.png)
+
+>13	检材2中，powershell中输入的最后一条命令是
 >
 
-13	检材2中，powershell中输入的最后一条命令是
 14	检材2中，下载的涉案网站源代码文件名为
 15	检材2中，网站管理后台root账号的密码为
 16	检材2中，技术员使用的WSL子系统发行版本是
@@ -93,8 +96,8 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 19	检材3服务器root账号的密码是
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3ODA2MDg0Myw4NzMyNzQxNTYsLTI0MT
-A0NDEwOCwxNDg3NjMyNjY5LC05ODQyMjU3ODEsMjEzMDk3ODg3
-MSwtODc1MjEzNzgxLC0xOTk4MTI4NjI2LDE3NzIyNTc0MjksLT
-EzNjA2MDkwODQsLTQyOTA4ODk3M119
+eyJoaXN0b3J5IjpbMTUzMjMzMDUyMywxMjc4MDYwODQzLDg3Mz
+I3NDE1NiwtMjQxMDQ0MTA4LDE0ODc2MzI2NjksLTk4NDIyNTc4
+MSwyMTMwOTc4ODcxLC04NzUyMTM3ODEsLTE5OTgxMjg2MjYsMT
+c3MjI1NzQyOSwtMTM2MDYwOTA4NCwtNDI5MDg4OTczXX0=
 -->
