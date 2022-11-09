@@ -100,16 +100,20 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 >这个jar的五个文件就是检材一网站搭建里面的jar包
 >答案为：**ZTuoExchange_framework-master.zip**
 
-15	检材2中，网站管理后台root账号的密码为
+
+>15	检材2中，网站管理后台root账号的密码为
+>
+
+
 16	检材2中，技术员使用的WSL子系统发行版本是
 17	检材2中，运行的数据库服务版本号是
 18	上述数据库debian-sys-maint用户的初始密码是
 19	检材3服务器root账号的密码是
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MzIxMDU5NywtNzI4MDU4NTAxLDE1Mz
-IzMzA1MjMsMTI3ODA2MDg0Myw4NzMyNzQxNTYsLTI0MTA0NDEw
-OCwxNDg3NjMyNjY5LC05ODQyMjU3ODEsMjEzMDk3ODg3MSwtOD
-c1MjEzNzgxLC0xOTk4MTI4NjI2LDE3NzIyNTc0MjksLTEzNjA2
-MDkwODQsLTQyOTA4ODk3M119
+eyJoaXN0b3J5IjpbLTIwODAyNTY5MTUsLTcyODA1ODUwMSwxNT
+MyMzMwNTIzLDEyNzgwNjA4NDMsODczMjc0MTU2LC0yNDEwNDQx
+MDgsMTQ4NzYzMjY2OSwtOTg0MjI1NzgxLDIxMzA5Nzg4NzEsLT
+g3NTIxMzc4MSwtMTk5ODEyODYyNiwxNzcyMjU3NDI5LC0xMzYw
+NjA5MDg0LC00MjkwODg5NzNdfQ==
 -->
