@@ -152,8 +152,8 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 发现有一个docker-compose.yml文件，这个是docker的一个类似配置文件的东西
 
 >20	检材3中，监听33050端口的程序名（program name）为
-
-
+>猜测是docker，先启动一下，systemctl start docker，然后果然是这个
+![输入图片说明](/imgs/2022-11-09/iVl73UPo4aYKL8q5.png)
 21	除MySQL外，该网站还依赖以下哪种数据库
 22	检材3中，MySQL数据库root账号的密码是
 23	检材3中，MySQL数据库在容器内部的数据目录为
@@ -168,11 +168,11 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 31	还原全部被删改数据，2022年10月17日总计产生多少笔交易记录？
 32	还原全部被删改数据，该网站中充值的USDT总额为
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg1ODMyMjY2LDEyMzQ3NTcwNjUsODA3Mz
-kwMDg0LDExMDY3MTg2MzAsMTQzMTkxNjc0OCwtNDU1Mzc3NTk5
-LC0yMDgwMjU2OTE1LC03MjgwNTg1MDEsMTUzMjMzMDUyMywxMj
-c4MDYwODQzLDg3MzI3NDE1NiwtMjQxMDQ0MTA4LDE0ODc2MzI2
-NjksLTk4NDIyNTc4MSwyMTMwOTc4ODcxLC04NzUyMTM3ODEsLT
-E5OTgxMjg2MjYsMTc3MjI1NzQyOSwtMTM2MDYwOTA4NCwtNDI5
-MDg4OTczXX0=
+eyJoaXN0b3J5IjpbLTEwNTI1Mzk0MDQsMTIzNDc1NzA2NSw4MD
+czOTAwODQsMTEwNjcxODYzMCwxNDMxOTE2NzQ4LC00NTUzNzc1
+OTksLTIwODAyNTY5MTUsLTcyODA1ODUwMSwxNTMyMzMwNTIzLD
+EyNzgwNjA4NDMsODczMjc0MTU2LC0yNDEwNDQxMDgsMTQ4NzYz
+MjY2OSwtOTg0MjI1NzgxLDIxMzA5Nzg4NzEsLTg3NTIxMzc4MS
+wtMTk5ODEyODYyNiwxNzcyMjU3NDI5LC0xMzYwNjA5MDg0LC00
+MjkwODg5NzNdfQ==
 -->
