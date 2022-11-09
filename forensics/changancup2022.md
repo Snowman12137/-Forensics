@@ -46,7 +46,7 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 >
 
 >5	检材1中，网站jar包所存放的目录是
->
+>直接history一下，因为该虚拟机不支持鼠标滚轮滑动
 
 6	检材1中，监听7000端口的进程对应文件名为
 7	检材1中，网站管理后台页面对应的网络端口为
@@ -54,7 +54,7 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 9	检材1中，网站管理后台页面调用的用户表(admin)里的密码字段加密方式为?
 10	分析检材1，网站管理后台登录密码加密算法中所使用的盐值是
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MzE0MzcwMCwtODc1MjEzNzgxLC0xOT
+eyJoaXN0b3J5IjpbMjA2MDE4MjE3NywtODc1MjEzNzgxLC0xOT
 k4MTI4NjI2LDE3NzIyNTc0MjksLTEzNjA2MDkwODQsLTQyOTA4
 ODk3M119
 -->
