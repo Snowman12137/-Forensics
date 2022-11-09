@@ -114,17 +114,19 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 
 
 >17	检材2中，运行的数据库服务版本号是
->直接win+R输入bash进入WSL子系统，然后猜一下可能是MySQL，
+>直接win+R输入bash进入WSL子系统，然后猜一下可能是MySQL，直接mysql -V查一下，果然有，**8.0.30**
 >![输入图片说明](/imgs/2022-11-09/NTnDFtNfQYXdHVN7.png)
 
-18	上述数据库debian-sys-maint用户的初始密码是
+>18	上述数据库debian-sys-maint用户的初始密码是
+>这个不太会，
+
 19	检材3服务器root账号的密码是
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzM4NTM4NzIsMTQzMTkxNjc0OCwtND
-U1Mzc3NTk5LC0yMDgwMjU2OTE1LC03MjgwNTg1MDEsMTUzMjMz
-MDUyMywxMjc4MDYwODQzLDg3MzI3NDE1NiwtMjQxMDQ0MTA4LD
-E0ODc2MzI2NjksLTk4NDIyNTc4MSwyMTMwOTc4ODcxLC04NzUy
-MTM3ODEsLTE5OTgxMjg2MjYsMTc3MjI1NzQyOSwtMTM2MDYwOT
-A4NCwtNDI5MDg4OTczXX0=
+eyJoaXN0b3J5IjpbMTAwNDM5OTk2MiwxNDMxOTE2NzQ4LC00NT
+UzNzc1OTksLTIwODAyNTY5MTUsLTcyODA1ODUwMSwxNTMyMzMw
+NTIzLDEyNzgwNjA4NDMsODczMjc0MTU2LC0yNDEwNDQxMDgsMT
+Q4NzYzMjY2OSwtOTg0MjI1NzgxLDIxMzA5Nzg4NzEsLTg3NTIx
+Mzc4MSwtMTk5ODEyODYyNiwxNzcyMjU3NDI5LC0xMzYwNjA5MD
+g0LC00MjkwODg5NzNdfQ==
 -->
