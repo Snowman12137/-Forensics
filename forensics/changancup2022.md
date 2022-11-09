@@ -87,6 +87,7 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 
 >13	检材2中，powershell中输入的最后一条命令是
 >当时比赛时候找了好久，还尝试了在虚拟机里面调用命令，但是没搞出来，命令文件在下图路径中文件里，所以答案是**ipconfig**
+>其实仿真出来直接摁键盘上上下左右的上键历史记录就出来了，当时还真没想到
 >![输入图片说明](/imgs/2022-11-09/C05oSQy2kOOw1M6N.png)
 ![输入图片说明](/imgs/2022-11-09/o5EkRxP8KOmS2TXD.png)
 
@@ -102,7 +103,7 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 19	检材3服务器root账号的密码是
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2ODE0ODg1MSwxNTMyMzMwNTIzLDEyNz
+eyJoaXN0b3J5IjpbLTcyODA1ODUwMSwxNTMyMzMwNTIzLDEyNz
 gwNjA4NDMsODczMjc0MTU2LC0yNDEwNDQxMDgsMTQ4NzYzMjY2
 OSwtOTg0MjI1NzgxLDIxMzA5Nzg4NzEsLTg3NTIxMzc4MSwtMT
 k5ODEyODYyNiwxNzcyMjU3NDI5LC0xMzYwNjA5MDg0LC00Mjkw
