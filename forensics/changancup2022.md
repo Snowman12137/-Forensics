@@ -162,13 +162,12 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 >回到检材一的9,10题的逆向代码部分, **shhl7001**
 
 >23	检材3中，MySQL数据库在容器内部的数据目录为
->需要我们启动docker，进入到容器里面，先启动docker：systemctl start docker，然后docker images查看容器，然后docker run cc开启容器，然后docker exec -it 8e bash 进入到容器里。
->或者然后根据历史记录，docker-compose应该在/data/mysql里面。**/var/lib/mysql**。注其中vlumes前面是宿主机的目录，后面是容器里的目录
+>根据历史记录，docker-compose应该在/data/mysql里面。**/var/lib/mysql**。注其中vlumes前面是宿主机的目录，后面是容器里的目录
 >![输入图片说明](/imgs/2022-11-09/qwkInZzHI8yQliJN.png)
 >![输入图片说明](/imgs/2022-11-09/IytomRezD2qK4Fz2.png)
 
 >24	涉案网站调用的MySQL数据库名为
->jinqu
+>需要我们启动docker，进入到容器里面，先启动docker：systemctl start docker，然后docker images查看容器，然后docker run cc开启容器，然后docker exec -it 8e bash 进入到容器里。发现数据库只有几个初始数据库？？？（其实是被删掉了）
 >![输入图片说明](/imgs/2022-11-09/kiAlk877wwi25vsv.png)
 
 25	勒索者在数据库中修改了多少个用户的手机号？
@@ -181,7 +180,7 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 31	还原全部被删改数据，2022年10月17日总计产生多少笔交易记录？
 32	还原全部被删改数据，该网站中充值的USDT总额为
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NDAxNDkwMywtMTQyMzg1MDk3OSw1NT
+eyJoaXN0b3J5IjpbLTM0NzIxNDk4NCwtMTQyMzg1MDk3OSw1NT
 AyNTk4MDgsMjg2MDc1ODM5LDExNDQ0MTUyMjksMTIzNDc1NzA2
 NSw4MDczOTAwODQsMTEwNjcxODYzMCwxNDMxOTE2NzQ4LC00NT
 UzNzc1OTksLTIwODAyNTY5MTUsLTcyODA1ODUwMSwxNTMyMzMw
