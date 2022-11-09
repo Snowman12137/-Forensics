@@ -124,10 +124,10 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 
 >19	检材3服务器root账号的密码是
 >是否还记得9题10题的java包，推测128为数据库服务器，对应的密码就是**h123456**
->而且大家shifou
+>而且大家是否还记得在ssh链接记录里面也有一个密码记录![输入图片说明](/imgs/2022-11-09/GhkBbv35c9MGTUC1.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1ODc1NTc5MywxNDMxOTE2NzQ4LC00NT
+eyJoaXN0b3J5IjpbMTEwNjcxODYzMCwxNDMxOTE2NzQ4LC00NT
 UzNzc1OTksLTIwODAyNTY5MTUsLTcyODA1ODUwMSwxNTMyMzMw
 NTIzLDEyNzgwNjA4NDMsODczMjc0MTU2LC0yNDEwNDQxMDgsMT
 Q4NzYzMjY2OSwtOTg0MjI1NzgxLDIxMzA5Nzg4NzEsLTg3NTIx
