@@ -169,6 +169,7 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 >24	涉案网站调用的MySQL数据库名为
 >需要我们启动docker，进入到容器里面，先启动docker：systemctl start docker，然后docker images查看容器，然后docker run cc开启容器，然后docker exec -it 8e bash 进入到容器里。发现数据库只有几个初始数据库？？？（其实是被删掉了）
 >![输入图片说明](/imgs/2022-11-09/kiAlk877wwi25vsv.png)
+>其实真正的数据库被放在了检材二
 
 25	勒索者在数据库中修改了多少个用户的手机号？
 26	勒索者在数据库中删除的用户数量为
@@ -180,11 +181,11 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 31	还原全部被删改数据，2022年10月17日总计产生多少笔交易记录？
 32	还原全部被删改数据，该网站中充值的USDT总额为
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NzIxNDk4NCwtMTQyMzg1MDk3OSw1NT
-AyNTk4MDgsMjg2MDc1ODM5LDExNDQ0MTUyMjksMTIzNDc1NzA2
-NSw4MDczOTAwODQsMTEwNjcxODYzMCwxNDMxOTE2NzQ4LC00NT
-UzNzc1OTksLTIwODAyNTY5MTUsLTcyODA1ODUwMSwxNTMyMzMw
-NTIzLDEyNzgwNjA4NDMsODczMjc0MTU2LC0yNDEwNDQxMDgsMT
-Q4NzYzMjY2OSwtOTg0MjI1NzgxLDIxMzA5Nzg4NzEsLTg3NTIx
-Mzc4MV19
+eyJoaXN0b3J5IjpbNDkzMjY4NDM4LC0xNDIzODUwOTc5LDU1MD
+I1OTgwOCwyODYwNzU4MzksMTE0NDQxNTIyOSwxMjM0NzU3MDY1
+LDgwNzM5MDA4NCwxMTA2NzE4NjMwLDE0MzE5MTY3NDgsLTQ1NT
+M3NzU5OSwtMjA4MDI1NjkxNSwtNzI4MDU4NTAxLDE1MzIzMzA1
+MjMsMTI3ODA2MDg0Myw4NzMyNzQxNTYsLTI0MTA0NDEwOCwxND
+g3NjMyNjY5LC05ODQyMjU3ODEsMjEzMDk3ODg3MSwtODc1MjEz
+NzgxXX0=
 -->
