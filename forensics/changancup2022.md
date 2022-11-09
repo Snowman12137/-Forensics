@@ -36,11 +36,14 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 >![输入图片说明](/imgs/2022-11-09/8Q5M64f9rygpp4DF.png)
 
 >3	检材1中，操作系统发行版本号为
->在火眼创建虚拟机的时候
+>在火眼创建虚拟机的时候可以看到**7.5.1804**
 >![输入图片说明](/imgs/2022-11-09/kXS2RcZWKMmVuIcK.png)
 
 
-4	检材1系统中，网卡绑定的静态IP地址为
+>4	检材1系统中，网卡绑定的静态IP地址为
+>找配置文件
+>
+
 5	检材1中，网站jar包所存放的目录是
 6	检材1中，监听7000端口的进程对应文件名为
 7	检材1中，网站管理后台页面对应的网络端口为
@@ -48,7 +51,7 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 9	检材1中，网站管理后台页面调用的用户表(admin)里的密码字段加密方式为?
 10	分析检材1，网站管理后台登录密码加密算法中所使用的盐值是
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDE5NjY5MjgsLTg3NTIxMzc4MSwtMT
-k5ODEyODYyNiwxNzcyMjU3NDI5LC0xMzYwNjA5MDg0LC00Mjkw
-ODg5NzNdfQ==
+eyJoaXN0b3J5IjpbMTM3ODU4NzgwMCwtODc1MjEzNzgxLC0xOT
+k4MTI4NjI2LDE3NzIyNTc0MjksLTEzNjA2MDkwODQsLTQyOTA4
+ODk3M119
 -->
