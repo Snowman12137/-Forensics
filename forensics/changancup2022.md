@@ -63,13 +63,16 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 >![输入图片说明](/imgs/2022-11-09/YmfSJz86SG5hmc3v.png)
 
 
+这后面的题建议从检材二里面找到启动脚本然后在做，不然看历史命令太太太麻烦了。
 
 7	检材1中，网站管理后台页面对应的网络端口为
 8	检材1中，网站前台页面里给出的APK的下载地址是
 9	检材1中，网站管理后台页面调用的用户表(admin)里的密码字段加密方式为?
 10	分析检材1，网站管理后台登录密码加密算法中所使用的盐值是
+
+## 检材二：11-19
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEwMjM1NTkzLDE0ODc2MzI2NjksLTk4ND
+eyJoaXN0b3J5IjpbMzk1MzcxMTI0LDE0ODc2MzI2NjksLTk4ND
 IyNTc4MSwyMTMwOTc4ODcxLC04NzUyMTM3ODEsLTE5OTgxMjg2
 MjYsMTc3MjI1NzQyOSwtMTM2MDYwOTA4NCwtNDI5MDg4OTczXX
 0=
