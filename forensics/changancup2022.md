@@ -68,10 +68,12 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 7	检材1中，网站管理后台页面对应的网络端口为
 8	检材1中，网站前台页面里给出的APK的下载地址是
 >9	检材1中，网站管理后台页面调用的用户表(admin)里的密码字段加密方式为?
->
->
-
 10	分析检材1，网站管理后台登录密码加密算法中所使用的盐值是
+>随意一看源码9题答案是**MD5**
+>10题是**XehGyeyrVgOV4P8Uf70REVpIw3iVNwNs**
+>![输入图片说明](/imgs/2022-11-09/V11n33a12JOO59qR.png)
+>仔细一看这个java包里面给的信息真不少
+>这里有一个数据库的密码![输入图片说明](/imgs/2022-11-09/cbgvecwI985d6aCh.png)
 
 ## 检材二：11-19
 >11	检材2中，windows账户Web King的登录密码是
@@ -85,8 +87,8 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 19	检材3服务器root账号的密码是
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MTA0NDEwOCwxNDg3NjMyNjY5LC05OD
-QyMjU3ODEsMjEzMDk3ODg3MSwtODc1MjEzNzgxLC0xOTk4MTI4
-NjI2LDE3NzIyNTc0MjksLTEzNjA2MDkwODQsLTQyOTA4ODk3M1
-19
+eyJoaXN0b3J5IjpbLTIwMjM1NTIxNzQsLTI0MTA0NDEwOCwxND
+g3NjMyNjY5LC05ODQyMjU3ODEsMjEzMDk3ODg3MSwtODc1MjEz
+NzgxLC0xOTk4MTI4NjI2LDE3NzIyNTc0MjksLTEzNjA2MDkwOD
+QsLTQyOTA4ODk3M119
 -->
