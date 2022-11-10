@@ -295,14 +295,18 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 >36	上述VPN工具中记录的节点IP是	
 >38.68.135.18
 >![输入图片说明](/imgs/2022-11-10/GZrLcUThmGIAtM56.png)
-37	检材4中，录屏软件安装时间为	
+
+
+>37	检材4中，录屏软件安装时间为	
+
+
 38	上述录屏软件中名为“s_20221019105129”的录像，在模拟器存储中对应的原始文件名为
 39	上述录屏软件登录的手机号是	
 40	检材4中，发送勒索邮件的邮箱地址为	
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4OTk5MTg3NSw5MDA2MDg3NDUsLTE3NT
+eyJoaXN0b3J5IjpbMTg5Njc4OTM3NSw5MDA2MDg3NDUsLTE3NT
 AyMDIyMTMsMTk4MTc4MTE2MiwtMTA0OTE2MzgxMywxODU1NDMx
 MzEsLTEwMzUzMDg1NjMsMTI5MTM5MDU1NCwxMzk0ODk2NzYxLD
 EyMjk2NTkwMzcsLTExMTI2NjIwMDQsLTE5Mjg5Njk4NTYsLTE2
