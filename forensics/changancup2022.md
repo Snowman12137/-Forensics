@@ -264,7 +264,7 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 检材四独立于前面这些服务器啥的，所以不会前面的也没有关系。
 ![输入图片说明](/imgs/2022-11-10/LX4NQO11DmCF7MrG.png)建材四解压完是个npbk文件，不知道是个啥，搜一下
 ![输入图片说明](/imgs/2022-11-10/0d6LFRILFJC1QAVh.png)
-应该是手机模拟器镜像，发现这个包还可以打开，
+应该是手机模拟器镜像，发现这个包还可以打开，（解压工具）
 ![输入图片说明](/imgs/2022-11-10/COkwfCEFiuNzrT2N.png)
 里面有一个conf_temp.ini文件，vmdk就是虚拟镜像文件，正巧之前用过夜神模拟器，一看这个应该就是夜神了，下载夜神模拟器，看能不能打开这个![输入图片说明](/imgs/2022-11-10/keRyGKGlZHe348Pi.png)
 
@@ -286,11 +286,11 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 39	上述录屏软件登录的手机号是	
 40	检材4中，发送勒索邮件的邮箱地址为	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNTEyNTUyMCwtMTc1MDIwMjIxMywxOT
-gxNzgxMTYyLC0xMDQ5MTYzODEzLDE4NTU0MzEzMSwtMTAzNTMw
-ODU2MywxMjkxMzkwNTU0LDEzOTQ4OTY3NjEsMTIyOTY1OTAzNy
-wtMTExMjY2MjAwNCwtMTkyODk2OTg1NiwtMTYxNTg3MTM2NCwt
-MTQyMzg1MDk3OSw1NTAyNTk4MDgsMjg2MDc1ODM5LDExNDQ0MT
-UyMjksMTIzNDc1NzA2NSw4MDczOTAwODQsMTEwNjcxODYzMCwx
-NDMxOTE2NzQ4XX0=
+eyJoaXN0b3J5IjpbOTAwNjA4NzQ1LC0xNzUwMjAyMjEzLDE5OD
+E3ODExNjIsLTEwNDkxNjM4MTMsMTg1NTQzMTMxLC0xMDM1MzA4
+NTYzLDEyOTEzOTA1NTQsMTM5NDg5Njc2MSwxMjI5NjU5MDM3LC
+0xMTEyNjYyMDA0LC0xOTI4OTY5ODU2LC0xNjE1ODcxMzY0LC0x
+NDIzODUwOTc5LDU1MDI1OTgwOCwyODYwNzU4MzksMTE0NDQxNT
+IyOSwxMjM0NzU3MDY1LDgwNzM5MDA4NCwxMTA2NzE4NjMwLDE0
+MzE5MTY3NDhdfQ==
 -->
