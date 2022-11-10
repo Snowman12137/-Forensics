@@ -201,7 +201,10 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 >![输入图片说明](/imgs/2022-11-10/aEmFbJpdYxXVK0Xi.png)
 >在这里有一个member表，有大量的数据填入，往上一拉看一下是哪个数据库，果然是b1
 ![输入图片说明](/imgs/2022-11-10/kMzmlIrAIeFCEXgn.png)
->mysql里面修改数据是update，搜索一下关键字
+>mysql里面修改数据是update，搜索一下关键字，发现有八个匹配，但是要注意，其中5个登录时候自动修改时间的语句，真正修改的只有**3**个。
+>```mysql
+>```
+>
 
 >26	勒索者在数据库中删除的用户数量为
 >
@@ -215,11 +218,11 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 31	还原全部被删改数据，2022年10月17日总计产生多少笔交易记录？
 32	还原全部被删改数据，该网站中充值的USDT总额为
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDExODc4MzUsMTM5NDg5Njc2MSwxMj
-I5NjU5MDM3LC0xMTEyNjYyMDA0LC0xOTI4OTY5ODU2LC0xNjE1
-ODcxMzY0LC0xNDIzODUwOTc5LDU1MDI1OTgwOCwyODYwNzU4Mz
-ksMTE0NDQxNTIyOSwxMjM0NzU3MDY1LDgwNzM5MDA4NCwxMTA2
-NzE4NjMwLDE0MzE5MTY3NDgsLTQ1NTM3NzU5OSwtMjA4MDI1Nj
-kxNSwtNzI4MDU4NTAxLDE1MzIzMzA1MjMsMTI3ODA2MDg0Myw4
-NzMyNzQxNTZdfQ==
+eyJoaXN0b3J5IjpbMTExOTU0Njg5MiwxMzk0ODk2NzYxLDEyMj
+k2NTkwMzcsLTExMTI2NjIwMDQsLTE5Mjg5Njk4NTYsLTE2MTU4
+NzEzNjQsLTE0MjM4NTA5NzksNTUwMjU5ODA4LDI4NjA3NTgzOS
+wxMTQ0NDE1MjI5LDEyMzQ3NTcwNjUsODA3MzkwMDg0LDExMDY3
+MTg2MzAsMTQzMTkxNjc0OCwtNDU1Mzc3NTk5LC0yMDgwMjU2OT
+E1LC03MjgwNTg1MDEsMTUzMjMzMDUyMywxMjc4MDYwODQzLDg3
+MzI3NDE1Nl19
 -->
