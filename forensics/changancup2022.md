@@ -232,13 +232,14 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 
 
 >29	还原全部被删改数据，共有多少名用户的会员等级为'LV3'
->
+>发现等级三对应的编号就是3，
+>![输入图片说明](/imgs/2022-11-10/TbeOjyGrxSkFfek0.png)
 
 30	还原全部被删改数据，哪些用户ID没有充值记录
 31	还原全部被删改数据，2022年10月17日总计产生多少笔交易记录？
 32	还原全部被删改数据，该网站中充值的USDT总额为
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MTM2NTUxMywtMTAzNTMwODU2MywxMj
+eyJoaXN0b3J5IjpbMTA5OTk3NTg0MiwtMTAzNTMwODU2MywxMj
 kxMzkwNTU0LDEzOTQ4OTY3NjEsMTIyOTY1OTAzNywtMTExMjY2
 MjAwNCwtMTkyODk2OTg1NiwtMTYxNTg3MTM2NCwtMTQyMzg1MD
 k3OSw1NTAyNTk4MDgsMjg2MDc1ODM5LDExNDQ0MTUyMjksMTIz
