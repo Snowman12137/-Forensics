@@ -316,14 +316,31 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 
 
 >40	检材4中，发送勒索邮件的邮箱地址为	
->
+>一查就出来了**skterran@163.com**
+>![输入图片说明](/imgs/2022-11-10/nEzY8RcCI0WMEDzd.png)
 
+
+## 分析所有掌握的检材，找到勒索邮件中被加密的文档和对应的加/解密程序，并回答下列问题
+>41	分析加密程序，编译该加密程序使用的语言是
+42	分析加密程序，它会加密哪些扩展名的文件？
+43	分析加密程序，是通过什么算法对文件进行加密的？
+44	分析加密程序，其使用的非对称加密方式公钥后5位为？
+45	被加密文档中，FLAG1的值是
+
+之前在材料二里面的
+
+
+>41	分析加密程序，编译该加密程序使用的语言是
+42	分析加密程序，它会加密哪些扩展名的文件？
+43	分析加密程序，是通过什么算法对文件进行加密的？
+44	分析加密程序，其使用的非对称加密方式公钥后5位为？
+45	被加密文档中，FLAG1的值是
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNTIwNDQxMiw3ODEwODQ4ODYsLTE3ND
-AwMzkzMDcsOTAwNjA4NzQ1LC0xNzUwMjAyMjEzLDE5ODE3ODEx
-NjIsLTEwNDkxNjM4MTMsMTg1NTQzMTMxLC0xMDM1MzA4NTYzLD
-EyOTEzOTA1NTQsMTM5NDg5Njc2MSwxMjI5NjU5MDM3LC0xMTEy
-NjYyMDA0LC0xOTI4OTY5ODU2LC0xNjE1ODcxMzY0LC0xNDIzOD
-UwOTc5LDU1MDI1OTgwOCwyODYwNzU4MzksMTE0NDQxNTIyOSwx
-MjM0NzU3MDY1XX0=
+eyJoaXN0b3J5IjpbMTc5NTM4Nzg4NCwtNDI1MjA0NDEyLDc4MT
+A4NDg4NiwtMTc0MDAzOTMwNyw5MDA2MDg3NDUsLTE3NTAyMDIy
+MTMsMTk4MTc4MTE2MiwtMTA0OTE2MzgxMywxODU1NDMxMzEsLT
+EwMzUzMDg1NjMsMTI5MTM5MDU1NCwxMzk0ODk2NzYxLDEyMjk2
+NTkwMzcsLTExMTI2NjIwMDQsLTE5Mjg5Njk4NTYsLTE2MTU4Nz
+EzNjQsLTE0MjM4NTA5NzksNTUwMjU5ODA4LDI4NjA3NTgzOSwx
+MTQ0NDE1MjI5XX0=
 -->
