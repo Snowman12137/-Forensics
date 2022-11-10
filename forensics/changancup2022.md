@@ -276,11 +276,15 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 >夜神模拟器
 
 >34	检材4中，“老板”的阿里云账号是	
->看了一下浏览器jil
->
+>看了一下浏览器记录没有阿里云的账号，也没app,应该是在聊天记录里。果然forensixtech1
+>![输入图片说明](/imgs/2022-11-10/oH0Vsxkl2m8PxJYJ.png)
 
-35	检材4中安装的VPN工具的软件名称是	
-36	上述VPN工具中记录的节点IP是	
+>35	检材4中安装的VPN工具的软件名称是	
+>v2rayNG
+>![输入图片说明](/imgs/2022-11-10/E1IDb8WUrmZl3T45.png)
+
+>36	上述VPN工具中记录的节点IP是	
+>
 37	检材4中，录屏软件安装时间为	
 38	上述录屏软件中名为“s_20221019105129”的录像，在模拟器存储中对应的原始文件名为
 39	上述录屏软件登录的手机号是	
@@ -295,7 +299,7 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 39	上述录屏软件登录的手机号是	
 40	检材4中，发送勒索邮件的邮箱地址为	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzA4NjQ2MjAsOTAwNjA4NzQ1LC0xNz
+eyJoaXN0b3J5IjpbLTEzMDU0MzA1MzcsOTAwNjA4NzQ1LC0xNz
 UwMjAyMjEzLDE5ODE3ODExNjIsLTEwNDkxNjM4MTMsMTg1NTQz
 MTMxLC0xMDM1MzA4NTYzLDEyOTEzOTA1NTQsMTM5NDg5Njc2MS
 wxMjI5NjU5MDM3LC0xMTEyNjYyMDA0LC0xOTI4OTY5ODU2LC0x
