@@ -218,7 +218,7 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 >![输入图片说明](/imgs/2022-11-10/IE1xAoewsfD8sTHF.png)
 >然后我们docker ps一下，发现docker中MySQL的端口映射到了主机33050
 >![输入图片说明](/imgs/2022-11-10/4n3UueRt8oXq9Mvw.png)
->打开数据库编辑软件，我用的是Navicat，然后填写设置，别忘了密码是shhl7001，然后就链接上了（别忘了启动docker！！！）（如果还不行，手动更改一下b1的权限）
+>打开数据库编辑软件，我用的是Navicat，然后填写设置，别忘了密码是shhl7001，然后就链接上了（别忘了启动docker！！！）（如果还不行，手动更改一下b1的权限，chmod一下，）
 >![输入图片说明](/imgs/2022-11-10/WACgv390MzO2bTup.png)
 >方法二：利用脚本恢复
 >百度搜索：mysql ibd文件恢复
@@ -233,11 +233,11 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 31	还原全部被删改数据，2022年10月17日总计产生多少笔交易记录？
 32	还原全部被删改数据，该网站中充值的USDT总额为
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE1MTM2MjQ1LDEyOTEzOTA1NTQsMTM5ND
-g5Njc2MSwxMjI5NjU5MDM3LC0xMTEyNjYyMDA0LC0xOTI4OTY5
-ODU2LC0xNjE1ODcxMzY0LC0xNDIzODUwOTc5LDU1MDI1OTgwOC
-wyODYwNzU4MzksMTE0NDQxNTIyOSwxMjM0NzU3MDY1LDgwNzM5
-MDA4NCwxMTA2NzE4NjMwLDE0MzE5MTY3NDgsLTQ1NTM3NzU5OS
-wtMjA4MDI1NjkxNSwtNzI4MDU4NTAxLDE1MzIzMzA1MjMsMTI3
-ODA2MDg0M119
+eyJoaXN0b3J5IjpbLTEwMzUzMDg1NjMsMTI5MTM5MDU1NCwxMz
+k0ODk2NzYxLDEyMjk2NTkwMzcsLTExMTI2NjIwMDQsLTE5Mjg5
+Njk4NTYsLTE2MTU4NzEzNjQsLTE0MjM4NTA5NzksNTUwMjU5OD
+A4LDI4NjA3NTgzOSwxMTQ0NDE1MjI5LDEyMzQ3NTcwNjUsODA3
+MzkwMDg0LDExMDY3MTg2MzAsMTQzMTkxNjc0OCwtNDU1Mzc3NT
+k5LC0yMDgwMjU2OTE1LC03MjgwNTg1MDEsMTUzMjMzMDUyMywx
+Mjc4MDYwODQzXX0=
 -->
