@@ -192,12 +192,13 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 ![输入图片说明](/imgs/2022-11-10/m4HatyB4qthLbFnf.png)
 这就是连上了
 ![输入图片说明](/imgs/2022-11-10/6kIKRthufIu3H0AF.png)
-然后点击这个绿色的按钮j
+然后点击这个绿色的按钮就好了（别忘了下载xftp）
 ![输入图片说明](/imgs/2022-11-10/JbESA7Ohzm3FiKfy.png)
 
 
 >25	勒索者在数据库中修改了多少个用户的手机号？
->在检材三的/data/mysql/db目录下有一个.log的日志文件
+>在检材三的/data/mysql/db目录下有一个.log的日志文件,弘连或者取证大师都能拿到导出来看一下
+>![输入图片说明](/imgs/2022-11-10/aEmFbJpdYxXVK0Xi.png)
 
 26	勒索者在数据库中删除的用户数量为
 27	还原被破坏的数据库，分析除技术员以外，还有哪个IP地址登录过管理后台网站？用该地址解压
@@ -208,11 +209,11 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 31	还原全部被删改数据，2022年10月17日总计产生多少笔交易记录？
 32	还原全部被删改数据，该网站中充值的USDT总额为
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg1ODE3MzY0LC0xMTEyNjYyMDA0LC0xOT
-I4OTY5ODU2LC0xNjE1ODcxMzY0LC0xNDIzODUwOTc5LDU1MDI1
-OTgwOCwyODYwNzU4MzksMTE0NDQxNTIyOSwxMjM0NzU3MDY1LD
-gwNzM5MDA4NCwxMTA2NzE4NjMwLDE0MzE5MTY3NDgsLTQ1NTM3
-NzU5OSwtMjA4MDI1NjkxNSwtNzI4MDU4NTAxLDE1MzIzMzA1Mj
-MsMTI3ODA2MDg0Myw4NzMyNzQxNTYsLTI0MTA0NDEwOCwxNDg3
-NjMyNjY5XX0=
+eyJoaXN0b3J5IjpbMTIyOTY1OTAzNywtMTExMjY2MjAwNCwtMT
+kyODk2OTg1NiwtMTYxNTg3MTM2NCwtMTQyMzg1MDk3OSw1NTAy
+NTk4MDgsMjg2MDc1ODM5LDExNDQ0MTUyMjksMTIzNDc1NzA2NS
+w4MDczOTAwODQsMTEwNjcxODYzMCwxNDMxOTE2NzQ4LC00NTUz
+Nzc1OTksLTIwODAyNTY5MTUsLTcyODA1ODUwMSwxNTMyMzMwNT
+IzLDEyNzgwNjA4NDMsODczMjc0MTU2LC0yNDEwNDQxMDgsMTQ4
+NzYzMjY2OV19
 -->
