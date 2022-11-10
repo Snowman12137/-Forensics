@@ -199,6 +199,8 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 >25	勒索者在数据库中修改了多少个用户的手机号？
 >在检材三的/data/mysql/db目录下有一个.log的日志文件,弘连或者取证大师都能拿到导出来看一下
 >![输入图片说明](/imgs/2022-11-10/aEmFbJpdYxXVK0Xi.png)
+>在这里有一个member表，有大量的数据填入，往上一拉看一下是哪个数据库，果然是b1
+![输入图片说明](/imgs/2022-11-10/kMzmlIrAIeFCEXgn.png)
 
 26	勒索者在数据库中删除的用户数量为
 27	还原被破坏的数据库，分析除技术员以外，还有哪个IP地址登录过管理后台网站？用该地址解压
@@ -209,11 +211,11 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 31	还原全部被删改数据，2022年10月17日总计产生多少笔交易记录？
 32	还原全部被删改数据，该网站中充值的USDT总额为
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyOTY1OTAzNywtMTExMjY2MjAwNCwtMT
-kyODk2OTg1NiwtMTYxNTg3MTM2NCwtMTQyMzg1MDk3OSw1NTAy
-NTk4MDgsMjg2MDc1ODM5LDExNDQ0MTUyMjksMTIzNDc1NzA2NS
-w4MDczOTAwODQsMTEwNjcxODYzMCwxNDMxOTE2NzQ4LC00NTUz
-Nzc1OTksLTIwODAyNTY5MTUsLTcyODA1ODUwMSwxNTMyMzMwNT
-IzLDEyNzgwNjA4NDMsODczMjc0MTU2LC0yNDEwNDQxMDgsMTQ4
-NzYzMjY2OV19
+eyJoaXN0b3J5IjpbMTM5NDg5Njc2MSwxMjI5NjU5MDM3LC0xMT
+EyNjYyMDA0LC0xOTI4OTY5ODU2LC0xNjE1ODcxMzY0LC0xNDIz
+ODUwOTc5LDU1MDI1OTgwOCwyODYwNzU4MzksMTE0NDQxNTIyOS
+wxMjM0NzU3MDY1LDgwNzM5MDA4NCwxMTA2NzE4NjMwLDE0MzE5
+MTY3NDgsLTQ1NTM3NzU5OSwtMjA4MDI1NjkxNSwtNzI4MDU4NT
+AxLDE1MzIzMzA1MjMsMTI3ODA2MDg0Myw4NzMyNzQxNTYsLTI0
+MTA0NDEwOF19
 -->
