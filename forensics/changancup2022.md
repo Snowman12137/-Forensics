@@ -311,13 +311,15 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 >这个是sqlite数据库，没有用过，看复盘说要导出record.db和record.db-wal文件，后者是一个预写日志
 >打开Navicat数据库文件打开
 >![输入图片说明](/imgs/2022-11-10/Hx75CezeHwZudKoF.png)
+>发现答案,**18645091802**
+>![输入图片说明](/imgs/2022-11-10/eLqDSjLtSDuCanIH.png)
 
 
 >40	检材4中，发送勒索邮件的邮箱地址为	
 >
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2ODU1MDAzNyw3ODEwODQ4ODYsLTE3ND
+eyJoaXN0b3J5IjpbLTQyNTIwNDQxMiw3ODEwODQ4ODYsLTE3ND
 AwMzkzMDcsOTAwNjA4NzQ1LC0xNzUwMjAyMjEzLDE5ODE3ODEx
 NjIsLTEwNDkxNjM4MTMsMTg1NTQzMTMxLC0xMDM1MzA4NTYzLD
 EyOTEzOTA1NTQsMTM5NDg5Njc2MSwxMjI5NjU5MDM3LC0xMTEy
