@@ -257,6 +257,8 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 ![输入图片说明](/imgs/2022-11-10/cZLwFery8S8AYms9.png)
 因为数据库已经起起来了，所以这里面可以直接查到数据。
 ![输入图片说明](/imgs/2022-11-10/3vM2wbNjOrKrJdSv.png)
+比赛的时候我还以为必须要重建数据库并且搭建好网站，但是我对网站服务器数据库什么的不是特别熟，再加上y
+
 
 ## 检材四
 >33	嫌疑人使用的安卓模拟器软件名称是	
@@ -268,7 +270,7 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 39	上述录屏软件登录的手机号是	
 40	检材4中，发送勒索邮件的邮箱地址为	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NzI0NTc2OCwxOTgxNzgxMTYyLC0xMD
+eyJoaXN0b3J5IjpbMjAwMTY4OTkxNCwxOTgxNzgxMTYyLC0xMD
 Q5MTYzODEzLDE4NTU0MzEzMSwtMTAzNTMwODU2MywxMjkxMzkw
 NTU0LDEzOTQ4OTY3NjEsMTIyOTY1OTAzNywtMTExMjY2MjAwNC
 wtMTkyODk2OTg1NiwtMTYxNTg3MTM2NCwtMTQyMzg1MDk3OSw1
