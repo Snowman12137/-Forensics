@@ -205,23 +205,26 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 
 
 >26	勒索者在数据库中删除的用户数量为
->搜索delete，发现有批量删除数据
+>搜索delete，发现有批量删除数据，随便数一下**28**个
 >![输入图片说明](/imgs/2022-11-10/k8FjJKyqEawYo14e.png)
 
 
-27	还原被破坏的数据库，分析除技术员以外，还有哪个IP地址登录过管理后台网站？用该地址解压
+>27	还原被破坏的数据库，分析除技术员以外，还有哪个IP地址登录过管理后台网站？用该地址解压
 检材4
+>上面的xshell操作已经还原的被删除的数据库，
+
+
 28	还原全部被删改数据，用户id为500的注册会员的HT币钱包地址为
 29	还原全部被删改数据，共有多少名用户的会员等级为'LV3'
 30	还原全部被删改数据，哪些用户ID没有充值记录
 31	还原全部被删改数据，2022年10月17日总计产生多少笔交易记录？
 32	还原全部被删改数据，该网站中充值的USDT总额为
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTU3MzkzMjIsMTM5NDg5Njc2MSwxMj
-I5NjU5MDM3LC0xMTEyNjYyMDA0LC0xOTI4OTY5ODU2LC0xNjE1
-ODcxMzY0LC0xNDIzODUwOTc5LDU1MDI1OTgwOCwyODYwNzU4Mz
-ksMTE0NDQxNTIyOSwxMjM0NzU3MDY1LDgwNzM5MDA4NCwxMTA2
-NzE4NjMwLDE0MzE5MTY3NDgsLTQ1NTM3NzU5OSwtMjA4MDI1Nj
-kxNSwtNzI4MDU4NTAxLDE1MzIzMzA1MjMsMTI3ODA2MDg0Myw4
-NzMyNzQxNTZdfQ==
+eyJoaXN0b3J5IjpbMTI5MTM5MDU1NCwxMzk0ODk2NzYxLDEyMj
+k2NTkwMzcsLTExMTI2NjIwMDQsLTE5Mjg5Njk4NTYsLTE2MTU4
+NzEzNjQsLTE0MjM4NTA5NzksNTUwMjU5ODA4LDI4NjA3NTgzOS
+wxMTQ0NDE1MjI5LDEyMzQ3NTcwNjUsODA3MzkwMDg0LDExMDY3
+MTg2MzAsMTQzMTkxNjc0OCwtNDU1Mzc3NTk5LC0yMDgwMjU2OT
+E1LC03MjgwNTg1MDEsMTUzMjMzMDUyMywxMjc4MDYwODQzLDg3
+MzI3NDE1Nl19
 -->
