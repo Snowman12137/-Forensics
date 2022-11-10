@@ -308,14 +308,14 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 
 
 >39	上述录屏软件登录的手机号是	
->这个是sqlite数据库
+>这个是sqlite数据库，没有用过，看复盘说要导出record.db和record.db-wal文件，后者是一个预写日志
 
 
 >40	检材4中，发送勒索邮件的邮箱地址为	
 >
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzI5MzI1LDc4MTA4NDg4NiwtMTc0MD
+eyJoaXN0b3J5IjpbODg0MjUyNTY2LDc4MTA4NDg4NiwtMTc0MD
 AzOTMwNyw5MDA2MDg3NDUsLTE3NTAyMDIyMTMsMTk4MTc4MTE2
 MiwtMTA0OTE2MzgxMywxODU1NDMxMzEsLTEwMzUzMDg1NjMsMT
 I5MTM5MDU1NCwxMzk0ODk2NzYxLDEyMjk2NTkwMzcsLTExMTI2
