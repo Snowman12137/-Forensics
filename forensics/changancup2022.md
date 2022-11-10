@@ -209,6 +209,7 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 >![输入图片说明](/imgs/2022-11-10/k8FjJKyqEawYo14e.png)
 
 
+### 数据库恢复并链接
 >27	还原被破坏的数据库，分析除技术员以外，还有哪个IP地址登录过管理后台网站？用该地址解压
 检材4
 >查看b1数据库两种方法，一种是恢复原数据库，另一种是用脚本恢复
@@ -217,7 +218,8 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 >![输入图片说明](/imgs/2022-11-10/IE1xAoewsfD8sTHF.png)
 >然后我们docker ps一下，发现docker中MySQL的端口映射到了主机33050
 >![输入图片说明](/imgs/2022-11-10/4n3UueRt8oXq9Mvw.png)
->打开数据库编辑软件，我用的是Navicat，
+>打开数据库编辑软件，我用的是Navicat，然后填写设置，别忘了密码是shhl7001，然后就链接上了（别忘了启动docker！！！）
+>![输入图片说明](/imgs/2022-11-10/WACgv390MzO2bTup.png)
 
 
 28	还原全部被删改数据，用户id为500的注册会员的HT币钱包地址为
@@ -226,11 +228,11 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 31	还原全部被删改数据，2022年10月17日总计产生多少笔交易记录？
 32	还原全部被删改数据，该网站中充值的USDT总额为
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNTMyMDM1MiwxMjkxMzkwNTU0LDEzOT
-Q4OTY3NjEsMTIyOTY1OTAzNywtMTExMjY2MjAwNCwtMTkyODk2
-OTg1NiwtMTYxNTg3MTM2NCwtMTQyMzg1MDk3OSw1NTAyNTk4MD
-gsMjg2MDc1ODM5LDExNDQ0MTUyMjksMTIzNDc1NzA2NSw4MDcz
-OTAwODQsMTEwNjcxODYzMCwxNDMxOTE2NzQ4LC00NTUzNzc1OT
-ksLTIwODAyNTY5MTUsLTcyODA1ODUwMSwxNTMyMzMwNTIzLDEy
-NzgwNjA4NDNdfQ==
+eyJoaXN0b3J5IjpbLTM0Mjg1OTI3LDEyOTEzOTA1NTQsMTM5ND
+g5Njc2MSwxMjI5NjU5MDM3LC0xMTEyNjYyMDA0LC0xOTI4OTY5
+ODU2LC0xNjE1ODcxMzY0LC0xNDIzODUwOTc5LDU1MDI1OTgwOC
+wyODYwNzU4MzksMTE0NDQxNTIyOSwxMjM0NzU3MDY1LDgwNzM5
+MDA4NCwxMTA2NzE4NjMwLDE0MzE5MTY3NDgsLTQ1NTM3NzU5OS
+wtMjA4MDI1NjkxNSwtNzI4MDU4NTAxLDE1MzIzMzA1MjMsMTI3
+ODA2MDg0M119
 -->
