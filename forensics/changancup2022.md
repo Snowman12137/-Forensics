@@ -298,19 +298,23 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 
 
 >37	检材4中，录屏软件安装时间为	
->可以看到模拟器里面有个软件叫录屏，但是解析里面没有，那就从包名入手，发现一个可疑的包，应该就是答案
+>可以看到模拟器里面有个软件叫录屏，但是解析里面没有，那就从包名入手，发现一个可疑的包，应该就是答案**2022/10/19 10:50:27**
 >![输入图片说明](/imgs/2022-11-10/xNtny40eknmB0yfR.png)![输入图片说明](/imgs/2022-11-10/uyolGqJPyMhQ3GpF.png)
-38	上述录屏软件中名为“s_20221019105129”的录像，在模拟器存储中对应的原始文件名为
+
+
+>38	上述录屏软件中名为“s_20221019105129”的录像，在模拟器存储中对应的原始文件名为
+
+
 39	上述录屏软件登录的手机号是	
 40	检材4中，发送勒索邮件的邮箱地址为	
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMzNDE2MzkxLDkwMDYwODc0NSwtMTc1MD
-IwMjIxMywxOTgxNzgxMTYyLC0xMDQ5MTYzODEzLDE4NTU0MzEz
-MSwtMTAzNTMwODU2MywxMjkxMzkwNTU0LDEzOTQ4OTY3NjEsMT
-IyOTY1OTAzNywtMTExMjY2MjAwNCwtMTkyODk2OTg1NiwtMTYx
-NTg3MTM2NCwtMTQyMzg1MDk3OSw1NTAyNTk4MDgsMjg2MDc1OD
-M5LDExNDQ0MTUyMjksMTIzNDc1NzA2NSw4MDczOTAwODQsMTEw
-NjcxODYzMF19
+eyJoaXN0b3J5IjpbLTE3NDAwMzkzMDcsOTAwNjA4NzQ1LC0xNz
+UwMjAyMjEzLDE5ODE3ODExNjIsLTEwNDkxNjM4MTMsMTg1NTQz
+MTMxLC0xMDM1MzA4NTYzLDEyOTEzOTA1NTQsMTM5NDg5Njc2MS
+wxMjI5NjU5MDM3LC0xMTEyNjYyMDA0LC0xOTI4OTY5ODU2LC0x
+NjE1ODcxMzY0LC0xNDIzODUwOTc5LDU1MDI1OTgwOCwyODYwNz
+U4MzksMTE0NDQxNTIyOSwxMjM0NzU3MDY1LDgwNzM5MDA4NCwx
+MTA2NzE4NjMwXX0=
 -->
