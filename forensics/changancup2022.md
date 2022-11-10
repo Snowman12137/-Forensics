@@ -215,7 +215,9 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 >第一种：恢复原数据库
 >上面的xshell操作已经还原的被删除的数据库，因为docker里的数据库被映射到主机的/data/mysql/db里面，所以把b1直接拖进去就行
 >![输入图片说明](/imgs/2022-11-10/IE1xAoewsfD8sTHF.png)
->
+>然后我们docker ps一下，发现docker中MySQL的端口映射到了主机33050
+>![输入图片说明](/imgs/2022-11-10/4n3UueRt8oXq9Mvw.png)
+>打开数据库编辑软件，我用的是Navicat，
 
 
 28	还原全部被删改数据，用户id为500的注册会员的HT币钱包地址为
@@ -224,7 +226,7 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 31	还原全部被删改数据，2022年10月17日总计产生多少笔交易记录？
 32	还原全部被删改数据，该网站中充值的USDT总额为
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMDU3Nzc0MCwxMjkxMzkwNTU0LDEzOT
+eyJoaXN0b3J5IjpbMTcyNTMyMDM1MiwxMjkxMzkwNTU0LDEzOT
 Q4OTY3NjEsMTIyOTY1OTAzNywtMTExMjY2MjAwNCwtMTkyODk2
 OTg1NiwtMTYxNTg3MTM2NCwtMTQyMzg1MDk3OSw1NTAyNTk4MD
 gsMjg2MDc1ODM5LDExNDQ0MTUyMjksMTIzNDc1NzA2NSw4MDcz
