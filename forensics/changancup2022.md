@@ -238,7 +238,7 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 >![输入图片说明](/imgs/2022-11-10/U4MwNfpewdEyK5iz.png)
 
 >30	还原全部被删改数据，哪些用户ID没有充值记录
->简单查一下，xuyaoyongdaoSELECT * FROM member_wallet WHERE balance =0;
+>简单查一下，需要用到聚合函数，SELECT * FROM member_wallet WHERE balance =0;
 >**318,989**
 >![输入图片说明](/imgs/2022-11-10/oLAQYBm9l1raBaTQ.png)
 
@@ -249,7 +249,7 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 
 >32	还原全部被删改数据，该网站中充值的USDT总额为
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzOTU1OTY3NSwtMTA0OTE2MzgxMywxOD
+eyJoaXN0b3J5IjpbMTk4MTc4MTE2MiwtMTA0OTE2MzgxMywxOD
 U1NDMxMzEsLTEwMzUzMDg1NjMsMTI5MTM5MDU1NCwxMzk0ODk2
 NzYxLDEyMjk2NTkwMzcsLTExMTI2NjIwMDQsLTE5Mjg5Njk4NT
 YsLTE2MTU4NzEzNjQsLTE0MjM4NTA5NzksNTUwMjU5ODA4LDI4
