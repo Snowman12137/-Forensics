@@ -266,7 +266,7 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 ![输入图片说明](/imgs/2022-11-10/0d6LFRILFJC1QAVh.png)
 应该是手机模拟器镜像，发现这个包还可以打开，
 ![输入图片说明](/imgs/2022-11-10/COkwfCEFiuNzrT2N.png)
-里面有一个conf_temp.ini文件，vmdk就是虚拟镜像文件，![输入图片说明](/imgs/2022-11-10/keRyGKGlZHe348Pi.png)
+里面有一个conf_temp.ini文件，vmdk就是虚拟镜像文件，正巧之前用过夜神模拟器，一看这个应该就是夜神了，下载夜神模拟器，看能不能打开这个![输入图片说明](/imgs/2022-11-10/keRyGKGlZHe348Pi.png)
 
 >33	嫌疑人使用的安卓模拟器软件名称是	
 34	检材4中，“老板”的阿里云账号是	
@@ -286,11 +286,11 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 39	上述录屏软件登录的手机号是	
 40	检材4中，发送勒索邮件的邮箱地址为	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzE2NTgzOTgsLTE3NTAyMDIyMTMsMT
-k4MTc4MTE2MiwtMTA0OTE2MzgxMywxODU1NDMxMzEsLTEwMzUz
-MDg1NjMsMTI5MTM5MDU1NCwxMzk0ODk2NzYxLDEyMjk2NTkwMz
-csLTExMTI2NjIwMDQsLTE5Mjg5Njk4NTYsLTE2MTU4NzEzNjQs
-LTE0MjM4NTA5NzksNTUwMjU5ODA4LDI4NjA3NTgzOSwxMTQ0ND
-E1MjI5LDEyMzQ3NTcwNjUsODA3MzkwMDg0LDExMDY3MTg2MzAs
-MTQzMTkxNjc0OF19
+eyJoaXN0b3J5IjpbMTkwNTEyNTUyMCwtMTc1MDIwMjIxMywxOT
+gxNzgxMTYyLC0xMDQ5MTYzODEzLDE4NTU0MzEzMSwtMTAzNTMw
+ODU2MywxMjkxMzkwNTU0LDEzOTQ4OTY3NjEsMTIyOTY1OTAzNy
+wtMTExMjY2MjAwNCwtMTkyODk2OTg1NiwtMTYxNTg3MTM2NCwt
+MTQyMzg1MDk3OSw1NTAyNTk4MDgsMjg2MDc1ODM5LDExNDQ0MT
+UyMjksMTIzNDc1NzA2NSw4MDczOTAwODQsMTEwNjcxODYzMCwx
+NDMxOTE2NzQ4XX0=
 -->
