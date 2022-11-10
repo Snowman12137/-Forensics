@@ -186,8 +186,12 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 第三步点击VMnet8，然后如下图配置，其中DHCP配置如下，然后点击确定
 ![输入图片说明](/imgs/2022-11-10/spyA6BrVyndeJGWK.png)
 ![输入图片说明](/imgs/2022-11-10/vUSiC2E5BgdBwTTn.png)
-第四步配置xun
+第四步配置虚拟机的Vmnet8网段然后启动
 ![输入图片说明](/imgs/2022-11-10/3wCfFmK7rXs2LIIc.png)
+第五步打开xshell，以检材三为例，只需要填写主机172.16.80
+![输入图片说明](/imgs/2022-11-10/m4HatyB4qthLbFnf.png)
+
+
 
 >25	勒索者在数据库中修改了多少个用户的手机号？
 >在检材三的/data/mysql/db目录下有一个.log的日志文件
@@ -201,7 +205,7 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 31	还原全部被删改数据，2022年10月17日总计产生多少笔交易记录？
 32	还原全部被删改数据，该网站中充值的USDT总额为
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1ODAwNjA2OCwtMTExMjY2MjAwNCwtMT
+eyJoaXN0b3J5IjpbMTY2Njk5NTYyNywtMTExMjY2MjAwNCwtMT
 kyODk2OTg1NiwtMTYxNTg3MTM2NCwtMTQyMzg1MDk3OSw1NTAy
 NTk4MDgsMjg2MDc1ODM5LDExNDQ0MTUyMjksMTIzNDc1NzA2NS
 w4MDczOTAwODQsMTEwNjcxODYzMCwxNDMxOTE2NzQ4LC00NTUz
