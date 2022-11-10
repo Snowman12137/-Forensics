@@ -271,6 +271,15 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 下载夜神以后有一个模拟器助手，打开，导入npbk包
 ![输入图片说明](/imgs/2022-11-10/M3hQp0I2hQQe9je2.png)
 
+>33	嫌疑人使用的安卓模拟器软件名称是	
+34	检材4中，“老板”的阿里云账号是	
+35	检材4中安装的VPN工具的软件名称是	
+36	上述VPN工具中记录的节点IP是	
+37	检材4中，录屏软件安装时间为	
+38	上述录屏软件中名为“s_20221019105129”的录像，在模拟器存储中对应的原始文件名为
+39	上述录屏软件登录的手机号是	
+40	检材4中，发送勒索邮件的邮箱地址为	
+
 
 >33	嫌疑人使用的安卓模拟器软件名称是	
 >夜神模拟器
@@ -284,26 +293,20 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 >![输入图片说明](/imgs/2022-11-10/E1IDb8WUrmZl3T45.png)
 
 >36	上述VPN工具中记录的节点IP是	
->
+>38.68.135.18
+>![输入图片说明](/imgs/2022-11-10/GZrLcUThmGIAtM56.png)
 37	检材4中，录屏软件安装时间为	
 38	上述录屏软件中名为“s_20221019105129”的录像，在模拟器存储中对应的原始文件名为
 39	上述录屏软件登录的手机号是	
 40	检材4中，发送勒索邮件的邮箱地址为	
 
->33	嫌疑人使用的安卓模拟器软件名称是	
-34	检材4中，“老板”的阿里云账号是	
-35	检材4中安装的VPN工具的软件名称是	
-36	上述VPN工具中记录的节点IP是	
-37	检材4中，录屏软件安装时间为	
-38	上述录屏软件中名为“s_20221019105129”的录像，在模拟器存储中对应的原始文件名为
-39	上述录屏软件登录的手机号是	
-40	检材4中，发送勒索邮件的邮箱地址为	
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDU0MzA1MzcsOTAwNjA4NzQ1LC0xNz
-UwMjAyMjEzLDE5ODE3ODExNjIsLTEwNDkxNjM4MTMsMTg1NTQz
-MTMxLC0xMDM1MzA4NTYzLDEyOTEzOTA1NTQsMTM5NDg5Njc2MS
-wxMjI5NjU5MDM3LC0xMTEyNjYyMDA0LC0xOTI4OTY5ODU2LC0x
-NjE1ODcxMzY0LC0xNDIzODUwOTc5LDU1MDI1OTgwOCwyODYwNz
-U4MzksMTE0NDQxNTIyOSwxMjM0NzU3MDY1LDgwNzM5MDA4NCwx
-MTA2NzE4NjMwXX0=
+eyJoaXN0b3J5IjpbMTU4OTk5MTg3NSw5MDA2MDg3NDUsLTE3NT
+AyMDIyMTMsMTk4MTc4MTE2MiwtMTA0OTE2MzgxMywxODU1NDMx
+MzEsLTEwMzUzMDg1NjMsMTI5MTM5MDU1NCwxMzk0ODk2NzYxLD
+EyMjk2NTkwMzcsLTExMTI2NjIwMDQsLTE5Mjg5Njk4NTYsLTE2
+MTU4NzEzNjQsLTE0MjM4NTA5NzksNTUwMjU5ODA4LDI4NjA3NT
+gzOSwxMTQ0NDE1MjI5LDEyMzQ3NTcwNjUsODA3MzkwMDg0LDEx
+MDY3MTg2MzBdfQ==
 -->
