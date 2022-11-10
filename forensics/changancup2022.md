@@ -178,7 +178,7 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 
 ### 如何让xshell链接到虚拟机
 为什么要链接？因为我们后面需要吧文件传入到检材一和检材三里面启动网站并恢复数据库文件，文件传输我们需要先用xshell连接到虚拟机，然后用xftp进行文件的传输，在连接前，我们需要配置一下虚拟机的设置。
-我们先看下几个虚拟机的
+我们先看下几个虚拟机的的网段是172.16.80.X。这个是B类子网IP172.16.X.X。C类子网我们比较熟悉了，是192.168.X.X。所以我们要genggaiyixia
 
 >25	勒索者在数据库中修改了多少个用户的手机号？
 >在检材三的/data/mysql/db目录下有一个.log的日志文件
@@ -192,7 +192,7 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 31	还原全部被删改数据，2022年10月17日总计产生多少笔交易记录？
 32	还原全部被删改数据，该网站中充值的USDT总额为
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNjk2MzgyOCwtMTExMjY2MjAwNCwtMT
+eyJoaXN0b3J5IjpbLTU2OTI4NzUzMCwtMTExMjY2MjAwNCwtMT
 kyODk2OTg1NiwtMTYxNTg3MTM2NCwtMTQyMzg1MDk3OSw1NTAy
 NTk4MDgsMjg2MDc1ODM5LDExNDQ0MTUyMjksMTIzNDc1NzA2NS
 w4MDczOTAwODQsMTEwNjcxODYzMCwxNDMxOTE2NzQ4LC00NTUz
