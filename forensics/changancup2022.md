@@ -526,9 +526,9 @@ os.system('pause')
 49	解锁第二关所使用的FLAG3值为
 50	解锁第三关所需的KEY值由ASCII可显示字符组成，请请分析获取该KEY值
 
-听说在检材二里面有APK，但是我没有找到，我是在网站页面的二维码里面下载的，启动服务器，主机登上172.16.80.133:3000（3000端口是用户，9090是管理后台），登上后台sh
+听说在检材二里面有APK，但是我没有找到，我是在网站页面的二维码里面下载的，启动服务器，主机登上172.16.80.133:3000（3000端口是用户，9090是管理后台），登上后台是这样子的
 ![输入图片说明](/imgs/2022-11-11/RLAfMrmCz4GgnZAK.png)
-
+扫描二维码下载到apk然后放到火眼里分析
 
 >46	恶意APK程序的包名为
 47	APK调用的权限包括
@@ -537,11 +537,11 @@ os.system('pause')
 50	解锁第三关所需的KEY值由ASCII可显示字符组成，请请分析获取该KEY值
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzOTgxMTA2OCwtMzgwODU1NDYwLDE1Nj
-AxMDk5MzAsMTU1MjkxNzYzOCwxNzk1Mzg3ODg0LC00MjUyMDQ0
-MTIsNzgxMDg0ODg2LC0xNzQwMDM5MzA3LDkwMDYwODc0NSwtMT
-c1MDIwMjIxMywxOTgxNzgxMTYyLC0xMDQ5MTYzODEzLDE4NTU0
-MzEzMSwtMTAzNTMwODU2MywxMjkxMzkwNTU0LDEzOTQ4OTY3Nj
-EsMTIyOTY1OTAzNywtMTExMjY2MjAwNCwtMTkyODk2OTg1Niwt
-MTYxNTg3MTM2NF19
+eyJoaXN0b3J5IjpbOTM2OTU5MDgwLC0zODA4NTU0NjAsMTU2MD
+EwOTkzMCwxNTUyOTE3NjM4LDE3OTUzODc4ODQsLTQyNTIwNDQx
+Miw3ODEwODQ4ODYsLTE3NDAwMzkzMDcsOTAwNjA4NzQ1LC0xNz
+UwMjAyMjEzLDE5ODE3ODExNjIsLTEwNDkxNjM4MTMsMTg1NTQz
+MTMxLC0xMDM1MzA4NTYzLDEyOTEzOTA1NTQsMTM5NDg5Njc2MS
+wxMjI5NjU5MDM3LC0xMTEyNjYyMDA0LC0xOTI4OTY5ODU2LC0x
+NjE1ODcxMzY0XX0=
 -->
