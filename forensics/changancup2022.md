@@ -333,22 +333,25 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 ![输入图片说明](/imgs/2022-11-11/NkH94uZbqMKjuBYG.png)
 用查壳看一下，是pyinstaller
 ![输入图片说明](/imgs/2022-11-11/DrbA3J3RAIZKoAIw.png)
+然后是解包，网上搜一下pyinstaller解包，然后根据步骤一步一步来，先下载pyinstxtractor，https://github.com/extremecoders-re/pyinstxtractor，然后到当前
+
+
 
 >41	分析加密程序，编译该加密程序使用的语言是
 >python
 
 >42	分析加密程序，它会加密哪些扩展名的文件？
-
+>
 
 43	分析加密程序，是通过什么算法对文件进行加密的？
 44	分析加密程序，其使用的非对称加密方式公钥后5位为？
 45	被加密文档中，FLAG1的值是
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MDEwOTkzMCwxNTUyOTE3NjM4LDE3OT
-UzODc4ODQsLTQyNTIwNDQxMiw3ODEwODQ4ODYsLTE3NDAwMzkz
-MDcsOTAwNjA4NzQ1LC0xNzUwMjAyMjEzLDE5ODE3ODExNjIsLT
-EwNDkxNjM4MTMsMTg1NTQzMTMxLC0xMDM1MzA4NTYzLDEyOTEz
-OTA1NTQsMTM5NDg5Njc2MSwxMjI5NjU5MDM3LC0xMTEyNjYyMD
-A0LC0xOTI4OTY5ODU2LC0xNjE1ODcxMzY0LC0xNDIzODUwOTc5
-LDU1MDI1OTgwOF19
+eyJoaXN0b3J5IjpbLTE4NDA5NDgwNzAsMTU2MDEwOTkzMCwxNT
+UyOTE3NjM4LDE3OTUzODc4ODQsLTQyNTIwNDQxMiw3ODEwODQ4
+ODYsLTE3NDAwMzkzMDcsOTAwNjA4NzQ1LC0xNzUwMjAyMjEzLD
+E5ODE3ODExNjIsLTEwNDkxNjM4MTMsMTg1NTQzMTMxLC0xMDM1
+MzA4NTYzLDEyOTEzOTA1NTQsMTM5NDg5Njc2MSwxMjI5NjU5MD
+M3LC0xMTEyNjYyMDA0LC0xOTI4OTY5ODU2LC0xNjE1ODcxMzY0
+LC0xNDIzODUwOTc5XX0=
 -->
