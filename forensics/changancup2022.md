@@ -510,12 +510,29 @@ os.system('pause')
 >**u+w==**
 
 >45	被加密文档中，FLAG1的值是
->在解密代码中，发现秘钥
+>在解密代码中，发现秘钥，然后把加密文档拖进去，输入秘钥，得到结果**TREFWGFS**
 >![输入图片说明](/imgs/2022-11-11/dpZGMMpWmnJ4qfYG.png)
 >![输入图片说明](/imgs/2022-11-11/9Qxb57JS9QDMJWkZ.png)
 >![输入图片说明](/imgs/2022-11-11/zoFoYNveWfdKElBe.png)
+
+
+##  apk解析
+
+>46	恶意APK程序的包名为
+47	APK调用的权限包括
+48	解锁第一关所使用的FLAG2值为
+49	解锁第二关所使用的FLAG3值为
+50	解锁第三关所需的KEY值由ASCII可显示字符组成，请请分析获取该KEY值
+
+
+>46	恶意APK程序的包名为
+47	APK调用的权限包括
+48	解锁第一关所使用的FLAG2值为
+49	解锁第二关所使用的FLAG3值为
+50	解锁第三关所需的KEY值由ASCII可显示字符组成，请请分析获取该KEY值
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MDMxOTI5OCwxNTYwMTA5OTMwLDE1NT
+eyJoaXN0b3J5IjpbLTM4MDg1NTQ2MCwxNTYwMTA5OTMwLDE1NT
 I5MTc2MzgsMTc5NTM4Nzg4NCwtNDI1MjA0NDEyLDc4MTA4NDg4
 NiwtMTc0MDAzOTMwNyw5MDA2MDg3NDUsLTE3NTAyMDIyMTMsMT
 k4MTc4MTE2MiwtMTA0OTE2MzgxMywxODU1NDMxMzEsLTEwMzUz
