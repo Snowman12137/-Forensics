@@ -341,6 +341,8 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 ![输入图片说明](/imgs/2022-11-11/NIGtYQcFCB6CaFfx.png)
 成功反编译出源文件，另一个EXE文件同理
 ![输入图片说明](/imgs/2022-11-11/rnVGMlTQl9HELh58.png)
+(代码粘过来会很乱，jiubuzhan)
+
 
 >41	分析加密程序，编译该加密程序使用的语言是
 >python
@@ -352,7 +354,7 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 44	分析加密程序，其使用的非对称加密方式公钥后5位为？
 45	被加密文档中，FLAG1的值是
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMTUwNDA4OSwxNTYwMTA5OTMwLDE1NT
+eyJoaXN0b3J5IjpbMjAzNjQ0MjEyMSwxNTYwMTA5OTMwLDE1NT
 I5MTc2MzgsMTc5NTM4Nzg4NCwtNDI1MjA0NDEyLDc4MTA4NDg4
 NiwtMTc0MDAzOTMwNyw5MDA2MDg3NDUsLTE3NTAyMDIyMTMsMT
 k4MTc4MTE2MiwtMTA0OTE2MzgxMywxODU1NDMxMzEsLTEwMzUz
