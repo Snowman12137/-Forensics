@@ -334,8 +334,11 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 用查壳看一下，是pyinstaller
 ![输入图片说明](/imgs/2022-11-11/DrbA3J3RAIZKoAIw.png)
 然后是解包，网上搜一下pyinstaller解包，然后根据步骤一步一步来，先下载pyinstxtractor，https://github.com/extremecoders-re/pyinstxtractor，然后到当前.exe文件打开cmd，然后输入python pyinstxtractor.py decrypt_file.exe，![输入图片说明](/imgs/2022-11-11/ZfmUyNHbFfBDslIH.png)
-成功截图，然后会生成一个decrypt_file.exe_extracted的文件，文件里面有一个decrypt_file_1.pyc文件，我们需要把这个文件反编译。先pip install uncompyle6,然后cmd到decrypt_file_1.pyc目录下，输入
-
+成功截图，然后会生成一个decrypt_file.exe_extracted的文件，文件里面有一个decrypt_file_1.pyc文件，我们需要把这个文件反编译。先,
+```pip install uncompyle6```
+然后cmd到decrypt_file_1.pyc目录下，输入
+```uncompyle6 decrypt_file_1.pyc > demo.py```
+![输入图片说明](/imgs/2022-11-11/NIGtYQcFCB6CaFfx.png)
 
 
 >41	分析加密程序，编译该加密程序使用的语言是
@@ -348,11 +351,11 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 44	分析加密程序，其使用的非对称加密方式公钥后5位为？
 45	被加密文档中，FLAG1的值是
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMjkxMjUwNCwxNTYwMTA5OTMwLDE1NT
-I5MTc2MzgsMTc5NTM4Nzg4NCwtNDI1MjA0NDEyLDc4MTA4NDg4
-NiwtMTc0MDAzOTMwNyw5MDA2MDg3NDUsLTE3NTAyMDIyMTMsMT
-k4MTc4MTE2MiwtMTA0OTE2MzgxMywxODU1NDMxMzEsLTEwMzUz
-MDg1NjMsMTI5MTM5MDU1NCwxMzk0ODk2NzYxLDEyMjk2NTkwMz
-csLTExMTI2NjIwMDQsLTE5Mjg5Njk4NTYsLTE2MTU4NzEzNjQs
-LTE0MjM4NTA5NzldfQ==
+eyJoaXN0b3J5IjpbLTE3NjgxODM0MTcsMTU2MDEwOTkzMCwxNT
+UyOTE3NjM4LDE3OTUzODc4ODQsLTQyNTIwNDQxMiw3ODEwODQ4
+ODYsLTE3NDAwMzkzMDcsOTAwNjA4NzQ1LC0xNzUwMjAyMjEzLD
+E5ODE3ODExNjIsLTEwNDkxNjM4MTMsMTg1NTQzMTMxLC0xMDM1
+MzA4NTYzLDEyOTEzOTA1NTQsMTM5NDg5Njc2MSwxMjI5NjU5MD
+M3LC0xMTEyNjYyMDA0LC0xOTI4OTY5ODU2LC0xNjE1ODcxMzY0
+LC0xNDIzODUwOTc5XX0=
 -->
