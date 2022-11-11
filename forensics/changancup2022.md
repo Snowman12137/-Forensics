@@ -526,8 +526,8 @@ os.system('pause')
 49	解锁第二关所使用的FLAG3值为
 50	解锁第三关所需的KEY值由ASCII可显示字符组成，请请分析获取该KEY值
 
-听说在检材二里面有APK，但是我没有找到，我是在网站页面的二维码里面xiaza
-
+听说在检材二里面有APK，但是我没有找到，我是在网站页面的二维码里面下载的，启动服务器，主机登上172.16.80.133:3000（3000端口是用户，9090是管理后台），登上后台sh
+![输入图片说明](/imgs/2022-11-11/RLAfMrmCz4GgnZAK.png)
 
 
 >46	恶意APK程序的包名为
@@ -537,7 +537,7 @@ os.system('pause')
 50	解锁第三关所需的KEY值由ASCII可显示字符组成，请请分析获取该KEY值
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2ODE1NTQyMCwtMzgwODU1NDYwLDE1Nj
+eyJoaXN0b3J5IjpbMTUzOTgxMTA2OCwtMzgwODU1NDYwLDE1Nj
 AxMDk5MzAsMTU1MjkxNzYzOCwxNzk1Mzg3ODg0LC00MjUyMDQ0
 MTIsNzgxMDg0ODg2LC0xNzQwMDM5MzA3LDkwMDYwODc0NSwtMT
 c1MDIwMjIxMywxOTgxNzgxMTYyLC0xMDQ5MTYzODEzLDE4NTU0
