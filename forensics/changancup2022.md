@@ -329,8 +329,10 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 
 之前在材料二里面的
 
-首先是查壳，这个用IDEA只能查出来是C++编译，这里一个比较好用的工具是Die，下载链接如下https://www.ghxi.com/die.html，（其实一看就是）
+首先是查壳，这个用IDEA只能查出来是C++编译，这里一个比较好用的工具是Die，下载链接如下https://www.ghxi.com/die.html，（其实一看就是python的编译），
 ![输入图片说明](/imgs/2022-11-11/NkH94uZbqMKjuBYG.png)
+用查壳看一下，shi
+![输入图片说明](/imgs/2022-11-11/DrbA3J3RAIZKoAIw.png)
 
 >41	分析加密程序，编译该加密程序使用的语言是
 42	分析加密程序，它会加密哪些扩展名的文件？
@@ -338,11 +340,11 @@ SHA256:37263f0aace3e33e7f303473e85e69ef804eb16a2500b68a
 44	分析加密程序，其使用的非对称加密方式公钥后5位为？
 45	被加密文档中，FLAG1的值是
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTE3NTExMjIsMTc5NTM4Nzg4NCwtND
-I1MjA0NDEyLDc4MTA4NDg4NiwtMTc0MDAzOTMwNyw5MDA2MDg3
-NDUsLTE3NTAyMDIyMTMsMTk4MTc4MTE2MiwtMTA0OTE2MzgxMy
-wxODU1NDMxMzEsLTEwMzUzMDg1NjMsMTI5MTM5MDU1NCwxMzk0
-ODk2NzYxLDEyMjk2NTkwMzcsLTExMTI2NjIwMDQsLTE5Mjg5Nj
-k4NTYsLTE2MTU4NzEzNjQsLTE0MjM4NTA5NzksNTUwMjU5ODA4
-LDI4NjA3NTgzOV19
+eyJoaXN0b3J5IjpbOTQ0Nzk3NDM0LDE3OTUzODc4ODQsLTQyNT
+IwNDQxMiw3ODEwODQ4ODYsLTE3NDAwMzkzMDcsOTAwNjA4NzQ1
+LC0xNzUwMjAyMjEzLDE5ODE3ODExNjIsLTEwNDkxNjM4MTMsMT
+g1NTQzMTMxLC0xMDM1MzA4NTYzLDEyOTEzOTA1NTQsMTM5NDg5
+Njc2MSwxMjI5NjU5MDM3LC0xMTEyNjYyMDA0LC0xOTI4OTY5OD
+U2LC0xNjE1ODcxMzY0LC0xNDIzODUwOTc5LDU1MDI1OTgwOCwy
+ODYwNzU4MzldfQ==
 -->
