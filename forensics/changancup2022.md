@@ -502,18 +502,20 @@ os.system('pause')
 >![输入图片说明](/imgs/2022-11-11/gukq0Mddq4zBtlw5.png)
 
 >43	分析加密程序，是通过什么算法对文件进行加密的？
->真正加密的是XORCBC函数，再看一下是一个用异或的函数
+>真正加密的是XORCBC函数，再看一下是一个用**异或**加密的类
 >![输入图片说明](/imgs/2022-11-11/zGHUGrzmNgsLuaKk.png)
 >![输入图片说明](/imgs/2022-11-11/GSHHig8JOld0GDZS.png)
 
-44	分析加密程序，其使用的非对称加密方式公钥后5位为？
-45	被加密文档中，FLAG1的值是
+>44	分析加密程序，其使用的非对称加密方式公钥后5位为？
+>**u+w==**
+
+>45	被加密文档中，FLAG1的值是
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzA1ODc4NDAsMTU2MDEwOTkzMCwxNT
-UyOTE3NjM4LDE3OTUzODc4ODQsLTQyNTIwNDQxMiw3ODEwODQ4
-ODYsLTE3NDAwMzkzMDcsOTAwNjA4NzQ1LC0xNzUwMjAyMjEzLD
-E5ODE3ODExNjIsLTEwNDkxNjM4MTMsMTg1NTQzMTMxLC0xMDM1
-MzA4NTYzLDEyOTEzOTA1NTQsMTM5NDg5Njc2MSwxMjI5NjU5MD
-M3LC0xMTEyNjYyMDA0LC0xOTI4OTY5ODU2LC0xNjE1ODcxMzY0
-LC0xNDIzODUwOTc5XX0=
+eyJoaXN0b3J5IjpbMjM2Mjk4NjA1LDE1NjAxMDk5MzAsMTU1Mj
+kxNzYzOCwxNzk1Mzg3ODg0LC00MjUyMDQ0MTIsNzgxMDg0ODg2
+LC0xNzQwMDM5MzA3LDkwMDYwODc0NSwtMTc1MDIwMjIxMywxOT
+gxNzgxMTYyLC0xMDQ5MTYzODEzLDE4NTU0MzEzMSwtMTAzNTMw
+ODU2MywxMjkxMzkwNTU0LDEzOTQ4OTY3NjEsMTIyOTY1OTAzNy
+wtMTExMjY2MjAwNCwtMTkyODk2OTg1NiwtMTYxNTg3MTM2NCwt
+MTQyMzg1MDk3OV19
 -->
