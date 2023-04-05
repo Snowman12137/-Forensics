@@ -24,10 +24,17 @@
 > ![输入图片说明](/imgs/2023-04-05/9vh8CxSBhOdGoQYG.png)
 
 
-2.1.1
+>2.1.1
+>每个流程一个图（6个）
+
+>2.2 
+>项目总体图
+
+
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MzY1MTIyM119
+eyJoaXN0b3J5IjpbLTE4NzI5Mjk2NzBdfQ==
 -->
